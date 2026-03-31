@@ -1,0 +1,1001 @@
+job_id,job_title,company,location,experience_level,salary_inr,skills_required,date_posted,remote,industry
+JOB00001,AI Engineer,Freshworks,Kolkata,Entry,313112,"NLP, Vector Databases, PyTorch, LLMs, Python, Computer Vision",2022-06-28,Yes,IT
+JOB00002,Machine Learning Engineer,TechCorp India,Hyderabad,Mid,943962,"Deep Learning, Python, Azure, Scikit-learn, CI/CD, MLOps, Model Deployment, AWS",2023-07-24,Hybrid,E-commerce
+JOB00003,Frontend Developer,Microsoft India,Gurgaon,Senior,1826064,"CSS, React, GraphQL, Angular, JavaScript",2024-01-06,No,IT
+JOB00004,Business Intelligence Analyst,Freshworks,Chennai,Lead,3624551,"Business Analysis, Tableau, Data Modeling, Power BI",2024-01-11,Hybrid,IT
+JOB00005,Data Scientist,Swiggy,Delhi NCR,Mid,1003445,"Big Data, TensorFlow, Machine Learning, Statistics",2023-07-24,Yes,Healthcare
+JOB00006,Frontend Developer,Byju's,Chennai,Mid,1402729,"React, Vue.js, Angular, Webpack, Redux, CSS",2023-07-07,Hybrid,Healthcare
+JOB00007,Cybersecurity Analyst,Freshworks,Delhi NCR,Entry,420087,"Firewalls, Penetration Testing, SIEM, Network Security",2023-03-09,Yes,Fintech
+JOB00008,DevOps Engineer,Freshworks,Kolkata,Lead,3848158,"AWS, GCP, Monitoring, Azure, Bash Scripting, CI/CD, Terraform",2024-05-27,No,Finance
+JOB00009,Data Analyst,Flipkart,Gurgaon,Principal,5569955,"SQL, Excel, Python, Statistics",2022-11-24,Yes,E-commerce
+JOB00010,Full Stack Developer,Oracle India,Kolkata,Principal,5463143,"SQL, REST APIs, JavaScript, Python, MongoDB, CSS, React, Docker",2022-08-17,Yes,E-commerce
+JOB00011,Data Scientist,Zoho,Chennai,Senior,2549805,"Pandas, Machine Learning, Scikit-learn, PyTorch, Data Visualization",2024-11-05,Yes,Healthcare
+JOB00012,Product Manager,Accenture,Gurgaon,Mid,1265579,"Product Strategy, User Research, Data Analysis, Communication, A/B Testing, Scrum, Agile, SQL",2022-04-29,Yes,IT
+JOB00013,Business Intelligence Analyst,Byju's,Chennai,Lead,2645149,"Power BI, Statistics, ETL, Excel, Data Modeling, Tableau, Business Analysis, Python",2023-03-10,Hybrid,Healthcare
+JOB00014,Full Stack Developer,TechCorp India,Mumbai,Senior,2418762,"AWS, Python, Node.js, REST APIs, JavaScript, React, Docker, HTML",2023-03-28,Hybrid,Fintech
+JOB00015,Data Scientist,IBM India,Ahmedabad,Mid,770674,"Big Data, SQL, Machine Learning, Pandas",2023-05-03,Yes,EdTech
+JOB00016,Data Analyst,Flipkart,Kolkata,Principal,5916806,"Tableau, Pandas, Data Visualization, Excel, SQL, Statistics, Business Intelligence",2023-12-27,No,Fintech
+JOB00017,Data Scientist,HCL Technologies,Kolkata,Entry,331778,"NLP, SQL, Data Visualization, Machine Learning, TensorFlow, Scikit-learn, NumPy",2024-07-07,Yes,Healthcare
+JOB00018,DevOps Engineer,Flipkart,Ahmedabad,Mid,779046,"Ansible, Kubernetes, Docker, Monitoring, Linux, Terraform, Bash Scripting",2022-12-07,No,Finance
+JOB00019,Cybersecurity Analyst,Flipkart,Noida,Lead,2622967,"Incident Response, Network Security, Penetration Testing, SIEM, Firewalls",2023-08-08,Hybrid,Fintech
+JOB00020,DevOps Engineer,Infosys,Bangalore,Mid,899122,"Azure, Docker, Linux, Ansible, Bash Scripting, CI/CD",2023-10-05,Hybrid,E-commerce
+JOB00021,Cloud Architect,Accenture,Kolkata,Principal,4160320,"Networking, Azure, GCP, AWS",2022-05-20,Yes,EdTech
+JOB00022,Software Engineer,Capgemini,Delhi NCR,Principal,5993594,"Agile, Python, Microservices, REST APIs",2023-06-19,Yes,Healthcare
+JOB00023,Full Stack Developer,TCS,Noida,Mid,1404318,"AWS, MongoDB, Python, JavaScript, Node.js, SQL",2022-07-24,Yes,EdTech
+JOB00024,Backend Developer,Byju's,Pune,Mid,1065962,"Django, Flask, FastAPI, Node.js",2024-06-16,Hybrid,Fintech
+JOB00025,Cloud Architect,Zoho,Chennai,Entry,650152,"Terraform, Azure, GCP, Security, AWS, Microservices, Networking, Kubernetes",2023-08-01,Hybrid,Healthcare
+JOB00026,Software Engineer,Amazon India,Hyderabad,Senior,2559919,"Spring Boot, Java, Python, Microservices, SQL, C++, Agile",2022-01-08,Hybrid,Healthcare
+JOB00027,Data Analyst,Freshworks,Noida,Lead,3656957,"R, SQL, Excel, Business Intelligence, Statistics, Pandas, Data Visualization",2024-01-27,Yes,E-commerce
+JOB00028,Data Analyst,Byju's,Kolkata,Entry,461616,"SQL, Statistics, Tableau, R, Excel, Business Intelligence",2023-12-26,Hybrid,Fintech
+JOB00029,Data Analyst,Accenture,Pune,Mid,870395,"Data Visualization, SQL, Python, Statistics, Pandas",2024-04-23,Yes,Fintech
+JOB00030,Machine Learning Engineer,Capgemini,Kolkata,Lead,2581211,"Scikit-learn, REST APIs, AWS, Kubernetes, Docker, FastAPI, Azure",2022-02-18,No,Healthcare
+JOB00031,Cybersecurity Analyst,Cognizant,Gurgaon,Entry,446341,"Incident Response, Firewalls, Ethical Hacking, SIEM, Network Security, Penetration Testing",2023-06-19,No,IT
+JOB00032,Machine Learning Engineer,Google India,Gurgaon,Principal,5322692,"CI/CD, FastAPI, Kubernetes, MLOps, Deep Learning, Azure",2022-08-25,Yes,Healthcare
+JOB00033,Data Scientist,Amazon India,Gurgaon,Lead,2503546,"Spark, Data Visualization, Pandas, Scikit-learn, NLP, TensorFlow, SQL, Statistics",2022-05-24,No,Fintech
+JOB00034,Cybersecurity Analyst,Byju's,Hyderabad,Entry,677358,"Ethical Hacking, Firewalls, Penetration Testing, SIEM, Incident Response, OWASP",2023-08-29,Yes,E-commerce
+JOB00035,AI Engineer,Oracle India,Chennai,Lead,3920438,"Vector Databases, Computer Vision, Prompt Engineering, LangChain, Python",2023-09-15,No,EdTech
+JOB00036,Data Engineer,TCS,Pune,Senior,2475150,"Snowflake, Databricks, SQL, ETL, dbt, AWS, Kafka",2022-12-14,Hybrid,Fintech
+JOB00037,AI Engineer,HCL Technologies,Bangalore,Principal,4905881,"NLP, Computer Vision, Vector Databases, Prompt Engineering",2023-02-12,Yes,Finance
+JOB00038,DevOps Engineer,HCL Technologies,Bangalore,Principal,3805463,"Jenkins, Bash Scripting, Linux, Azure, Monitoring, Ansible, Terraform",2023-05-15,Yes,E-commerce
+JOB00039,Software Engineer,Paytm,Noida,Mid,1429716,"SQL, Java, Git, JavaScript, Microservices, Agile, Docker, Python",2024-08-09,Hybrid,Healthcare
+JOB00040,Product Manager,Paytm,Ahmedabad,Lead,3784825,"Roadmapping, A/B Testing, Agile, User Research, Data Analysis, SQL, Communication, Product Strategy",2023-07-22,Hybrid,Finance
+JOB00041,Backend Developer,Accenture,Kolkata,Lead,2662494,"Django, FastAPI, Flask, Redis, Java, SQL",2022-11-05,Hybrid,Finance
+JOB00042,Business Intelligence Analyst,Google India,Gurgaon,Mid,767348,"Business Analysis, ETL, Data Modeling, Excel, Python, SQL, Statistics",2024-05-10,Hybrid,IT
+JOB00043,Cybersecurity Analyst,Accenture,Pune,Principal,5095433,"Network Security, SIEM, Incident Response, Penetration Testing, Ethical Hacking, Firewalls, OWASP",2024-09-26,No,E-commerce
+JOB00044,Data Scientist,Freshworks,Gurgaon,Lead,3204914,"NLP, Deep Learning, R, Big Data, NumPy, Pandas, Python",2024-03-17,Hybrid,IT
+JOB00045,Machine Learning Engineer,Amazon India,Kolkata,Lead,2784582,"PyTorch, Python, Docker, MLOps, Kubernetes, Scikit-learn, AWS",2023-11-01,No,E-commerce
+JOB00046,Backend Developer,TCS,Bangalore,Entry,546576,"AWS, MongoDB, Python, Flask",2023-04-05,Yes,Finance
+JOB00047,Software Engineer,Swiggy,Pune,Entry,625758,"JavaScript, C++, SQL, Python, Spring Boot",2023-03-23,No,Finance
+JOB00048,Data Engineer,Google India,Chennai,Principal,3980385,"Airflow, Spark, Big Data, Python, dbt",2024-02-08,Yes,EdTech
+JOB00049,Business Intelligence Analyst,Paytm,Delhi NCR,Mid,806851,"Tableau, SQL, Power BI, Data Modeling, Excel, Business Analysis",2022-05-22,Yes,E-commerce
+JOB00050,Cybersecurity Analyst,Swiggy,Kolkata,Lead,2721331,"Firewalls, OWASP, Penetration Testing, Python, Incident Response, Network Security, Ethical Hacking",2024-09-17,Hybrid,EdTech
+JOB00051,Backend Developer,Amazon India,Bangalore,Senior,2014840,"FastAPI, SQL, Django, Docker",2024-02-16,No,Healthcare
+JOB00052,Data Analyst,Paytm,Chennai,Lead,2944847,"Power BI, Statistics, Business Intelligence, Pandas, R, Python",2022-01-21,Yes,Finance
+JOB00053,Business Intelligence Analyst,Accenture,Kolkata,Lead,3524622,"Excel, Python, ETL, Business Analysis, Statistics, Data Modeling, SQL, Power BI",2023-08-26,Hybrid,Finance
+JOB00054,Backend Developer,IBM India,Pune,Principal,5047783,"MongoDB, AWS, Flask, REST APIs, Redis, Node.js, SQL",2024-07-18,No,Finance
+JOB00055,Machine Learning Engineer,Capgemini,Ahmedabad,Mid,1030876,"CI/CD, Azure, REST APIs, PyTorch",2023-01-28,No,Fintech
+JOB00056,Data Engineer,Oracle India,Bangalore,Principal,4686982,"SQL, Airflow, dbt, Kafka",2023-01-03,Hybrid,EdTech
+JOB00057,Data Analyst,Wipro,Bangalore,Senior,1595453,"R, Power BI, Python, Statistics",2024-10-02,Hybrid,Healthcare
+JOB00058,DevOps Engineer,Google India,Ahmedabad,Lead,3423730,"AWS, Docker, GCP, Terraform, Kubernetes, Jenkins",2022-05-14,Yes,EdTech
+JOB00059,AI Engineer,Zoho,Gurgaon,Entry,379548,"Vector Databases, Computer Vision, TensorFlow, OpenAI API, Python",2024-05-02,Hybrid,Finance
+JOB00060,Product Manager,Zoho,Mumbai,Principal,5095421,"A/B Testing, SQL, Roadmapping, Communication, Data Analysis, Scrum, User Research",2022-05-04,Yes,Fintech
+JOB00061,Software Engineer,Flipkart,Ahmedabad,Senior,1670262,"JavaScript, C++, Git, Python, SQL",2022-01-06,Hybrid,EdTech
+JOB00062,DevOps Engineer,Freshworks,Chennai,Senior,1568450,"GCP, Monitoring, Terraform, Kubernetes, Azure",2023-06-26,No,IT
+JOB00063,Cloud Architect,Zoho,Gurgaon,Mid,1379094,"Terraform, GCP, Azure, AWS, Security",2023-09-22,No,E-commerce
+JOB00064,Machine Learning Engineer,TCS,Gurgaon,Lead,3944262,"CI/CD, MLOps, Docker, Azure, Model Deployment, AWS",2024-06-15,Yes,E-commerce
+JOB00065,Business Intelligence Analyst,Freshworks,Bangalore,Senior,2766079,"SQL, Tableau, Python, ETL, Data Modeling, Statistics",2023-07-06,Yes,E-commerce
+JOB00066,Cloud Architect,Flipkart,Delhi NCR,Lead,3083336,"Cost Optimization, Docker, Security, AWS, Kubernetes",2023-12-14,No,Fintech
+JOB00067,Machine Learning Engineer,TCS,Delhi NCR,Mid,1045824,"CI/CD, AWS, Docker, Model Deployment, MLOps, Azure, Python",2024-07-20,No,Healthcare
+JOB00068,Machine Learning Engineer,Capgemini,Noida,Lead,3579186,"Model Deployment, Azure, AWS, MLOps",2022-04-22,No,EdTech
+JOB00069,Product Manager,Wipro,Bangalore,Lead,3811577,"Product Strategy, Data Analysis, Scrum, SQL, Agile, Roadmapping, User Research",2024-09-19,Hybrid,EdTech
+JOB00070,Product Manager,Wipro,Ahmedabad,Mid,1444261,"SQL, Product Strategy, Communication, Data Analysis, A/B Testing",2023-04-06,Yes,Fintech
+JOB00071,Cybersecurity Analyst,Google India,Chennai,Mid,1222584,"Ethical Hacking, Penetration Testing, Incident Response, Firewalls, Python, OWASP",2022-10-24,Hybrid,EdTech
+JOB00072,Business Intelligence Analyst,Oracle India,Gurgaon,Mid,773201,"Business Analysis, ETL, Statistics, Data Modeling, Power BI, SQL",2023-08-03,Hybrid,Fintech
+JOB00073,DevOps Engineer,Freshworks,Kolkata,Mid,1168238,"Terraform, CI/CD, Bash Scripting, Ansible, Jenkins, Azure, AWS, Kubernetes",2023-05-05,Yes,E-commerce
+JOB00074,Data Scientist,Paytm,Gurgaon,Senior,2491903,"Statistics, Scikit-learn, Data Visualization, Big Data, Deep Learning, R, Python",2022-09-16,No,IT
+JOB00075,Cybersecurity Analyst,IBM India,Delhi NCR,Lead,2709110,"OWASP, Network Security, Firewalls, Python, Penetration Testing, SIEM, Incident Response, Ethical Hacking",2024-08-19,Hybrid,Fintech
+JOB00076,Full Stack Developer,TCS,Kolkata,Entry,472262,"Docker, MongoDB, AWS, JavaScript, SQL, REST APIs, Python, React",2023-04-11,Yes,Fintech
+JOB00077,Business Intelligence Analyst,Microsoft India,Delhi NCR,Entry,532615,"Data Modeling, SQL, Python, Power BI, Business Analysis",2023-08-24,No,Finance
+JOB00078,Software Engineer,Freshworks,Hyderabad,Principal,5228270,"Docker, C++, Agile, Git, Java, Spring Boot, JavaScript, Python",2024-10-16,Yes,E-commerce
+JOB00079,AI Engineer,Swiggy,Delhi NCR,Senior,2463789,"Python, OpenAI API, Computer Vision, LLMs, LangChain, TensorFlow",2022-06-01,Hybrid,Healthcare
+JOB00080,AI Engineer,Google India,Gurgaon,Lead,3947692,"OpenAI API, Computer Vision, NLP, Vector Databases, Prompt Engineering, Python",2023-05-01,No,EdTech
+JOB00081,Backend Developer,Zoho,Delhi NCR,Senior,1546010,"FastAPI, Python, Redis, Docker, SQL, REST APIs, Node.js",2023-04-17,Yes,Fintech
+JOB00082,Software Engineer,Infosys,Gurgaon,Principal,4551204,"Docker, Python, Java, Spring Boot, Microservices",2024-06-21,No,Fintech
+JOB00083,Data Analyst,Paytm,Pune,Entry,454722,"Data Visualization, Python, Tableau, Excel, Power BI, R",2024-12-23,Yes,Healthcare
+JOB00084,NLP Engineer,TCS,Kolkata,Lead,3118956,"NLP, NLTK, Text Processing, Deep Learning, SpaCy, BERT",2024-01-20,Yes,Healthcare
+JOB00085,Cloud Architect,TechCorp India,Gurgaon,Entry,538438,"Terraform, Docker, Microservices, AWS, Security, Azure",2024-08-23,Hybrid,Healthcare
+JOB00086,NLP Engineer,Infosys,Bangalore,Principal,4428481,"NLTK, Transformers, SpaCy, Python",2022-10-14,No,E-commerce
+JOB00087,Machine Learning Engineer,Zomato,Gurgaon,Entry,423102,"PyTorch, MLOps, AWS, Kubernetes, Azure, FastAPI, REST APIs, Scikit-learn",2022-07-22,No,Healthcare
+JOB00088,Data Scientist,Infosys,Kolkata,Senior,1955647,"R, TensorFlow, SQL, Machine Learning, Scikit-learn, Data Visualization, Pandas",2024-01-05,No,Finance
+JOB00089,Machine Learning Engineer,Accenture,Hyderabad,Lead,2692253,"Model Deployment, REST APIs, Deep Learning, Python, FastAPI",2023-11-15,Hybrid,Finance
+JOB00090,Machine Learning Engineer,HCL Technologies,Noida,Principal,4368880,"Scikit-learn, REST APIs, Kubernetes, PyTorch, Deep Learning, Python, Docker, MLOps",2022-10-24,No,Finance
+JOB00091,Machine Learning Engineer,TechCorp India,Hyderabad,Entry,369102,"Kubernetes, FastAPI, Scikit-learn, Deep Learning",2023-10-26,No,IT
+JOB00092,Data Analyst,Paytm,Gurgaon,Lead,3603281,"Excel, Pandas, R, Data Visualization",2024-01-12,Yes,E-commerce
+JOB00093,Cloud Architect,Infosys,Ahmedabad,Mid,1344986,"Networking, Terraform, Security, Microservices",2022-03-05,No,E-commerce
+JOB00094,AI Engineer,Zoho,Gurgaon,Entry,557042,"TensorFlow, Vector Databases, LLMs, Computer Vision, LangChain, Python, OpenAI API",2023-07-18,Hybrid,Fintech
+JOB00095,Frontend Developer,Accenture,Kolkata,Lead,3752821,"HTML, Redux, TypeScript, JavaScript, CSS, GraphQL, React, Angular",2024-07-13,No,E-commerce
+JOB00096,Full Stack Developer,TCS,Mumbai,Lead,2699409,"Docker, MongoDB, SQL, HTML, Python, AWS",2024-08-29,Yes,IT
+JOB00097,Full Stack Developer,Microsoft India,Kolkata,Entry,690379,"React, REST APIs, JavaScript, MongoDB, AWS, HTML",2024-04-21,Hybrid,IT
+JOB00098,Backend Developer,Accenture,Mumbai,Principal,4810505,"Java, Redis, MongoDB, Django, Node.js, Flask",2024-09-14,No,EdTech
+JOB00099,Frontend Developer,Zoho,Pune,Entry,699824,"Webpack, Angular, TypeScript, Redux, HTML, CSS",2022-02-23,Yes,Finance
+JOB00100,Backend Developer,TCS,Noida,Senior,2212663,"Python, Node.js, Docker, REST APIs, Java, SQL",2022-03-04,Yes,E-commerce
+JOB00101,Full Stack Developer,Cognizant,Gurgaon,Lead,3214910,"MongoDB, SQL, CSS, Python, JavaScript",2022-11-15,Yes,Fintech
+JOB00102,Machine Learning Engineer,Flipkart,Mumbai,Senior,2429275,"AWS, Deep Learning, REST APIs, MLOps, Docker, Scikit-learn, TensorFlow",2023-12-08,No,Fintech
+JOB00103,AI Engineer,Capgemini,Hyderabad,Principal,5541085,"Computer Vision, Python, NLP, OpenAI API, Vector Databases, LangChain, LLMs, Prompt Engineering",2023-09-10,No,Healthcare
+JOB00104,Frontend Developer,Google India,Bangalore,Entry,304052,"TypeScript, Vue.js, GraphQL, Angular, HTML, React, Redux",2022-05-28,No,IT
+JOB00105,DevOps Engineer,Cognizant,Gurgaon,Entry,464133,"Jenkins, Linux, Monitoring, Bash Scripting, GCP, Docker, Azure, Ansible",2023-10-28,No,Fintech
+JOB00106,NLP Engineer,Oracle India,Delhi NCR,Senior,1684821,"NLP, BERT, SpaCy, Transformers, Deep Learning, NLTK, Python",2024-03-21,Yes,Healthcare
+JOB00107,Product Manager,IBM India,Chennai,Mid,780089,"Agile, Data Analysis, Roadmapping, Scrum, User Research, Communication, Product Strategy, SQL",2022-10-27,Yes,EdTech
+JOB00108,Data Analyst,TCS,Ahmedabad,Entry,392875,"Pandas, Business Intelligence, Statistics, Data Visualization, R, Python, Excel",2024-06-19,No,Fintech
+JOB00109,Backend Developer,Swiggy,Bangalore,Senior,2740297,"Flask, MongoDB, Java, FastAPI",2024-08-03,Yes,Healthcare
+JOB00110,Cybersecurity Analyst,Swiggy,Gurgaon,Senior,1660916,"Incident Response, Penetration Testing, Ethical Hacking, Firewalls",2022-03-26,Hybrid,Finance
+JOB00111,Frontend Developer,Swiggy,Ahmedabad,Principal,5494932,"Vue.js, JavaScript, Redux, GraphQL, Webpack, TypeScript, React, HTML",2023-05-23,Hybrid,EdTech
+JOB00112,Data Engineer,TCS,Delhi NCR,Mid,1081574,"Airflow, AWS, Databricks, Kafka, Python, Big Data",2023-11-17,Yes,EdTech
+JOB00113,AI Engineer,Oracle India,Kolkata,Lead,3095899,"Vector Databases, PyTorch, LLMs, Python, Computer Vision, TensorFlow",2023-12-18,Yes,EdTech
+JOB00114,Business Intelligence Analyst,Microsoft India,Bangalore,Entry,462310,"Business Analysis, ETL, Statistics, Tableau, Data Modeling, SQL, Power BI, Python",2024-11-07,No,Healthcare
+JOB00115,Data Analyst,Byju's,Noida,Mid,1058332,"Tableau, Business Intelligence, Python, Excel, SQL, Pandas, Statistics",2024-11-05,Yes,Fintech
+JOB00116,Frontend Developer,Infosys,Kolkata,Principal,4049659,"TypeScript, Vue.js, GraphQL, React, CSS, HTML, Webpack, Redux",2024-06-15,No,Fintech
+JOB00117,Business Intelligence Analyst,Freshworks,Ahmedabad,Mid,1165776,"Data Modeling, Python, Tableau, Statistics, Business Analysis, Power BI, ETL, SQL",2024-01-24,No,Healthcare
+JOB00118,Product Manager,Microsoft India,Noida,Lead,3554671,"Roadmapping, Scrum, Communication, Agile, SQL, User Research, Data Analysis, Product Strategy",2024-09-11,Yes,Fintech
+JOB00119,Cybersecurity Analyst,Flipkart,Mumbai,Principal,4022936,"Python, Incident Response, OWASP, SIEM, Penetration Testing, Ethical Hacking",2022-10-29,Yes,E-commerce
+JOB00120,NLP Engineer,TechCorp India,Delhi NCR,Senior,1555931,"Python, SpaCy, LLMs, NLP, BERT, Text Processing, TensorFlow",2023-04-05,Yes,Fintech
+JOB00121,AI Engineer,Swiggy,Gurgaon,Senior,1806287,"Python, Computer Vision, OpenAI API, LLMs, TensorFlow",2024-08-18,Yes,IT
+JOB00122,Data Scientist,Oracle India,Chennai,Senior,1952260,"Pandas, NLP, NumPy, Spark, Statistics",2022-08-16,No,IT
+JOB00123,Data Scientist,Oracle India,Kolkata,Mid,1140218,"R, Machine Learning, Big Data, Spark, NumPy, Pandas, Python, TensorFlow",2022-10-22,Yes,EdTech
+JOB00124,Frontend Developer,Zomato,Bangalore,Mid,1298384,"Vue.js, React, CSS, JavaScript, HTML, Redux, TypeScript",2024-03-10,Hybrid,E-commerce
+JOB00125,Frontend Developer,HCL Technologies,Bangalore,Senior,1534062,"React, CSS, Angular, GraphQL, TypeScript, JavaScript",2023-11-12,No,EdTech
+JOB00126,Frontend Developer,Capgemini,Bangalore,Mid,1417941,"Redux, Vue.js, GraphQL, JavaScript, CSS, Angular, TypeScript",2023-08-24,Yes,IT
+JOB00127,Frontend Developer,Infosys,Delhi NCR,Senior,2580837,"GraphQL, Redux, HTML, JavaScript, CSS, React, Vue.js",2024-01-02,No,IT
+JOB00128,Product Manager,IBM India,Mumbai,Senior,2416353,"A/B Testing, Roadmapping, Scrum, Agile, Data Analysis, SQL, User Research",2024-11-29,Hybrid,E-commerce
+JOB00129,Machine Learning Engineer,Oracle India,Pune,Lead,3763436,"Azure, Docker, Kubernetes, TensorFlow, Model Deployment",2023-11-03,No,EdTech
+JOB00130,Business Intelligence Analyst,TCS,Kolkata,Lead,2849479,"ETL, Python, SQL, Statistics, Power BI, Excel, Tableau",2022-04-28,No,EdTech
+JOB00131,Product Manager,Microsoft India,Kolkata,Mid,732653,"A/B Testing, Product Strategy, Agile, Communication, Roadmapping",2024-01-21,Hybrid,IT
+JOB00132,Data Engineer,Amazon India,Pune,Mid,1412048,"Kafka, dbt, Snowflake, Spark, Hadoop, Airflow, Big Data",2024-03-26,Yes,IT
+JOB00133,Data Scientist,Capgemini,Mumbai,Mid,1223285,"Statistics, Pandas, Machine Learning, PyTorch, NLP, R, TensorFlow, Scikit-learn",2024-10-02,Yes,IT
+JOB00134,DevOps Engineer,Oracle India,Hyderabad,Mid,1448022,"Kubernetes, Bash Scripting, CI/CD, Linux, Monitoring, GCP, Jenkins",2023-08-18,Hybrid,Fintech
+JOB00135,NLP Engineer,Byju's,Gurgaon,Mid,1079052,"BERT, NLP, Text Processing, SpaCy, Deep Learning, LLMs, NLTK, Python",2024-01-10,No,E-commerce
+JOB00136,Product Manager,Amazon India,Mumbai,Principal,4044299,"Agile, Communication, Scrum, Data Analysis, User Research, SQL, A/B Testing, Product Strategy",2022-09-14,No,E-commerce
+JOB00137,AI Engineer,Wipro,Noida,Principal,4944999,"LangChain, PyTorch, Vector Databases, NLP, Computer Vision",2022-04-24,Yes,Healthcare
+JOB00138,Data Analyst,Capgemini,Noida,Mid,1038334,"Statistics, R, Power BI, Data Visualization, SQL",2023-05-29,No,Finance
+JOB00139,AI Engineer,Freshworks,Bangalore,Senior,2788549,"TensorFlow, LangChain, PyTorch, Computer Vision, Prompt Engineering, Vector Databases, LLMs, OpenAI API",2023-11-23,Yes,IT
+JOB00140,Data Scientist,Zomato,Noida,Principal,4610047,"Data Visualization, NumPy, Statistics, Big Data, Scikit-learn",2022-03-04,No,Fintech
+JOB00141,Backend Developer,Swiggy,Chennai,Lead,3013546,"FastAPI, SQL, Java, Python, Node.js, Django, REST APIs",2024-09-18,No,EdTech
+JOB00142,Data Analyst,Accenture,Ahmedabad,Senior,2169655,"Data Visualization, Python, Statistics, Power BI, Business Intelligence, SQL",2023-10-16,Yes,Healthcare
+JOB00143,DevOps Engineer,Cognizant,Delhi NCR,Mid,847720,"Docker, GCP, Jenkins, Linux",2023-05-24,Hybrid,Fintech
+JOB00144,Frontend Developer,Paytm,Ahmedabad,Mid,867082,"GraphQL, Redux, Webpack, Vue.js, Angular, JavaScript, HTML",2024-03-16,Yes,Finance
+JOB00145,Data Engineer,Byju's,Bangalore,Senior,1602043,"Airflow, Snowflake, Big Data, Databricks",2023-08-09,Yes,E-commerce
+JOB00146,Data Analyst,Byju's,Pune,Senior,2267091,"Statistics, SQL, Data Visualization, R, Power BI, Business Intelligence, Excel",2024-01-13,Yes,E-commerce
+JOB00147,Cloud Architect,Byju's,Delhi NCR,Lead,3653133,"Cost Optimization, Azure, GCP, AWS, Kubernetes, Security",2023-11-26,Yes,Finance
+JOB00148,Data Engineer,HCL Technologies,Gurgaon,Principal,5183539,"Python, dbt, Databricks, Hadoop, Kafka, AWS, SQL, Airflow",2024-07-24,Hybrid,Finance
+JOB00149,Frontend Developer,Zomato,Gurgaon,Principal,4836011,"TypeScript, HTML, CSS, GraphQL, Webpack",2024-12-26,No,E-commerce
+JOB00150,Cybersecurity Analyst,IBM India,Gurgaon,Entry,493125,"Python, Penetration Testing, Ethical Hacking, SIEM, Network Security, Firewalls",2024-08-29,Hybrid,Finance
+JOB00151,Business Intelligence Analyst,Capgemini,Bangalore,Entry,605934,"Power BI, Business Analysis, Tableau, ETL, Python, SQL, Statistics",2022-08-14,No,Healthcare
+JOB00152,Full Stack Developer,Paytm,Chennai,Mid,1133020,"Docker, REST APIs, AWS, JavaScript, MongoDB",2022-10-10,Hybrid,Healthcare
+JOB00153,AI Engineer,Zoho,Ahmedabad,Lead,3602005,"LLMs, PyTorch, OpenAI API, Computer Vision, LangChain, Prompt Engineering, Vector Databases",2023-06-26,Yes,Finance
+JOB00154,Backend Developer,Microsoft India,Noida,Principal,4751996,"FastAPI, AWS, Django, SQL, Flask",2024-09-09,Hybrid,Healthcare
+JOB00155,Backend Developer,Swiggy,Pune,Entry,600667,"REST APIs, AWS, Flask, Node.js, FastAPI, Python, MongoDB, Docker",2023-12-11,Hybrid,E-commerce
+JOB00156,Software Engineer,Accenture,Bangalore,Mid,1264739,"Git, Spring Boot, C++, Python, Agile, REST APIs",2023-05-06,Hybrid,EdTech
+JOB00157,Software Engineer,TechCorp India,Noida,Mid,755040,"Microservices, REST APIs, SQL, Python",2022-10-09,Yes,E-commerce
+JOB00158,AI Engineer,Freshworks,Chennai,Lead,3501282,"Computer Vision, LLMs, Vector Databases, LangChain, Python",2022-07-03,Hybrid,Fintech
+JOB00159,Business Intelligence Analyst,Infosys,Bangalore,Entry,391784,"Power BI, SQL, Business Analysis, Excel, ETL, Tableau, Statistics",2023-08-16,No,EdTech
+JOB00160,Data Engineer,Swiggy,Pune,Entry,475658,"Snowflake, Databricks, ETL, Big Data, dbt, Spark",2024-10-29,Yes,IT
+JOB00161,Frontend Developer,Zoho,Kolkata,Mid,1466634,"HTML, Vue.js, JavaScript, CSS, GraphQL, TypeScript, React",2022-12-26,No,EdTech
+JOB00162,Frontend Developer,TechCorp India,Pune,Entry,510152,"Vue.js, Webpack, Redux, GraphQL",2023-05-24,No,Finance
+JOB00163,DevOps Engineer,Infosys,Mumbai,Senior,2191274,"Linux, Monitoring, Docker, GCP, CI/CD, Terraform",2023-04-29,No,Healthcare
+JOB00164,Data Analyst,HCL Technologies,Ahmedabad,Lead,3938800,"Power BI, Excel, Business Intelligence, Python, Pandas, R, Statistics, SQL",2024-09-06,Hybrid,EdTech
+JOB00165,Frontend Developer,Paytm,Delhi NCR,Lead,3972076,"Redux, GraphQL, Angular, TypeScript, React, HTML, JavaScript, Vue.js",2024-07-03,Yes,EdTech
+JOB00166,Machine Learning Engineer,Freshworks,Ahmedabad,Entry,587125,"Scikit-learn, Deep Learning, Azure, PyTorch, Model Deployment, Kubernetes, AWS, Python",2023-02-25,Yes,EdTech
+JOB00167,DevOps Engineer,TechCorp India,Kolkata,Entry,537729,"Ansible, Jenkins, Terraform, Docker, Linux",2023-09-24,No,IT
+JOB00168,Business Intelligence Analyst,Byju's,Bangalore,Mid,1306403,"SQL, Business Analysis, Power BI, ETL",2022-05-11,Yes,E-commerce
+JOB00169,Data Scientist,Microsoft India,Kolkata,Senior,2357456,"Data Visualization, Deep Learning, Spark, Scikit-learn, NLP",2024-05-10,No,E-commerce
+JOB00170,Full Stack Developer,TechCorp India,Bangalore,Entry,657947,"React, MongoDB, Python, CSS, SQL, Node.js, Docker, REST APIs",2023-04-02,No,E-commerce
+JOB00171,AI Engineer,Infosys,Kolkata,Principal,5278921,"Prompt Engineering, NLP, LangChain, OpenAI API, PyTorch, TensorFlow, LLMs, Python",2022-08-20,Hybrid,IT
+JOB00172,Software Engineer,Infosys,Kolkata,Mid,770559,"Agile, Java, SQL, Docker",2023-05-17,No,Finance
+JOB00173,Cloud Architect,Freshworks,Gurgaon,Mid,1491030,"GCP, Networking, Terraform, Azure",2023-10-16,Hybrid,Healthcare
+JOB00174,Software Engineer,Byju's,Ahmedabad,Senior,1800438,"JavaScript, Microservices, Spring Boot, Git, Java, SQL, REST APIs, Python",2024-05-24,Yes,Healthcare
+JOB00175,AI Engineer,Accenture,Chennai,Lead,3599878,"Prompt Engineering, Vector Databases, PyTorch, OpenAI API, NLP, TensorFlow",2024-08-27,No,Fintech
+JOB00176,Data Analyst,Swiggy,Delhi NCR,Lead,2620846,"Data Visualization, Business Intelligence, Python, Tableau, Excel, Pandas, Statistics, R",2022-06-11,Yes,EdTech
+JOB00177,Business Intelligence Analyst,Capgemini,Delhi NCR,Mid,754040,"Business Analysis, SQL, Statistics, Python, Tableau, Data Modeling",2024-09-08,No,IT
+JOB00178,Software Engineer,Byju's,Delhi NCR,Mid,1477493,"SQL, JavaScript, Agile, Microservices",2023-05-06,No,E-commerce
+JOB00179,DevOps Engineer,Amazon India,Chennai,Principal,5006843,"GCP, CI/CD, Ansible, Terraform, Linux, Docker",2024-08-19,No,Healthcare
+JOB00180,Full Stack Developer,Capgemini,Delhi NCR,Entry,594924,"React, JavaScript, SQL, Docker, CSS",2022-11-09,Yes,E-commerce
+JOB00181,Data Engineer,Cognizant,Delhi NCR,Mid,1223555,"Databricks, dbt, Kafka, Airflow, Snowflake, Big Data, AWS, SQL",2024-08-01,Yes,Finance
+JOB00182,Business Intelligence Analyst,TechCorp India,Kolkata,Principal,5548147,"Statistics, SQL, Data Modeling, Python, ETL",2022-04-10,Yes,Fintech
+JOB00183,Software Engineer,Zoho,Gurgaon,Entry,670760,"Java, JavaScript, Git, SQL, C++",2022-05-04,No,Fintech
+JOB00184,DevOps Engineer,Flipkart,Hyderabad,Entry,303466,"Ansible, Jenkins, Docker, Linux, GCP, Terraform, AWS, Monitoring",2024-10-25,Yes,IT
+JOB00185,Cloud Architect,Google India,Mumbai,Mid,952674,"Cost Optimization, Networking, Terraform, Docker, GCP",2023-07-02,No,E-commerce
+JOB00186,DevOps Engineer,Google India,Kolkata,Principal,4520087,"GCP, Bash Scripting, Kubernetes, Docker, Linux",2024-04-10,Hybrid,E-commerce
+JOB00187,Data Scientist,Paytm,Bangalore,Entry,668493,"Machine Learning, R, Statistics, Scikit-learn, SQL",2022-07-15,Yes,Finance
+JOB00188,NLP Engineer,Amazon India,Bangalore,Principal,5494392,"Python, NLP, Transformers, NLTK, SpaCy, Text Processing",2023-01-03,Yes,EdTech
+JOB00189,Data Analyst,HCL Technologies,Mumbai,Lead,2661349,"Python, Tableau, Data Visualization, Statistics, Power BI, Business Intelligence",2024-02-26,Hybrid,Fintech
+JOB00190,Frontend Developer,TechCorp India,Pune,Entry,351215,"Angular, React, CSS, HTML, TypeScript, Redux, Webpack",2023-10-31,No,E-commerce
+JOB00191,Software Engineer,TCS,Mumbai,Senior,2659804,"Microservices, C++, Docker, Python, Git, Spring Boot, Agile",2023-05-20,No,Finance
+JOB00192,Full Stack Developer,IBM India,Mumbai,Mid,1475584,"MongoDB, CSS, Python, REST APIs, JavaScript, React, Node.js",2024-01-08,Yes,IT
+JOB00193,Data Analyst,Zoho,Gurgaon,Lead,3441293,"R, Business Intelligence, Data Visualization, SQL, Pandas, Statistics, Python, Tableau",2022-07-10,No,E-commerce
+JOB00194,Data Scientist,Google India,Hyderabad,Senior,2367822,"Data Visualization, Machine Learning, NLP, Pandas, TensorFlow, NumPy, Spark",2022-12-14,Yes,Healthcare
+JOB00195,Backend Developer,Zomato,Mumbai,Senior,2534155,"Java, Node.js, REST APIs, FastAPI, Redis",2023-09-06,No,Healthcare
+JOB00196,Software Engineer,Amazon India,Ahmedabad,Lead,3745302,"JavaScript, SQL, Python, C++, Agile, Java, Docker, Microservices",2024-02-18,No,E-commerce
+JOB00197,Cybersecurity Analyst,Google India,Delhi NCR,Principal,4070947,"Firewalls, Ethical Hacking, OWASP, Python, Penetration Testing, Incident Response",2022-12-30,No,Fintech
+JOB00198,Business Intelligence Analyst,Freshworks,Chennai,Lead,3707706,"ETL, Business Analysis, Power BI, Excel, Python",2022-08-22,Hybrid,EdTech
+JOB00199,Data Analyst,HCL Technologies,Pune,Principal,3612894,"Tableau, Pandas, Power BI, Data Visualization, Statistics, SQL, Business Intelligence",2024-10-19,Yes,Healthcare
+JOB00200,AI Engineer,Paytm,Kolkata,Mid,1449979,"Prompt Engineering, TensorFlow, OpenAI API, Computer Vision, NLP, Vector Databases, LLMs",2024-12-30,Hybrid,IT
+JOB00201,Product Manager,Amazon India,Kolkata,Senior,2625973,"Agile, Communication, Roadmapping, A/B Testing, Scrum, User Research, SQL, Product Strategy",2024-03-29,Yes,IT
+JOB00202,Machine Learning Engineer,Swiggy,Gurgaon,Senior,1965570,"CI/CD, Azure, FastAPI, Deep Learning, Model Deployment, Scikit-learn, AWS, PyTorch",2024-03-12,Hybrid,EdTech
+JOB00203,Data Analyst,Amazon India,Ahmedabad,Senior,1551511,"Excel, Power BI, Data Visualization, SQL, Pandas, Business Intelligence, Python",2023-10-01,Yes,EdTech
+JOB00204,DevOps Engineer,Infosys,Mumbai,Senior,2498585,"Terraform, Monitoring, CI/CD, Kubernetes",2023-09-07,Yes,Healthcare
+JOB00205,AI Engineer,Byju's,Kolkata,Entry,655016,"NLP, LangChain, PyTorch, Computer Vision, TensorFlow",2023-11-09,No,Finance
+JOB00206,Product Manager,Swiggy,Gurgaon,Lead,3820703,"Scrum, Roadmapping, Data Analysis, Product Strategy, SQL",2023-02-09,No,E-commerce
+JOB00207,Data Scientist,Microsoft India,Delhi NCR,Mid,915780,"Data Visualization, NLP, Spark, Machine Learning, NumPy, Big Data",2023-01-18,Yes,E-commerce
+JOB00208,Machine Learning Engineer,Swiggy,Gurgaon,Senior,2526522,"Model Deployment, Kubernetes, Deep Learning, MLOps, CI/CD, REST APIs, TensorFlow, PyTorch",2023-12-22,Yes,Fintech
+JOB00209,Business Intelligence Analyst,HCL Technologies,Noida,Senior,2788667,"Tableau, Power BI, Python, SQL, Statistics, Business Analysis, ETL, Excel",2024-02-04,No,E-commerce
+JOB00210,Data Engineer,Oracle India,Hyderabad,Mid,1302727,"AWS, Hadoop, Snowflake, ETL, Databricks, Airflow, Spark",2024-09-29,Yes,Healthcare
+JOB00211,Cybersecurity Analyst,Google India,Noida,Lead,3798996,"Firewalls, Network Security, Penetration Testing, Python",2023-02-04,Hybrid,Fintech
+JOB00212,DevOps Engineer,Oracle India,Bangalore,Lead,3935912,"Jenkins, Terraform, Bash Scripting, AWS, Kubernetes, GCP, Docker",2023-03-28,No,Finance
+JOB00213,Cloud Architect,Swiggy,Noida,Senior,1852759,"Cost Optimization, Security, Azure, Terraform, AWS, GCP, Docker",2022-03-27,Yes,E-commerce
+JOB00214,Machine Learning Engineer,Wipro,Chennai,Mid,1012170,"AWS, Docker, Kubernetes, TensorFlow",2024-06-18,Yes,Fintech
+JOB00215,Data Engineer,Byju's,Pune,Senior,2779811,"Hadoop, Big Data, dbt, SQL, ETL, AWS, Python",2023-12-20,Hybrid,EdTech
+JOB00216,Data Analyst,HCL Technologies,Hyderabad,Senior,2113699,"Business Intelligence, Power BI, Excel, Pandas, Tableau, SQL",2023-07-22,Yes,Finance
+JOB00217,Business Intelligence Analyst,TCS,Mumbai,Senior,2019159,"Python, Power BI, Data Modeling, ETL, Statistics, Excel, Tableau",2024-07-14,No,EdTech
+JOB00218,Business Intelligence Analyst,TCS,Noida,Senior,2273998,"Python, ETL, Data Modeling, SQL, Statistics, Excel, Power BI",2024-01-04,No,Finance
+JOB00219,Full Stack Developer,Infosys,Bangalore,Mid,1218746,"MongoDB, SQL, CSS, React, HTML, Node.js",2023-12-05,Yes,Fintech
+JOB00220,Product Manager,Capgemini,Hyderabad,Lead,2534144,"Scrum, A/B Testing, Data Analysis, Product Strategy",2024-05-26,Hybrid,Healthcare
+JOB00221,Data Analyst,Google India,Pune,Senior,1695748,"Power BI, Excel, Statistics, Pandas, Data Visualization, R",2022-04-17,Hybrid,Fintech
+JOB00222,Product Manager,HCL Technologies,Gurgaon,Mid,1150081,"Agile, Product Strategy, Communication, Data Analysis",2022-06-09,Yes,EdTech
+JOB00223,AI Engineer,Zomato,Mumbai,Lead,2519476,"LLMs, TensorFlow, Prompt Engineering, Vector Databases",2022-09-28,Yes,E-commerce
+JOB00224,Machine Learning Engineer,Paytm,Gurgaon,Entry,354107,"Kubernetes, Docker, PyTorch, MLOps, CI/CD, Deep Learning",2022-05-21,Yes,EdTech
+JOB00225,AI Engineer,TCS,Mumbai,Mid,1161477,"NLP, PyTorch, Prompt Engineering, Computer Vision, LLMs, Vector Databases",2023-03-21,Yes,IT
+JOB00226,Data Engineer,TechCorp India,Pune,Lead,3237223,"Kafka, Hadoop, SQL, Airflow, Spark, Snowflake, ETL",2023-08-07,Yes,EdTech
+JOB00227,Data Engineer,Zomato,Gurgaon,Principal,4291240,"Airflow, Databricks, Python, SQL, Snowflake, ETL, Big Data",2023-05-09,Yes,EdTech
+JOB00228,NLP Engineer,TCS,Bangalore,Entry,489319,"TensorFlow, SpaCy, Deep Learning, Text Processing, Transformers, NLP",2024-08-22,Hybrid,IT
+JOB00229,Data Scientist,Oracle India,Noida,Senior,1952445,"Spark, Python, Data Visualization, Statistics",2024-11-03,No,E-commerce
+JOB00230,Business Intelligence Analyst,Byju's,Delhi NCR,Lead,2672863,"Statistics, Power BI, Python, SQL, Business Analysis, ETL, Data Modeling, Excel",2022-11-15,No,EdTech
+JOB00231,AI Engineer,Oracle India,Hyderabad,Entry,462618,"NLP, Python, Vector Databases, LangChain, OpenAI API, Prompt Engineering, LLMs",2022-04-23,Yes,IT
+JOB00232,Business Intelligence Analyst,IBM India,Hyderabad,Mid,1435575,"Power BI, Python, Statistics, Data Modeling",2024-11-25,No,Finance
+JOB00233,Business Intelligence Analyst,IBM India,Gurgaon,Senior,1747582,"ETL, Business Analysis, Power BI, Data Modeling",2022-05-11,Hybrid,IT
+JOB00234,DevOps Engineer,Wipro,Gurgaon,Lead,3571187,"Docker, Terraform, Linux, AWS, CI/CD, Kubernetes",2023-06-07,Hybrid,Fintech
+JOB00235,Machine Learning Engineer,Cognizant,Bangalore,Mid,1476764,"Python, REST APIs, FastAPI, Scikit-learn, CI/CD, AWS, Kubernetes, Model Deployment",2022-11-04,Hybrid,Fintech
+JOB00236,Business Intelligence Analyst,Wipro,Noida,Lead,2970842,"Excel, Business Analysis, ETL, Power BI, Python, SQL",2024-02-03,Hybrid,IT
+JOB00237,Data Analyst,Oracle India,Delhi NCR,Mid,1240828,"Data Visualization, Excel, Pandas, Business Intelligence",2023-08-02,Yes,EdTech
+JOB00238,DevOps Engineer,Freshworks,Ahmedabad,Entry,493419,"GCP, Linux, Monitoring, Azure, Terraform",2024-01-25,Yes,Fintech
+JOB00239,NLP Engineer,TechCorp India,Delhi NCR,Principal,4528136,"Python, SpaCy, Text Processing, NLP, Transformers",2023-12-11,Yes,Fintech
+JOB00240,Full Stack Developer,IBM India,Mumbai,Senior,1717996,"REST APIs, Node.js, Docker, AWS, JavaScript",2022-10-19,Yes,Finance
+JOB00241,NLP Engineer,Freshworks,Gurgaon,Principal,5232485,"NLTK, NLP, Deep Learning, Transformers, Text Processing, BERT",2022-06-03,Yes,E-commerce
+JOB00242,AI Engineer,Swiggy,Pune,Mid,948273,"Computer Vision, LLMs, Prompt Engineering, LangChain, OpenAI API, PyTorch",2023-10-14,Yes,IT
+JOB00243,Software Engineer,Amazon India,Kolkata,Mid,1313110,"C++, Python, Docker, SQL",2024-08-12,Yes,EdTech
+JOB00244,Frontend Developer,Capgemini,Delhi NCR,Mid,1173869,"Redux, HTML, React, JavaScript, Webpack, Vue.js",2022-03-24,Yes,IT
+JOB00245,Business Intelligence Analyst,Swiggy,Noida,Mid,1073023,"Statistics, SQL, ETL, Power BI, Business Analysis, Tableau, Python",2024-04-08,Hybrid,EdTech
+JOB00246,Software Engineer,HCL Technologies,Chennai,Entry,542243,"C++, Python, Java, Git",2023-04-01,No,Healthcare
+JOB00247,AI Engineer,Wipro,Bangalore,Entry,605305,"Computer Vision, TensorFlow, Python, OpenAI API, LangChain, NLP, LLMs, Prompt Engineering",2023-11-11,No,IT
+JOB00248,Data Analyst,Cognizant,Pune,Principal,5316789,"Pandas, SQL, Data Visualization, Statistics, Tableau, Excel, Python",2023-03-16,No,E-commerce
+JOB00249,NLP Engineer,IBM India,Kolkata,Mid,736332,"Text Processing, BERT, Transformers, Deep Learning, SpaCy, NLTK, LLMs, Python",2022-06-29,Yes,E-commerce
+JOB00250,Software Engineer,IBM India,Hyderabad,Principal,4545001,"Java, Microservices, REST APIs, SQL, Spring Boot, JavaScript, C++, Agile",2024-03-06,Yes,Healthcare
+JOB00251,Data Engineer,Accenture,Chennai,Mid,730726,"Python, Snowflake, ETL, Kafka, SQL, Spark",2022-07-25,No,EdTech
+JOB00252,Cybersecurity Analyst,Microsoft India,Gurgaon,Entry,415034,"Incident Response, SIEM, Python, Firewalls, Ethical Hacking, OWASP, Penetration Testing, Network Security",2022-02-27,Hybrid,Finance
+JOB00253,Data Engineer,TechCorp India,Noida,Mid,1216137,"Airflow, Hadoop, Snowflake, Python, Spark, ETL, Big Data, dbt",2023-03-25,No,IT
+JOB00254,Frontend Developer,Freshworks,Hyderabad,Principal,4345002,"CSS, Vue.js, Webpack, JavaScript, TypeScript",2022-10-30,Yes,EdTech
+JOB00255,Cybersecurity Analyst,Cognizant,Kolkata,Senior,1652109,"Incident Response, Ethical Hacking, Network Security, SIEM, OWASP, Python",2022-10-07,Hybrid,E-commerce
+JOB00256,AI Engineer,HCL Technologies,Hyderabad,Senior,1865329,"Vector Databases, LLMs, NLP, LangChain, Computer Vision, TensorFlow, OpenAI API, Prompt Engineering",2023-08-27,Hybrid,IT
+JOB00257,Business Intelligence Analyst,HCL Technologies,Delhi NCR,Principal,5142495,"SQL, Power BI, Data Modeling, Python, Business Analysis, Tableau, ETL, Statistics",2024-10-13,Hybrid,IT
+JOB00258,Software Engineer,Capgemini,Chennai,Senior,2170079,"Docker, Python, REST APIs, SQL, Java",2023-06-28,Hybrid,IT
+JOB00259,Frontend Developer,Cognizant,Kolkata,Senior,1726564,"JavaScript, TypeScript, Redux, CSS",2024-05-09,No,E-commerce
+JOB00260,Frontend Developer,Infosys,Pune,Principal,5074321,"Redux, Angular, Vue.js, GraphQL",2022-05-31,Yes,Healthcare
+JOB00261,Backend Developer,TechCorp India,Kolkata,Entry,338902,"Node.js, REST APIs, AWS, Java, MongoDB, Redis",2024-09-15,Hybrid,Finance
+JOB00262,Data Engineer,Byju's,Noida,Lead,2829470,"Spark, Kafka, SQL, Big Data",2024-04-18,No,Fintech
+JOB00263,Backend Developer,HCL Technologies,Bangalore,Senior,1998174,"Python, REST APIs, Redis, MongoDB",2024-10-02,No,IT
+JOB00264,Full Stack Developer,Wipro,Pune,Entry,454428,"AWS, Node.js, Python, JavaScript, REST APIs, Docker, React, CSS",2024-08-27,No,E-commerce
+JOB00265,DevOps Engineer,Swiggy,Ahmedabad,Senior,1691127,"Jenkins, AWS, CI/CD, Monitoring, Linux, Kubernetes, Azure, Docker",2023-06-24,No,Finance
+JOB00266,Cybersecurity Analyst,Microsoft India,Noida,Senior,2683310,"SIEM, Incident Response, Firewalls, Network Security",2022-06-25,No,EdTech
+JOB00267,Software Engineer,TCS,Kolkata,Principal,3755784,"Git, Microservices, Docker, SQL, Spring Boot, Python, JavaScript",2023-09-05,Hybrid,IT
+JOB00268,Cloud Architect,HCL Technologies,Bangalore,Principal,5667689,"Cost Optimization, GCP, Azure, Docker, Kubernetes, Security, Terraform, AWS",2023-01-30,No,IT
+JOB00269,AI Engineer,Google India,Noida,Lead,2923455,"Vector Databases, Computer Vision, LLMs, OpenAI API, Python",2022-06-28,No,EdTech
+JOB00270,Frontend Developer,Wipro,Gurgaon,Senior,2589865,"JavaScript, GraphQL, TypeScript, Webpack, Angular, React, HTML",2022-07-25,Yes,Healthcare
+JOB00271,Cybersecurity Analyst,Google India,Hyderabad,Principal,4942291,"Ethical Hacking, Penetration Testing, Firewalls, Incident Response, OWASP, Network Security, SIEM",2023-07-19,Hybrid,EdTech
+JOB00272,AI Engineer,Amazon India,Pune,Lead,2581332,"LLMs, NLP, Python, Vector Databases, LangChain, PyTorch, Computer Vision",2022-02-11,No,Healthcare
+JOB00273,Cybersecurity Analyst,IBM India,Kolkata,Lead,3960001,"Penetration Testing, Python, SIEM, OWASP",2023-10-20,Hybrid,Fintech
+JOB00274,Machine Learning Engineer,Infosys,Noida,Mid,1163173,"REST APIs, MLOps, CI/CD, AWS, Azure",2024-02-05,Yes,IT
+JOB00275,Backend Developer,Infosys,Chennai,Principal,5191919,"MongoDB, Redis, Python, Node.js, Django",2023-02-16,Yes,E-commerce
+JOB00276,Data Scientist,Accenture,Delhi NCR,Senior,1917563,"SQL, Big Data, R, Pandas, Statistics, Machine Learning",2022-03-04,No,EdTech
+JOB00277,DevOps Engineer,TechCorp India,Kolkata,Mid,1197635,"Ansible, CI/CD, Bash Scripting, AWS, GCP, Linux, Jenkins, Docker",2023-08-07,Yes,Finance
+JOB00278,Cybersecurity Analyst,TechCorp India,Bangalore,Principal,4398917,"Penetration Testing, Firewalls, Python, SIEM, OWASP",2024-11-17,No,Finance
+JOB00279,AI Engineer,Flipkart,Kolkata,Mid,1330343,"NLP, Computer Vision, LangChain, LLMs",2023-07-18,No,E-commerce
+JOB00280,Backend Developer,Microsoft India,Noida,Mid,1189368,"Docker, MongoDB, Redis, REST APIs, Java, Python",2024-11-13,Hybrid,EdTech
+JOB00281,Data Engineer,IBM India,Pune,Senior,2125949,"Snowflake, Spark, Kafka, Airflow",2023-10-28,Hybrid,Fintech
+JOB00282,NLP Engineer,Amazon India,Hyderabad,Senior,1895019,"Deep Learning, BERT, Python, SpaCy, Transformers",2024-04-07,Hybrid,IT
+JOB00283,AI Engineer,Amazon India,Chennai,Lead,3119927,"Prompt Engineering, Vector Databases, LangChain, LLMs, Python, Computer Vision",2023-01-24,Hybrid,EdTech
+JOB00284,AI Engineer,Oracle India,Mumbai,Lead,3909010,"LangChain, Computer Vision, PyTorch, Prompt Engineering, LLMs, Vector Databases",2023-01-06,No,Finance
+JOB00285,Business Intelligence Analyst,Flipkart,Delhi NCR,Senior,2672374,"ETL, Tableau, Python, Power BI, Business Analysis",2023-09-21,No,Healthcare
+JOB00286,Data Engineer,Capgemini,Noida,Senior,2472576,"Snowflake, Python, Big Data, Spark",2024-08-25,Yes,Fintech
+JOB00287,Full Stack Developer,HCL Technologies,Delhi NCR,Principal,4751394,"JavaScript, React, HTML, Node.js, REST APIs, AWS, SQL",2024-07-26,Hybrid,Finance
+JOB00288,Product Manager,Capgemini,Hyderabad,Entry,555632,"Scrum, User Research, A/B Testing, Product Strategy, Roadmapping, Data Analysis",2023-07-15,Hybrid,Finance
+JOB00289,DevOps Engineer,Byju's,Chennai,Entry,367845,"Jenkins, Bash Scripting, Monitoring, Linux, Ansible, Azure, Terraform, Docker",2022-03-19,Hybrid,Healthcare
+JOB00290,Data Scientist,Microsoft India,Pune,Senior,2613658,"Python, Scikit-learn, Spark, Big Data, TensorFlow",2023-04-09,Yes,IT
+JOB00291,Full Stack Developer,Zoho,Noida,Principal,5969063,"React, Python, JavaScript, SQL, CSS, Node.js",2024-12-01,No,E-commerce
+JOB00292,NLP Engineer,HCL Technologies,Chennai,Mid,1059381,"LLMs, BERT, TensorFlow, SpaCy, Deep Learning, Python, NLP",2023-04-05,Hybrid,IT
+JOB00293,Data Engineer,Byju's,Gurgaon,Principal,4208773,"Kafka, Databricks, Python, AWS",2023-06-08,Yes,EdTech
+JOB00294,Data Scientist,Google India,Mumbai,Entry,642657,"Python, NLP, Machine Learning, Statistics",2024-06-28,Hybrid,Healthcare
+JOB00295,DevOps Engineer,Zoho,Gurgaon,Mid,915477,"GCP, Jenkins, Kubernetes, Ansible",2023-07-07,Hybrid,Finance
+JOB00296,Full Stack Developer,Paytm,Chennai,Entry,568217,"Python, SQL, CSS, REST APIs, Node.js, AWS, HTML, MongoDB",2023-06-23,No,Fintech
+JOB00297,Full Stack Developer,Accenture,Bangalore,Senior,1836327,"REST APIs, AWS, Node.js, HTML",2023-11-09,Yes,Fintech
+JOB00298,Machine Learning Engineer,Oracle India,Pune,Entry,601021,"PyTorch, TensorFlow, Azure, FastAPI, Model Deployment, Docker, Scikit-learn",2024-07-24,No,IT
+JOB00299,Machine Learning Engineer,Infosys,Bangalore,Mid,741360,"Kubernetes, FastAPI, Model Deployment, REST APIs, MLOps, TensorFlow",2022-07-14,Yes,Fintech
+JOB00300,AI Engineer,Google India,Kolkata,Mid,1044625,"OpenAI API, Computer Vision, TensorFlow, PyTorch, Prompt Engineering, Vector Databases",2022-08-22,No,Healthcare
+JOB00301,Cybersecurity Analyst,Wipro,Kolkata,Lead,3946830,"Incident Response, Firewalls, Python, Network Security, OWASP, SIEM, Ethical Hacking",2022-11-23,Hybrid,E-commerce
+JOB00302,Product Manager,Zomato,Mumbai,Principal,5337788,"Roadmapping, User Research, SQL, Product Strategy, Agile",2024-09-16,No,E-commerce
+JOB00303,Data Scientist,Amazon India,Noida,Entry,437160,"Python, NLP, Scikit-learn, Pandas, NumPy, Data Visualization",2023-04-04,Hybrid,Fintech
+JOB00304,Business Intelligence Analyst,TechCorp India,Hyderabad,Principal,3899474,"Excel, Python, Power BI, ETL, Statistics, Tableau, Business Analysis",2022-04-22,Hybrid,E-commerce
+JOB00305,Cybersecurity Analyst,Infosys,Noida,Lead,2846877,"OWASP, SIEM, Python, Incident Response",2023-07-24,Yes,EdTech
+JOB00306,AI Engineer,TCS,Ahmedabad,Lead,3345733,"TensorFlow, OpenAI API, LangChain, Prompt Engineering, Computer Vision",2024-07-06,No,Healthcare
+JOB00307,Machine Learning Engineer,TCS,Gurgaon,Lead,3870222,"TensorFlow, MLOps, FastAPI, Python",2022-01-01,Hybrid,Fintech
+JOB00308,Backend Developer,Accenture,Ahmedabad,Principal,5858593,"Docker, AWS, SQL, Flask, MongoDB",2022-04-22,No,EdTech
+JOB00309,Product Manager,Microsoft India,Pune,Principal,5484466,"A/B Testing, Agile, Product Strategy, User Research, Communication, Roadmapping",2023-12-01,Hybrid,EdTech
+JOB00310,Frontend Developer,Capgemini,Mumbai,Entry,324000,"Redux, Vue.js, TypeScript, JavaScript, GraphQL",2023-02-06,No,Finance
+JOB00311,DevOps Engineer,HCL Technologies,Ahmedabad,Mid,1451606,"Kubernetes, Jenkins, Docker, Monitoring, Terraform, Azure",2024-10-29,Yes,EdTech
+JOB00312,Business Intelligence Analyst,Zoho,Gurgaon,Entry,590049,"Python, Power BI, ETL, Data Modeling, Tableau, Business Analysis, SQL",2024-03-04,No,EdTech
+JOB00313,NLP Engineer,Zoho,Noida,Lead,3378003,"BERT, Transformers, SpaCy, TensorFlow, NLTK, Text Processing, NLP, Python",2024-04-25,No,Fintech
+JOB00314,Cloud Architect,Cognizant,Noida,Senior,2660944,"Kubernetes, Cost Optimization, Terraform, Microservices, GCP",2022-09-29,Hybrid,Fintech
+JOB00315,AI Engineer,Flipkart,Bangalore,Senior,1742022,"LangChain, OpenAI API, Prompt Engineering, LLMs, Vector Databases, Computer Vision",2023-08-09,Hybrid,IT
+JOB00316,Data Scientist,Oracle India,Pune,Lead,2804772,"Scikit-learn, Python, TensorFlow, PyTorch",2022-11-26,Yes,IT
+JOB00317,Business Intelligence Analyst,Paytm,Pune,Senior,1927820,"SQL, ETL, Business Analysis, Excel, Statistics, Tableau, Power BI, Python",2023-05-02,Hybrid,Fintech
+JOB00318,Data Scientist,Zoho,Ahmedabad,Lead,3312761,"Data Visualization, Scikit-learn, SQL, Pandas, Python, Big Data, PyTorch",2023-02-20,Yes,Fintech
+JOB00319,Business Intelligence Analyst,Wipro,Kolkata,Senior,2733933,"Excel, Statistics, Power BI, Python, Tableau, SQL, ETL, Business Analysis",2024-11-18,Yes,E-commerce
+JOB00320,Backend Developer,HCL Technologies,Bangalore,Principal,4608301,"Node.js, Redis, FastAPI, Python, Flask",2024-08-13,Yes,Healthcare
+JOB00321,Data Engineer,Accenture,Hyderabad,Entry,627872,"Databricks, Airflow, Snowflake, ETL, Kafka, Python, Big Data, Hadoop",2024-12-12,Hybrid,IT
+JOB00322,Product Manager,Amazon India,Delhi NCR,Principal,4168448,"Communication, Roadmapping, Product Strategy, Scrum, Agile, SQL, User Research",2023-11-11,No,Finance
+JOB00323,Product Manager,Infosys,Delhi NCR,Principal,5725073,"Communication, Product Strategy, A/B Testing, User Research, Scrum, Data Analysis, Roadmapping",2023-05-15,No,IT
+JOB00324,Full Stack Developer,Capgemini,Delhi NCR,Senior,2632959,"JavaScript, REST APIs, MongoDB, AWS, Node.js, CSS",2023-08-31,Hybrid,IT
+JOB00325,Machine Learning Engineer,TCS,Hyderabad,Mid,1264107,"Python, Model Deployment, TensorFlow, Scikit-learn, FastAPI, MLOps, CI/CD, AWS",2024-06-10,Yes,E-commerce
+JOB00326,Business Intelligence Analyst,Freshworks,Chennai,Senior,1579453,"Tableau, SQL, Statistics, Power BI",2022-05-25,No,E-commerce
+JOB00327,Full Stack Developer,Zoho,Mumbai,Lead,3821661,"Docker, MongoDB, JavaScript, CSS, HTML, REST APIs, SQL",2022-01-13,Hybrid,EdTech
+JOB00328,Data Scientist,Google India,Kolkata,Entry,487537,"Machine Learning, PyTorch, Data Visualization, Scikit-learn, Big Data, NumPy, Spark, NLP",2024-06-15,Hybrid,IT
+JOB00329,DevOps Engineer,Microsoft India,Bangalore,Mid,1259381,"AWS, Jenkins, Ansible, GCP, Monitoring",2023-09-03,Hybrid,EdTech
+JOB00330,Data Analyst,Microsoft India,Chennai,Entry,321901,"Business Intelligence, Data Visualization, Excel, Python",2023-03-07,No,Fintech
+JOB00331,Cybersecurity Analyst,Cognizant,Gurgaon,Principal,4097500,"SIEM, Python, Ethical Hacking, OWASP, Incident Response",2022-08-23,Yes,EdTech
+JOB00332,DevOps Engineer,Amazon India,Delhi NCR,Principal,3806790,"Bash Scripting, Kubernetes, GCP, Monitoring, Azure, CI/CD",2024-09-24,Yes,Fintech
+JOB00333,AI Engineer,Zoho,Pune,Mid,804904,"Vector Databases, TensorFlow, NLP, PyTorch, OpenAI API, LLMs",2023-11-04,Hybrid,EdTech
+JOB00334,Data Analyst,Flipkart,Pune,Principal,5877591,"Statistics, Data Visualization, Python, SQL, Pandas, Excel",2023-03-30,No,Finance
+JOB00335,AI Engineer,IBM India,Hyderabad,Senior,2506536,"OpenAI API, LLMs, Computer Vision, NLP, Vector Databases, Python, TensorFlow",2022-06-17,Hybrid,Finance
+JOB00336,Backend Developer,Infosys,Noida,Entry,681380,"Python, MongoDB, AWS, REST APIs",2023-03-12,No,EdTech
+JOB00337,NLP Engineer,HCL Technologies,Ahmedabad,Principal,5480147,"LLMs, SpaCy, BERT, Deep Learning, Transformers",2023-08-19,Hybrid,EdTech
+JOB00338,Machine Learning Engineer,Cognizant,Gurgaon,Lead,3263081,"Python, Model Deployment, Scikit-learn, Deep Learning, PyTorch, Azure, FastAPI, CI/CD",2022-11-23,Hybrid,Fintech
+JOB00339,Cybersecurity Analyst,Accenture,Bangalore,Mid,1471667,"Firewalls, Network Security, Python, Penetration Testing, OWASP, Incident Response, Ethical Hacking",2024-01-27,Hybrid,Finance
+JOB00340,Cloud Architect,Freshworks,Noida,Senior,2313890,"Security, AWS, Networking, Microservices, GCP, Cost Optimization, Docker",2023-06-24,Hybrid,Finance
+JOB00341,Full Stack Developer,Microsoft India,Ahmedabad,Lead,3266082,"CSS, Python, REST APIs, SQL, Node.js, HTML, AWS, Docker",2023-12-24,No,EdTech
+JOB00342,Data Scientist,Cognizant,Hyderabad,Principal,4082875,"Deep Learning, TensorFlow, Machine Learning, Pandas, Scikit-learn, PyTorch, Big Data",2022-11-04,No,EdTech
+JOB00343,Business Intelligence Analyst,Zomato,Chennai,Entry,646611,"Business Analysis, ETL, Python, SQL, Excel",2024-09-07,Hybrid,Finance
+JOB00344,AI Engineer,Infosys,Gurgaon,Lead,2547072,"Python, PyTorch, LangChain, TensorFlow, LLMs",2024-11-15,Yes,IT
+JOB00345,Data Analyst,Accenture,Kolkata,Senior,1877566,"Data Visualization, SQL, Power BI, R, Excel, Tableau, Pandas, Statistics",2022-12-16,Hybrid,Finance
+JOB00346,Product Manager,Google India,Kolkata,Principal,4262877,"Communication, SQL, Agile, User Research, Scrum, Data Analysis, A/B Testing, Product Strategy",2023-04-16,Yes,IT
+JOB00347,Data Scientist,Paytm,Mumbai,Mid,1248102,"Scikit-learn, Statistics, Deep Learning, NumPy, Machine Learning, Data Visualization, R, Python",2024-12-24,Yes,E-commerce
+JOB00348,AI Engineer,Google India,Delhi NCR,Mid,1332789,"Python, Prompt Engineering, LangChain, PyTorch, Vector Databases, Computer Vision, NLP, LLMs",2024-09-14,Hybrid,Fintech
+JOB00349,NLP Engineer,IBM India,Chennai,Principal,3909854,"TensorFlow, Transformers, NLTK, SpaCy, NLP, Python, Text Processing",2024-04-16,Yes,Fintech
+JOB00350,Business Intelligence Analyst,HCL Technologies,Kolkata,Entry,603031,"Tableau, SQL, Excel, ETL, Statistics, Power BI, Data Modeling, Business Analysis",2022-08-07,Hybrid,EdTech
+JOB00351,Backend Developer,Byju's,Noida,Senior,2624293,"Redis, Flask, AWS, FastAPI, REST APIs, SQL, Java",2024-04-26,No,Finance
+JOB00352,Frontend Developer,Accenture,Ahmedabad,Principal,5827466,"HTML, Webpack, CSS, TypeScript, Redux, Angular, React",2022-09-01,Hybrid,Finance
+JOB00353,Machine Learning Engineer,TCS,Hyderabad,Mid,1233036,"FastAPI, Kubernetes, Azure, Deep Learning, Python, PyTorch, MLOps",2022-01-11,No,EdTech
+JOB00354,Full Stack Developer,Zoho,Noida,Entry,333596,"Node.js, MongoDB, Python, JavaScript, HTML, CSS",2024-03-31,No,Fintech
+JOB00355,Data Engineer,Paytm,Chennai,Entry,391892,"Snowflake, Python, SQL, ETL, Airflow, Spark, Databricks",2024-11-11,Hybrid,Finance
+JOB00356,AI Engineer,Google India,Kolkata,Entry,488607,"Python, PyTorch, TensorFlow, LangChain, NLP",2023-12-25,Hybrid,Finance
+JOB00357,Cloud Architect,Microsoft India,Pune,Entry,686361,"Azure, Networking, Terraform, Microservices",2023-12-14,Yes,EdTech
+JOB00358,Software Engineer,Oracle India,Delhi NCR,Lead,3347158,"Java, Spring Boot, C++, Microservices, Agile, Docker, SQL, REST APIs",2024-10-27,Yes,EdTech
+JOB00359,Backend Developer,Swiggy,Ahmedabad,Principal,5911279,"AWS, SQL, REST APIs, Docker, Django, Redis",2023-11-27,Hybrid,IT
+JOB00360,DevOps Engineer,Flipkart,Delhi NCR,Entry,435171,"Jenkins, Bash Scripting, Azure, Linux",2023-10-09,Hybrid,EdTech
+JOB00361,Data Scientist,Zomato,Delhi NCR,Senior,2020633,"Machine Learning, Statistics, Scikit-learn, NLP, SQL, Spark",2023-01-01,No,Finance
+JOB00362,NLP Engineer,IBM India,Chennai,Principal,4628585,"BERT, NLTK, Text Processing, NLP, LLMs",2023-05-11,Yes,Finance
+JOB00363,Cybersecurity Analyst,Zoho,Bangalore,Mid,1348645,"SIEM, Incident Response, Network Security, Firewalls, Ethical Hacking, OWASP",2024-10-05,Hybrid,IT
+JOB00364,Cybersecurity Analyst,Freshworks,Hyderabad,Lead,3278455,"Firewalls, Penetration Testing, Ethical Hacking, SIEM, Incident Response, Network Security, Python, OWASP",2023-03-31,Yes,EdTech
+JOB00365,Product Manager,TechCorp India,Bangalore,Lead,3503109,"Product Strategy, User Research, Data Analysis, A/B Testing, Agile, Roadmapping, Communication, SQL",2023-10-09,Hybrid,Finance
+JOB00366,Full Stack Developer,IBM India,Ahmedabad,Principal,3922567,"MongoDB, HTML, SQL, React, REST APIs, AWS",2023-05-01,Hybrid,Healthcare
+JOB00367,Frontend Developer,Freshworks,Hyderabad,Mid,1222998,"Angular, TypeScript, CSS, Vue.js, Webpack, GraphQL, Redux",2023-01-04,Hybrid,Fintech
+JOB00368,Software Engineer,Zomato,Bangalore,Entry,677914,"JavaScript, Git, Microservices, Agile, Python, SQL",2022-11-03,Yes,E-commerce
+JOB00369,DevOps Engineer,Wipro,Hyderabad,Mid,1361286,"Ansible, CI/CD, Terraform, GCP, Monitoring, Linux, Jenkins, Docker",2024-03-26,Yes,Finance
+JOB00370,Cybersecurity Analyst,Microsoft India,Noida,Senior,2499375,"OWASP, Firewalls, SIEM, Incident Response",2024-01-10,Hybrid,Healthcare
+JOB00371,Frontend Developer,Microsoft India,Delhi NCR,Entry,515881,"CSS, Angular, Vue.js, TypeScript",2023-08-06,Hybrid,EdTech
+JOB00372,DevOps Engineer,Zoho,Gurgaon,Lead,2664432,"Linux, GCP, Terraform, AWS, Ansible, CI/CD, Monitoring",2024-05-13,No,IT
+JOB00373,Machine Learning Engineer,IBM India,Ahmedabad,Mid,1060317,"Kubernetes, REST APIs, Model Deployment, Docker, CI/CD",2024-03-20,No,Fintech
+JOB00374,Data Engineer,Capgemini,Hyderabad,Principal,5388647,"Hadoop, dbt, Python, Databricks, SQL, Kafka, ETL",2022-06-13,No,IT
+JOB00375,Machine Learning Engineer,TCS,Kolkata,Entry,548085,"Python, REST APIs, MLOps, Azure, TensorFlow, Deep Learning, Docker, AWS",2022-11-15,No,Finance
+JOB00376,Software Engineer,Amazon India,Ahmedabad,Senior,2429374,"C++, Git, Docker, Java, SQL",2024-01-01,No,EdTech
+JOB00377,NLP Engineer,Byju's,Pune,Senior,2650382,"TensorFlow, Deep Learning, Text Processing, Transformers, SpaCy, BERT, LLMs",2024-12-08,No,E-commerce
+JOB00378,Cloud Architect,Paytm,Hyderabad,Mid,793904,"Terraform, Microservices, Docker, GCP, Azure, Security, AWS",2022-01-01,No,Healthcare
+JOB00379,DevOps Engineer,Byju's,Delhi NCR,Principal,3534884,"Terraform, GCP, Docker, Jenkins, Bash Scripting, Monitoring, Kubernetes",2022-01-15,Yes,E-commerce
+JOB00380,NLP Engineer,Flipkart,Chennai,Principal,5333356,"BERT, TensorFlow, SpaCy, NLTK, Text Processing, NLP, Deep Learning",2022-06-12,Hybrid,EdTech
+JOB00381,Product Manager,Zoho,Ahmedabad,Senior,2097010,"SQL, Roadmapping, Agile, Product Strategy, A/B Testing, Communication, Data Analysis, User Research",2024-07-21,No,Fintech
+JOB00382,Data Engineer,Oracle India,Pune,Lead,2893823,"Python, Hadoop, dbt, ETL, Big Data, Spark",2022-07-29,Yes,Fintech
+JOB00383,DevOps Engineer,Flipkart,Pune,Entry,422059,"AWS, Docker, Terraform, Azure",2023-12-02,No,Healthcare
+JOB00384,DevOps Engineer,Byju's,Ahmedabad,Entry,473145,"AWS, Docker, GCP, Jenkins",2022-05-27,Yes,Finance
+JOB00385,NLP Engineer,Accenture,Bangalore,Senior,2300225,"NLP, BERT, SpaCy, NLTK",2024-06-26,Yes,E-commerce
+JOB00386,Business Intelligence Analyst,Infosys,Noida,Entry,573226,"Python, Business Analysis, ETL, Power BI, Statistics",2022-11-21,Hybrid,IT
+JOB00387,Backend Developer,Amazon India,Bangalore,Lead,3839073,"Django, Flask, Python, AWS, Java, SQL",2024-06-08,Yes,Healthcare
+JOB00388,Data Engineer,TCS,Chennai,Entry,507517,"Python, dbt, Big Data, Snowflake, Hadoop",2024-01-31,Yes,E-commerce
+JOB00389,Machine Learning Engineer,HCL Technologies,Ahmedabad,Principal,4919445,"Python, Kubernetes, Model Deployment, PyTorch",2022-08-08,Yes,Healthcare
+JOB00390,Cloud Architect,Infosys,Ahmedabad,Senior,2420060,"AWS, Docker, Microservices, Security, Azure",2023-05-29,Hybrid,E-commerce
+JOB00391,Cloud Architect,TCS,Noida,Senior,2638195,"Kubernetes, GCP, Microservices, Networking, Security, Cost Optimization, Docker",2022-11-25,Yes,E-commerce
+JOB00392,Backend Developer,Zoho,Chennai,Senior,2635830,"SQL, Python, MongoDB, REST APIs, Node.js, Docker",2024-01-16,No,Fintech
+JOB00393,Machine Learning Engineer,Amazon India,Kolkata,Principal,5125254,"Azure, Model Deployment, AWS, REST APIs, PyTorch",2023-08-03,Hybrid,Healthcare
+JOB00394,Machine Learning Engineer,Wipro,Ahmedabad,Entry,574307,"Python, PyTorch, FastAPI, REST APIs",2023-02-18,Yes,IT
+JOB00395,Data Scientist,Zoho,Mumbai,Principal,5129901,"Pandas, NumPy, NLP, Big Data, PyTorch, Python, SQL",2023-03-29,Yes,Finance
+JOB00396,AI Engineer,Infosys,Mumbai,Lead,2667681,"Python, LLMs, Prompt Engineering, OpenAI API, PyTorch, Vector Databases, LangChain",2024-12-19,No,IT
+JOB00397,Software Engineer,Paytm,Chennai,Principal,3907347,"JavaScript, Git, Microservices, Docker",2023-01-31,Hybrid,Fintech
+JOB00398,Data Analyst,Cognizant,Noida,Principal,5841015,"Excel, Statistics, Pandas, R, Data Visualization, Tableau, SQL",2022-12-08,No,EdTech
+JOB00399,Frontend Developer,Amazon India,Gurgaon,Mid,1259835,"Redux, CSS, GraphQL, HTML, Vue.js, Webpack, Angular, TypeScript",2024-05-31,Yes,EdTech
+JOB00400,Cloud Architect,Paytm,Hyderabad,Mid,1093282,"Terraform, Microservices, Security, Kubernetes, Docker, AWS, Cost Optimization, Azure",2022-02-03,No,IT
+JOB00401,Backend Developer,Swiggy,Delhi NCR,Mid,925258,"Python, FastAPI, MongoDB, Redis, Node.js, AWS",2022-03-19,Yes,Finance
+JOB00402,Backend Developer,TCS,Delhi NCR,Senior,2720869,"Django, FastAPI, Docker, Java, REST APIs",2023-03-22,No,Finance
+JOB00403,DevOps Engineer,Flipkart,Kolkata,Principal,3899985,"Bash Scripting, GCP, Docker, Jenkins, Kubernetes, Ansible, Linux, AWS",2023-12-14,Yes,Finance
+JOB00404,Business Intelligence Analyst,Accenture,Hyderabad,Principal,3547959,"SQL, Data Modeling, Python, Statistics, Power BI, Tableau, Excel",2024-10-25,Yes,Fintech
+JOB00405,Business Intelligence Analyst,TCS,Ahmedabad,Lead,3434524,"Statistics, Tableau, Python, Excel, Power BI, ETL, SQL, Data Modeling",2023-11-20,Hybrid,Fintech
+JOB00406,Data Scientist,Byju's,Chennai,Principal,5174329,"Machine Learning, Statistics, Pandas, Big Data, Deep Learning, Scikit-learn",2024-09-11,No,E-commerce
+JOB00407,AI Engineer,Wipro,Kolkata,Principal,4322500,"Vector Databases, LangChain, NLP, TensorFlow, Python, PyTorch, OpenAI API, Prompt Engineering",2022-07-03,No,Healthcare
+JOB00408,Frontend Developer,Zoho,Hyderabad,Mid,1036318,"Webpack, JavaScript, HTML, React, Vue.js, Redux",2024-06-24,No,IT
+JOB00409,NLP Engineer,Oracle India,Bangalore,Mid,909385,"TensorFlow, NLP, Deep Learning, LLMs, Python, NLTK",2022-10-30,No,Fintech
+JOB00410,Product Manager,IBM India,Noida,Entry,459969,"A/B Testing, Product Strategy, Scrum, Agile, SQL, User Research, Communication",2024-12-07,No,EdTech
+JOB00411,Business Intelligence Analyst,Oracle India,Chennai,Mid,1428834,"Business Analysis, SQL, Power BI, Tableau",2022-05-04,Hybrid,EdTech
+JOB00412,Backend Developer,TechCorp India,Pune,Entry,543773,"Java, REST APIs, FastAPI, Flask",2022-08-09,Hybrid,E-commerce
+JOB00413,Software Engineer,Capgemini,Noida,Lead,3566486,"REST APIs, SQL, Git, Python",2023-01-17,No,EdTech
+JOB00414,NLP Engineer,TechCorp India,Delhi NCR,Entry,320841,"Deep Learning, Transformers, LLMs, BERT, SpaCy",2022-11-18,Hybrid,Healthcare
+JOB00415,Frontend Developer,Amazon India,Kolkata,Senior,1995357,"HTML, JavaScript, Webpack, Angular, GraphQL, Redux, Vue.js, CSS",2022-11-07,Hybrid,Finance
+JOB00416,Machine Learning Engineer,Zoho,Delhi NCR,Lead,3592024,"REST APIs, Model Deployment, FastAPI, Scikit-learn, MLOps, CI/CD, PyTorch, Azure",2023-10-02,No,EdTech
+JOB00417,Data Analyst,Paytm,Hyderabad,Mid,1384167,"Business Intelligence, R, Tableau, Data Visualization, Excel",2023-09-25,No,Finance
+JOB00418,AI Engineer,Amazon India,Kolkata,Principal,4162901,"TensorFlow, LangChain, Vector Databases, OpenAI API, PyTorch, Prompt Engineering",2022-03-02,No,Healthcare
+JOB00419,DevOps Engineer,Zoho,Chennai,Senior,1818677,"Kubernetes, AWS, Bash Scripting, Docker, GCP",2023-04-18,Yes,Fintech
+JOB00420,Data Scientist,Zomato,Ahmedabad,Senior,1666672,"Deep Learning, Pandas, NumPy, R, Scikit-learn, SQL, Spark",2024-03-04,Yes,Finance
+JOB00421,Software Engineer,TCS,Hyderabad,Mid,733795,"Java, Spring Boot, Microservices, JavaScript, REST APIs, Git, Python",2023-02-23,No,EdTech
+JOB00422,DevOps Engineer,Zoho,Gurgaon,Senior,2459541,"Jenkins, Monitoring, Docker, Bash Scripting, CI/CD",2024-03-18,Hybrid,EdTech
+JOB00423,Cloud Architect,Byju's,Kolkata,Entry,572970,"Security, Cost Optimization, AWS, Azure",2024-11-28,Hybrid,IT
+JOB00424,Cloud Architect,Oracle India,Ahmedabad,Lead,3582396,"Kubernetes, Terraform, Security, Cost Optimization",2023-09-16,Yes,E-commerce
+JOB00425,Backend Developer,Google India,Kolkata,Principal,3728785,"Node.js, SQL, Docker, Java, MongoDB, Redis, FastAPI, Flask",2022-10-05,No,E-commerce
+JOB00426,Data Scientist,TCS,Mumbai,Mid,1175718,"Spark, NLP, TensorFlow, R, Machine Learning, PyTorch, SQL, Deep Learning",2022-09-11,Hybrid,E-commerce
+JOB00427,AI Engineer,Freshworks,Hyderabad,Senior,1678900,"Prompt Engineering, LangChain, PyTorch, NLP, Computer Vision, Vector Databases, Python, LLMs",2023-11-18,Yes,Finance
+JOB00428,Data Analyst,Capgemini,Bangalore,Entry,519981,"Power BI, Pandas, Business Intelligence, Statistics, Excel, SQL",2022-09-27,Hybrid,Healthcare
+JOB00429,Data Scientist,Swiggy,Kolkata,Lead,3543600,"Pandas, Data Visualization, Python, NumPy, R, TensorFlow, NLP",2024-09-01,No,IT
+JOB00430,Data Engineer,Cognizant,Hyderabad,Principal,3527569,"ETL, Airflow, Big Data, dbt, SQL",2022-04-11,Yes,Fintech
+JOB00431,Frontend Developer,Wipro,Kolkata,Entry,376218,"Webpack, HTML, CSS, JavaScript",2022-04-11,Yes,Finance
+JOB00432,AI Engineer,Oracle India,Delhi NCR,Senior,2781548,"Vector Databases, LangChain, PyTorch, NLP, LLMs, Computer Vision, OpenAI API, Python",2022-07-10,No,E-commerce
+JOB00433,Cybersecurity Analyst,Paytm,Kolkata,Entry,697642,"Python, SIEM, Penetration Testing, OWASP, Network Security, Incident Response, Ethical Hacking",2023-11-06,Hybrid,Finance
+JOB00434,Business Intelligence Analyst,Flipkart,Gurgaon,Mid,1341784,"Tableau, Statistics, Excel, ETL",2023-08-12,No,Healthcare
+JOB00435,Cloud Architect,Oracle India,Chennai,Principal,4984168,"Cost Optimization, Security, Networking, Kubernetes, Azure",2023-04-22,Yes,IT
+JOB00436,Data Scientist,Flipkart,Bangalore,Lead,3811686,"NLP, Big Data, TensorFlow, NumPy",2024-04-29,No,Healthcare
+JOB00437,Cloud Architect,Byju's,Delhi NCR,Mid,711846,"Terraform, Cost Optimization, Azure, GCP, Docker",2024-11-03,Yes,IT
+JOB00438,AI Engineer,Infosys,Hyderabad,Senior,2215887,"Vector Databases, Python, PyTorch, TensorFlow, OpenAI API, LLMs, NLP",2024-08-29,No,Finance
+JOB00439,AI Engineer,Byju's,Noida,Lead,3626102,"OpenAI API, Prompt Engineering, Python, LangChain, Computer Vision, PyTorch",2023-10-09,Yes,Finance
+JOB00440,Data Engineer,Byju's,Hyderabad,Senior,2241543,"Hadoop, Airflow, Python, Kafka",2024-02-08,Hybrid,EdTech
+JOB00441,Full Stack Developer,TCS,Ahmedabad,Mid,1324103,"SQL, MongoDB, JavaScript, CSS",2024-04-27,Yes,Healthcare
+JOB00442,DevOps Engineer,Paytm,Bangalore,Senior,1953278,"GCP, AWS, Kubernetes, CI/CD, Docker, Jenkins, Linux, Terraform",2024-06-27,No,EdTech
+JOB00443,Data Analyst,Infosys,Ahmedabad,Mid,1056637,"R, Power BI, Statistics, Excel, SQL, Business Intelligence, Data Visualization",2023-02-25,No,Fintech
+JOB00444,Cybersecurity Analyst,Amazon India,Ahmedabad,Principal,3985851,"Ethical Hacking, Network Security, Firewalls, OWASP",2022-06-28,Yes,IT
+JOB00445,Cloud Architect,Swiggy,Mumbai,Senior,1547144,"Terraform, Kubernetes, Microservices, Azure, Docker, GCP, Cost Optimization, Networking",2023-10-16,No,Finance
+JOB00446,Data Analyst,Byju's,Delhi NCR,Senior,1740040,"Business Intelligence, R, Excel, Pandas",2023-12-19,No,Finance
+JOB00447,Business Intelligence Analyst,Infosys,Hyderabad,Senior,2703939,"Power BI, Tableau, Statistics, Data Modeling, Business Analysis",2024-06-27,Yes,E-commerce
+JOB00448,NLP Engineer,Oracle India,Delhi NCR,Entry,355536,"Python, NLP, SpaCy, BERT, Deep Learning, Transformers, NLTK",2023-12-30,Yes,Fintech
+JOB00449,Product Manager,Swiggy,Ahmedabad,Principal,3829444,"Scrum, Agile, Roadmapping, User Research, Data Analysis, Product Strategy, A/B Testing",2023-09-28,Yes,Finance
+JOB00450,Data Analyst,TechCorp India,Mumbai,Principal,4582351,"Data Visualization, Python, Statistics, Business Intelligence, R, Tableau",2024-09-25,No,IT
+JOB00451,Frontend Developer,Wipro,Delhi NCR,Lead,3467293,"HTML, CSS, Vue.js, Webpack, JavaScript",2024-04-10,Hybrid,Fintech
+JOB00452,Machine Learning Engineer,Google India,Mumbai,Senior,2617248,"MLOps, Deep Learning, REST APIs, Scikit-learn, FastAPI, Model Deployment, PyTorch",2024-09-14,No,Finance
+JOB00453,Cybersecurity Analyst,Wipro,Gurgaon,Principal,5308367,"Firewalls, Ethical Hacking, OWASP, Python, Incident Response, SIEM, Network Security",2024-09-23,Hybrid,E-commerce
+JOB00454,Frontend Developer,Zomato,Bangalore,Principal,3909590,"Vue.js, HTML, TypeScript, JavaScript, GraphQL, Redux, Angular",2023-11-02,Yes,Finance
+JOB00455,Cybersecurity Analyst,Oracle India,Kolkata,Mid,1308979,"SIEM, Firewalls, Python, Penetration Testing",2024-12-24,Hybrid,EdTech
+JOB00456,DevOps Engineer,Zoho,Noida,Mid,915651,"GCP, Linux, Monitoring, Jenkins, CI/CD, Docker",2022-01-17,No,Finance
+JOB00457,Cybersecurity Analyst,TechCorp India,Chennai,Senior,1630884,"Network Security, OWASP, Firewalls, Ethical Hacking, SIEM, Incident Response",2023-08-01,No,Fintech
+JOB00458,Data Engineer,Cognizant,Ahmedabad,Lead,3811169,"dbt, AWS, Databricks, Big Data, ETL, Airflow",2023-03-09,Yes,Finance
+JOB00459,Cloud Architect,Zomato,Kolkata,Lead,3255578,"GCP, Terraform, Cost Optimization, Azure, AWS, Microservices, Networking",2022-10-22,Yes,IT
+JOB00460,Data Analyst,Accenture,Hyderabad,Lead,3456361,"Data Visualization, Python, Pandas, Power BI, Tableau, Business Intelligence, Statistics, Excel",2023-12-29,No,EdTech
+JOB00461,Data Scientist,Infosys,Bangalore,Principal,5589421,"NLP, Pandas, PyTorch, Statistics, Big Data",2024-01-22,Hybrid,E-commerce
+JOB00462,Business Intelligence Analyst,Zoho,Mumbai,Senior,1737322,"Python, Tableau, Statistics, ETL, Data Modeling, Power BI, Business Analysis, SQL",2024-12-07,Yes,E-commerce
+JOB00463,AI Engineer,Zomato,Gurgaon,Entry,658651,"Vector Databases, Computer Vision, Python, PyTorch, LangChain, OpenAI API, NLP, TensorFlow",2024-11-15,Hybrid,Healthcare
+JOB00464,Full Stack Developer,Freshworks,Hyderabad,Senior,2117858,"React, JavaScript, SQL, REST APIs, HTML, MongoDB",2024-08-27,Hybrid,IT
+JOB00465,AI Engineer,HCL Technologies,Gurgaon,Senior,1557248,"OpenAI API, TensorFlow, PyTorch, Computer Vision, Python, Vector Databases",2023-06-01,No,Healthcare
+JOB00466,Cybersecurity Analyst,Microsoft India,Hyderabad,Senior,1529785,"SIEM, Ethical Hacking, Firewalls, Python",2024-07-03,No,Fintech
+JOB00467,Software Engineer,Accenture,Ahmedabad,Lead,2879184,"Java, REST APIs, Python, C++, Spring Boot, Git, JavaScript, Microservices",2024-02-24,Hybrid,Fintech
+JOB00468,Data Analyst,Zomato,Pune,Mid,1305822,"SQL, Power BI, Excel, Business Intelligence, Pandas, Tableau",2024-03-27,No,Fintech
+JOB00469,Product Manager,Swiggy,Kolkata,Principal,4480046,"Roadmapping, A/B Testing, Scrum, Agile, SQL, Data Analysis, Product Strategy",2023-08-15,Hybrid,Healthcare
+JOB00470,Cloud Architect,Swiggy,Chennai,Entry,351046,"Microservices, Docker, Terraform, GCP, Networking, Cost Optimization, AWS, Azure",2024-03-12,Hybrid,Fintech
+JOB00471,Data Engineer,TCS,Bangalore,Mid,1245209,"Databricks, Hadoop, Kafka, ETL, Python, Big Data",2022-01-18,No,IT
+JOB00472,Cloud Architect,Infosys,Gurgaon,Entry,659399,"Microservices, Kubernetes, Terraform, GCP, Azure, AWS, Security",2022-07-08,Hybrid,Finance
+JOB00473,Data Engineer,Wipro,Hyderabad,Entry,671235,"Spark, Big Data, Hadoop, AWS",2023-01-14,No,Healthcare
+JOB00474,DevOps Engineer,Infosys,Kolkata,Entry,634904,"GCP, Jenkins, CI/CD, Monitoring, AWS, Bash Scripting, Docker",2023-07-22,No,Healthcare
+JOB00475,Data Scientist,Cognizant,Ahmedabad,Senior,2055042,"R, Machine Learning, Spark, TensorFlow, NumPy",2024-03-15,Yes,Finance
+JOB00476,Cloud Architect,Swiggy,Bangalore,Lead,2957989,"Azure, Security, Terraform, AWS, Docker, Microservices, Networking, GCP",2023-05-29,No,Finance
+JOB00477,AI Engineer,Flipkart,Kolkata,Entry,319836,"Computer Vision, PyTorch, LLMs, NLP, Vector Databases, Python, Prompt Engineering",2024-09-06,Hybrid,IT
+JOB00478,Cloud Architect,TCS,Delhi NCR,Mid,703468,"Security, Azure, Microservices, GCP, Cost Optimization, Docker, Kubernetes",2022-04-24,Hybrid,Healthcare
+JOB00479,Machine Learning Engineer,Google India,Mumbai,Lead,3108087,"PyTorch, Azure, Python, MLOps, Scikit-learn",2023-09-05,Hybrid,Fintech
+JOB00480,Frontend Developer,Google India,Mumbai,Lead,2677969,"Angular, Vue.js, JavaScript, React, Redux, HTML, TypeScript",2024-09-28,Hybrid,Fintech
+JOB00481,Backend Developer,Google India,Mumbai,Lead,3619753,"Python, AWS, Flask, Docker, Redis, REST APIs, SQL",2022-03-29,Yes,Fintech
+JOB00482,AI Engineer,Zomato,Gurgaon,Principal,5422544,"PyTorch, NLP, TensorFlow, Python, LLMs, OpenAI API, LangChain, Vector Databases",2022-02-09,Yes,Finance
+JOB00483,Business Intelligence Analyst,Freshworks,Mumbai,Mid,715063,"SQL, Data Modeling, Business Analysis, Statistics, Excel",2022-12-16,Yes,IT
+JOB00484,DevOps Engineer,Wipro,Gurgaon,Principal,4425148,"Azure, Jenkins, CI/CD, Bash Scripting",2023-10-27,Hybrid,Finance
+JOB00485,Frontend Developer,Byju's,Hyderabad,Mid,747800,"Vue.js, CSS, React, JavaScript, Webpack, Redux, Angular, TypeScript",2024-01-28,No,Finance
+JOB00486,NLP Engineer,TechCorp India,Bangalore,Principal,3670703,"NLP, SpaCy, TensorFlow, Python, BERT",2022-06-15,Yes,IT
+JOB00487,Business Intelligence Analyst,Cognizant,Gurgaon,Principal,4690056,"Python, Power BI, Tableau, Business Analysis, Statistics, Excel, ETL",2023-05-05,Hybrid,IT
+JOB00488,Data Engineer,Capgemini,Mumbai,Mid,1452037,"Big Data, Spark, Airflow, Kafka, AWS, Python, dbt",2023-04-28,Hybrid,IT
+JOB00489,Data Engineer,Zomato,Hyderabad,Senior,2631880,"SQL, Snowflake, dbt, Airflow, Python, Spark, Databricks, AWS",2024-08-29,Yes,Fintech
+JOB00490,NLP Engineer,Infosys,Mumbai,Entry,328326,"Transformers, BERT, SpaCy, TensorFlow, NLTK, Text Processing",2024-07-17,Hybrid,IT
+JOB00491,NLP Engineer,Freshworks,Gurgaon,Principal,4237726,"Python, NLTK, NLP, Text Processing, Deep Learning",2024-06-29,No,E-commerce
+JOB00492,Software Engineer,Capgemini,Kolkata,Senior,1982477,"REST APIs, JavaScript, Python, Agile",2024-04-24,Yes,IT
+JOB00493,DevOps Engineer,Google India,Delhi NCR,Principal,5531753,"Jenkins, AWS, Azure, Terraform",2022-12-31,Yes,E-commerce
+JOB00494,Business Intelligence Analyst,HCL Technologies,Mumbai,Mid,1362722,"Data Modeling, Excel, Power BI, Tableau, SQL, Statistics",2023-07-29,No,E-commerce
+JOB00495,Full Stack Developer,TCS,Kolkata,Mid,1497273,"Node.js, SQL, React, REST APIs, HTML, Docker",2023-04-16,Hybrid,E-commerce
+JOB00496,Cybersecurity Analyst,Freshworks,Chennai,Mid,1320317,"OWASP, SIEM, Network Security, Penetration Testing, Python, Firewalls, Ethical Hacking",2024-06-08,Hybrid,Finance
+JOB00497,NLP Engineer,Google India,Ahmedabad,Principal,3521296,"Python, Text Processing, NLTK, LLMs, Transformers, Deep Learning, BERT",2024-12-23,Hybrid,IT
+JOB00498,DevOps Engineer,Microsoft India,Pune,Lead,3004389,"Ansible, Docker, Jenkins, Azure",2022-09-29,Yes,Fintech
+JOB00499,Machine Learning Engineer,Swiggy,Hyderabad,Entry,551544,"PyTorch, CI/CD, AWS, Deep Learning, Model Deployment, Python",2024-07-20,Hybrid,E-commerce
+JOB00500,Data Analyst,Oracle India,Kolkata,Senior,2473698,"Excel, Data Visualization, Statistics, Power BI",2022-03-08,No,Fintech
+JOB00501,Data Engineer,Microsoft India,Bangalore,Principal,5912686,"Databricks, Spark, Big Data, Kafka, Python",2024-11-20,Yes,E-commerce
+JOB00502,Frontend Developer,Byju's,Chennai,Lead,3798416,"CSS, Webpack, Vue.js, GraphQL",2022-05-18,Yes,Healthcare
+JOB00503,Software Engineer,IBM India,Bangalore,Principal,3976295,"Agile, JavaScript, Docker, REST APIs, C++, Microservices, Spring Boot",2024-05-16,Yes,Healthcare
+JOB00504,Frontend Developer,TCS,Chennai,Lead,3519691,"GraphQL, React, Redux, CSS, HTML, TypeScript, Vue.js, Webpack",2024-01-24,No,IT
+JOB00505,Machine Learning Engineer,HCL Technologies,Chennai,Lead,2874995,"TensorFlow, REST APIs, PyTorch, Docker, FastAPI, CI/CD",2024-10-13,Hybrid,Fintech
+JOB00506,Data Scientist,TCS,Bangalore,Senior,2373540,"Spark, Deep Learning, R, SQL, Statistics, Data Visualization, Python, PyTorch",2023-01-23,Yes,EdTech
+JOB00507,AI Engineer,Freshworks,Hyderabad,Senior,2363380,"LLMs, Vector Databases, OpenAI API, Computer Vision, LangChain, Prompt Engineering, NLP, TensorFlow",2023-09-15,No,Finance
+JOB00508,Product Manager,Cognizant,Gurgaon,Senior,1975596,"User Research, SQL, Roadmapping, Product Strategy, Agile, Scrum, A/B Testing",2024-07-22,Yes,Fintech
+JOB00509,Cloud Architect,Freshworks,Hyderabad,Senior,1882269,"GCP, Cost Optimization, Kubernetes, AWS, Docker",2023-10-11,No,Healthcare
+JOB00510,Frontend Developer,Wipro,Bangalore,Mid,915120,"JavaScript, CSS, GraphQL, React, Vue.js, Angular, TypeScript, Redux",2023-09-10,No,E-commerce
+JOB00511,Product Manager,Zomato,Pune,Mid,1180290,"Scrum, Product Strategy, User Research, SQL, Roadmapping, Communication",2023-08-29,Hybrid,Fintech
+JOB00512,Data Analyst,Oracle India,Bangalore,Principal,5354325,"Excel, Pandas, SQL, Business Intelligence, Statistics, Power BI",2022-08-28,No,EdTech
+JOB00513,Cybersecurity Analyst,Accenture,Pune,Mid,1167636,"Python, SIEM, Network Security, Ethical Hacking, OWASP, Incident Response",2024-12-14,Yes,IT
+JOB00514,Machine Learning Engineer,Zoho,Gurgaon,Principal,5368386,"Azure, MLOps, Scikit-learn, AWS",2023-10-13,Hybrid,IT
+JOB00515,NLP Engineer,Microsoft India,Delhi NCR,Senior,2333739,"SpaCy, LLMs, Text Processing, TensorFlow, Python",2023-08-06,No,E-commerce
+JOB00516,Cybersecurity Analyst,Flipkart,Kolkata,Principal,3867415,"OWASP, Firewalls, Penetration Testing, Incident Response, SIEM",2022-12-02,Yes,EdTech
+JOB00517,Data Engineer,TCS,Bangalore,Entry,375308,"Airflow, Snowflake, ETL, Kafka, Spark",2024-02-09,No,Fintech
+JOB00518,NLP Engineer,Oracle India,Noida,Senior,2369298,"Deep Learning, NLTK, TensorFlow, NLP, SpaCy",2024-02-21,No,IT
+JOB00519,Cybersecurity Analyst,HCL Technologies,Pune,Senior,2727270,"OWASP, Ethical Hacking, Firewalls, Penetration Testing, Python, Network Security",2022-01-06,No,Fintech
+JOB00520,Cybersecurity Analyst,Zomato,Mumbai,Lead,2760417,"Incident Response, Python, Penetration Testing, OWASP, Network Security, Firewalls",2023-07-22,Hybrid,Fintech
+JOB00521,Frontend Developer,Freshworks,Bangalore,Principal,5515303,"TypeScript, HTML, Redux, CSS, JavaScript, Vue.js, Webpack, React",2022-11-30,Yes,Healthcare
+JOB00522,DevOps Engineer,Oracle India,Pune,Mid,1074745,"Docker, GCP, CI/CD, Jenkins, Linux",2022-04-10,Hybrid,Fintech
+JOB00523,NLP Engineer,Oracle India,Pune,Entry,569414,"TensorFlow, NLP, Text Processing, Transformers, NLTK",2023-10-10,Hybrid,Fintech
+JOB00524,Business Intelligence Analyst,Amazon India,Hyderabad,Senior,1700977,"ETL, Power BI, SQL, Tableau, Data Modeling, Python, Statistics, Excel",2024-04-23,Yes,Finance
+JOB00525,Data Analyst,Wipro,Hyderabad,Principal,4427417,"R, Business Intelligence, Excel, Tableau, Data Visualization",2022-06-06,Yes,E-commerce
+JOB00526,Frontend Developer,TechCorp India,Mumbai,Senior,2260361,"Redux, GraphQL, CSS, React, Webpack",2023-09-16,Yes,Finance
+JOB00527,Cybersecurity Analyst,Wipro,Mumbai,Mid,1421469,"Ethical Hacking, Python, Incident Response, Firewalls, Network Security",2024-05-20,Yes,E-commerce
+JOB00528,Product Manager,Zomato,Mumbai,Lead,2589164,"Agile, Product Strategy, Roadmapping, User Research, SQL",2022-05-02,No,IT
+JOB00529,Machine Learning Engineer,Cognizant,Delhi NCR,Senior,1521542,"FastAPI, TensorFlow, Deep Learning, Scikit-learn",2023-02-14,Yes,IT
+JOB00530,Data Analyst,Freshworks,Bangalore,Senior,2715826,"Statistics, Python, Tableau, Power BI, Data Visualization, SQL",2022-07-22,Hybrid,Finance
+JOB00531,Business Intelligence Analyst,Zomato,Delhi NCR,Mid,995548,"Statistics, SQL, ETL, Python, Tableau",2024-10-29,Hybrid,EdTech
+JOB00532,Data Analyst,Paytm,Chennai,Lead,3912485,"Python, Statistics, Data Visualization, Tableau",2023-03-15,No,IT
+JOB00533,Product Manager,Zomato,Mumbai,Senior,1759240,"Agile, Scrum, Data Analysis, A/B Testing, User Research, Product Strategy, Roadmapping",2023-11-03,No,Healthcare
+JOB00534,DevOps Engineer,Microsoft India,Hyderabad,Principal,4808651,"Azure, Ansible, Jenkins, GCP, Linux, Kubernetes, Docker",2024-09-01,Yes,Fintech
+JOB00535,DevOps Engineer,Cognizant,Mumbai,Entry,507811,"Ansible, Bash Scripting, Kubernetes, Linux, AWS, Azure, Jenkins",2022-07-28,No,Finance
+JOB00536,Frontend Developer,Microsoft India,Ahmedabad,Mid,1323861,"React, Angular, TypeScript, CSS, GraphQL, Vue.js, HTML",2024-03-30,Hybrid,EdTech
+JOB00537,Full Stack Developer,Accenture,Hyderabad,Lead,3572513,"React, AWS, Python, REST APIs, CSS, Node.js",2024-10-15,Yes,IT
+JOB00538,Business Intelligence Analyst,TCS,Noida,Entry,335771,"SQL, Power BI, Excel, Data Modeling, Python, Tableau, Business Analysis",2022-07-17,No,E-commerce
+JOB00539,Software Engineer,Infosys,Kolkata,Senior,2544169,"Git, Spring Boot, Docker, REST APIs, Microservices, Agile, SQL",2022-02-06,Yes,E-commerce
+JOB00540,DevOps Engineer,Flipkart,Hyderabad,Senior,2289234,"Terraform, Docker, Bash Scripting, AWS, GCP, CI/CD, Kubernetes",2024-10-03,No,Fintech
+JOB00541,Full Stack Developer,IBM India,Ahmedabad,Lead,2729390,"CSS, AWS, REST APIs, HTML, Node.js, SQL, Python, JavaScript",2024-03-12,Hybrid,E-commerce
+JOB00542,Data Engineer,Microsoft India,Gurgaon,Senior,2096508,"Python, dbt, Big Data, Databricks, Hadoop, AWS",2024-01-21,Yes,Fintech
+JOB00543,Frontend Developer,Oracle India,Gurgaon,Lead,2704157,"CSS, Webpack, TypeScript, Vue.js, JavaScript, React, HTML",2023-04-26,Yes,Fintech
+JOB00544,Machine Learning Engineer,Freshworks,Noida,Senior,1740063,"PyTorch, Python, Azure, Kubernetes, FastAPI, AWS",2024-05-15,No,Healthcare
+JOB00545,Data Scientist,Freshworks,Mumbai,Lead,3733102,"SQL, Statistics, NumPy, Big Data",2023-10-23,No,IT
+JOB00546,Business Intelligence Analyst,Zomato,Mumbai,Mid,1052287,"Statistics, ETL, Tableau, Data Modeling, Power BI, Python, Business Analysis",2023-02-18,Hybrid,Finance
+JOB00547,Backend Developer,IBM India,Mumbai,Senior,1599680,"Redis, REST APIs, Django, Java, MongoDB, FastAPI",2023-11-21,Hybrid,EdTech
+JOB00548,DevOps Engineer,Capgemini,Kolkata,Lead,2939854,"Kubernetes, Bash Scripting, GCP, Ansible, Linux, Azure",2023-10-04,No,Healthcare
+JOB00549,Data Engineer,Byju's,Gurgaon,Principal,5400978,"Hadoop, Python, ETL, dbt, Snowflake, Spark, Kafka, SQL",2023-07-03,No,EdTech
+JOB00550,Business Intelligence Analyst,Flipkart,Kolkata,Entry,573819,"ETL, Python, Tableau, Business Analysis, Statistics",2023-09-07,No,IT
+JOB00551,AI Engineer,Accenture,Mumbai,Mid,1132472,"Computer Vision, PyTorch, Vector Databases, LLMs, OpenAI API, TensorFlow",2024-04-11,Yes,Finance
+JOB00552,Data Scientist,IBM India,Hyderabad,Mid,1025625,"R, Pandas, Statistics, Data Visualization, Scikit-learn, Python, TensorFlow",2022-11-23,Yes,Healthcare
+JOB00553,Product Manager,Amazon India,Gurgaon,Senior,2654914,"Product Strategy, A/B Testing, Roadmapping, Communication, User Research",2022-06-21,No,IT
+JOB00554,NLP Engineer,Wipro,Noida,Lead,3262176,"SpaCy, TensorFlow, BERT, Python",2024-10-21,Hybrid,EdTech
+JOB00555,Product Manager,Accenture,Kolkata,Principal,4556159,"Agile, Data Analysis, SQL, Product Strategy, Scrum, Roadmapping, A/B Testing",2024-03-09,Yes,Finance
+JOB00556,Machine Learning Engineer,Microsoft India,Mumbai,Mid,924509,"AWS, MLOps, Docker, Deep Learning, Python, REST APIs",2024-12-28,No,EdTech
+JOB00557,Full Stack Developer,Oracle India,Bangalore,Lead,3931806,"SQL, React, MongoDB, AWS, REST APIs",2024-01-24,Hybrid,EdTech
+JOB00558,Data Scientist,Wipro,Noida,Entry,662116,"PyTorch, Pandas, Statistics, Spark, Scikit-learn",2024-01-14,Yes,E-commerce
+JOB00559,Full Stack Developer,Amazon India,Kolkata,Entry,506032,"SQL, Python, Node.js, CSS, HTML, Docker",2024-06-17,Yes,Healthcare
+JOB00560,Cybersecurity Analyst,TCS,Delhi NCR,Entry,557788,"Incident Response, OWASP, SIEM, Penetration Testing, Network Security, Ethical Hacking, Python",2024-11-02,No,EdTech
+JOB00561,Business Intelligence Analyst,TechCorp India,Kolkata,Principal,4870565,"SQL, Statistics, ETL, Business Analysis, Tableau, Excel, Power BI",2022-10-06,Yes,Fintech
+JOB00562,Backend Developer,Zoho,Kolkata,Senior,2707559,"Java, Node.js, Django, MongoDB",2022-09-24,No,E-commerce
+JOB00563,DevOps Engineer,Flipkart,Delhi NCR,Mid,973342,"Bash Scripting, Linux, CI/CD, GCP, Azure",2022-06-22,Yes,E-commerce
+JOB00564,NLP Engineer,IBM India,Hyderabad,Lead,3696195,"Python, Text Processing, BERT, Deep Learning, NLTK",2023-02-11,Yes,E-commerce
+JOB00565,Data Engineer,Flipkart,Ahmedabad,Lead,3759114,"Hadoop, Spark, Kafka, dbt, Databricks, Python",2024-12-12,Hybrid,E-commerce
+JOB00566,Machine Learning Engineer,HCL Technologies,Kolkata,Mid,1448225,"Scikit-learn, FastAPI, Docker, CI/CD, AWS",2024-02-22,Yes,EdTech
+JOB00567,Software Engineer,Accenture,Delhi NCR,Senior,1897123,"C++, Microservices, Docker, Java, Git, Agile, Python",2024-07-12,Hybrid,Fintech
+JOB00568,AI Engineer,Capgemini,Kolkata,Lead,2679807,"OpenAI API, PyTorch, LLMs, Vector Databases",2024-03-25,Hybrid,E-commerce
+JOB00569,Business Intelligence Analyst,Zomato,Delhi NCR,Principal,4574688,"Tableau, SQL, Python, Power BI",2023-04-26,Hybrid,Fintech
+JOB00570,Product Manager,HCL Technologies,Noida,Principal,3690890,"SQL, Roadmapping, Scrum, Data Analysis",2024-01-30,Yes,EdTech
+JOB00571,Data Analyst,Wipro,Delhi NCR,Senior,1856235,"Pandas, Statistics, Business Intelligence, Excel, SQL, Python, Tableau, R",2023-06-18,Yes,Finance
+JOB00572,DevOps Engineer,Zomato,Hyderabad,Senior,2256216,"GCP, Monitoring, Linux, Bash Scripting, CI/CD, Azure, Kubernetes",2023-10-09,Hybrid,Fintech
+JOB00573,AI Engineer,IBM India,Hyderabad,Lead,2611615,"PyTorch, Python, NLP, TensorFlow, LangChain",2024-08-21,Hybrid,E-commerce
+JOB00574,Full Stack Developer,Zomato,Mumbai,Entry,559475,"AWS, MongoDB, REST APIs, CSS",2024-07-26,Hybrid,Finance
+JOB00575,Machine Learning Engineer,Freshworks,Gurgaon,Senior,1696247,"REST APIs, Docker, PyTorch, CI/CD, Azure",2023-07-13,Yes,EdTech
+JOB00576,Data Scientist,Amazon India,Bangalore,Principal,5894057,"Statistics, Machine Learning, TensorFlow, R, Scikit-learn",2022-07-13,No,Fintech
+JOB00577,AI Engineer,Zomato,Ahmedabad,Entry,506658,"Vector Databases, TensorFlow, LLMs, LangChain, Python, OpenAI API",2024-07-31,Hybrid,Healthcare
+JOB00578,Data Engineer,Capgemini,Bangalore,Entry,472714,"Databricks, Big Data, Snowflake, Kafka",2022-09-22,Hybrid,Healthcare
+JOB00579,Frontend Developer,Cognizant,Chennai,Entry,689965,"GraphQL, TypeScript, React, Angular",2023-06-07,No,IT
+JOB00580,Data Scientist,Zomato,Kolkata,Mid,870855,"Data Visualization, Statistics, PyTorch, Scikit-learn, NLP, Deep Learning, Machine Learning",2023-09-04,Hybrid,Healthcare
+JOB00581,NLP Engineer,IBM India,Gurgaon,Principal,4050656,"NLP, LLMs, BERT, NLTK, SpaCy, Deep Learning",2024-09-02,Hybrid,E-commerce
+JOB00582,Machine Learning Engineer,HCL Technologies,Ahmedabad,Lead,3272246,"PyTorch, MLOps, Model Deployment, FastAPI, TensorFlow, Python, Kubernetes, Scikit-learn",2023-04-05,Hybrid,Fintech
+JOB00583,AI Engineer,HCL Technologies,Pune,Principal,3852196,"OpenAI API, Prompt Engineering, TensorFlow, LangChain, NLP, PyTorch",2022-11-01,Yes,EdTech
+JOB00584,Full Stack Developer,Flipkart,Kolkata,Senior,2692305,"REST APIs, Python, JavaScript, HTML",2024-11-11,Yes,E-commerce
+JOB00585,AI Engineer,Cognizant,Kolkata,Principal,4562754,"Computer Vision, TensorFlow, Python, OpenAI API, LLMs, NLP",2023-01-03,Yes,IT
+JOB00586,Full Stack Developer,Zoho,Pune,Senior,2158393,"AWS, CSS, SQL, MongoDB, Docker, Python, HTML, REST APIs",2022-06-10,Hybrid,IT
+JOB00587,Full Stack Developer,Swiggy,Kolkata,Principal,3575141,"Docker, Python, JavaScript, React",2024-09-04,Hybrid,Fintech
+JOB00588,Data Engineer,Wipro,Bangalore,Lead,3135017,"Big Data, Kafka, AWS, Airflow, Spark, Snowflake, dbt, Python",2023-01-26,Hybrid,Finance
+JOB00589,Cybersecurity Analyst,HCL Technologies,Ahmedabad,Entry,409696,"SIEM, Firewalls, Python, Penetration Testing, Incident Response, Network Security, Ethical Hacking",2024-08-07,No,IT
+JOB00590,Machine Learning Engineer,Freshworks,Kolkata,Mid,859826,"AWS, REST APIs, Python, FastAPI, Deep Learning, Scikit-learn, Azure",2023-08-27,Yes,Healthcare
+JOB00591,Data Scientist,Infosys,Ahmedabad,Entry,630516,"Statistics, Big Data, R, NLP, NumPy, Scikit-learn, Pandas",2023-08-19,No,E-commerce
+JOB00592,Cloud Architect,Byju's,Mumbai,Principal,5546407,"AWS, Networking, Cost Optimization, Kubernetes, Terraform",2023-10-09,No,Fintech
+JOB00593,Full Stack Developer,Zomato,Delhi NCR,Lead,2745242,"HTML, MongoDB, AWS, Docker, JavaScript, Python, React",2023-01-29,No,Finance
+JOB00594,Cloud Architect,Microsoft India,Ahmedabad,Mid,1316204,"Cost Optimization, Security, GCP, Networking, Microservices, Kubernetes",2024-05-03,Yes,EdTech
+JOB00595,Software Engineer,Zomato,Pune,Senior,1680757,"C++, Docker, JavaScript, Agile, Spring Boot, Git, Java",2024-05-01,Yes,Finance
+JOB00596,Cloud Architect,Amazon India,Kolkata,Entry,309505,"Terraform, Microservices, GCP, Azure, Cost Optimization, AWS",2022-05-11,Yes,EdTech
+JOB00597,Software Engineer,Byju's,Pune,Entry,594640,"SQL, Spring Boot, REST APIs, Git, Microservices",2022-04-06,Yes,Fintech
+JOB00598,Cybersecurity Analyst,Zoho,Gurgaon,Principal,3936803,"OWASP, Incident Response, Penetration Testing, Network Security",2022-08-05,Yes,EdTech
+JOB00599,Data Scientist,Swiggy,Noida,Principal,3942126,"Scikit-learn, Machine Learning, TensorFlow, SQL, Deep Learning",2023-08-22,No,Fintech
+JOB00600,Cybersecurity Analyst,TechCorp India,Chennai,Entry,380895,"Firewalls, Incident Response, Python, Network Security, OWASP, Penetration Testing",2024-05-01,No,Healthcare
+JOB00601,Backend Developer,HCL Technologies,Noida,Principal,4218324,"FastAPI, Flask, REST APIs, Docker",2023-05-18,No,Finance
+JOB00602,Data Analyst,TCS,Mumbai,Lead,3366982,"Pandas, R, Statistics, SQL, Tableau, Excel, Data Visualization",2024-11-25,No,Healthcare
+JOB00603,Full Stack Developer,Oracle India,Kolkata,Mid,1155157,"Docker, JavaScript, React, HTML",2024-11-30,No,Fintech
+JOB00604,Business Intelligence Analyst,Swiggy,Chennai,Principal,4776423,"ETL, SQL, Business Analysis, Power BI, Data Modeling, Tableau",2024-04-07,Hybrid,EdTech
+JOB00605,Product Manager,HCL Technologies,Noida,Principal,5354485,"Roadmapping, Data Analysis, Scrum, Product Strategy, User Research, Communication",2024-03-09,Hybrid,Healthcare
+JOB00606,Software Engineer,Oracle India,Kolkata,Entry,568263,"Spring Boot, Git, REST APIs, C++, Java, Microservices, Docker, SQL",2023-05-10,Hybrid,IT
+JOB00607,Business Intelligence Analyst,Freshworks,Bangalore,Entry,495548,"Statistics, ETL, SQL, Business Analysis, Python, Excel",2023-09-03,No,Healthcare
+JOB00608,Software Engineer,Paytm,Chennai,Principal,5872286,"Agile, JavaScript, REST APIs, Spring Boot, C++, Git, SQL, Python",2024-02-13,Yes,Healthcare
+JOB00609,Cloud Architect,TCS,Bangalore,Principal,4307635,"Security, Azure, GCP, Microservices, Kubernetes, Docker",2022-06-17,No,Finance
+JOB00610,DevOps Engineer,Google India,Pune,Mid,1167836,"CI/CD, Bash Scripting, Ansible, Jenkins",2024-11-28,Hybrid,E-commerce
+JOB00611,AI Engineer,Paytm,Noida,Lead,3422914,"Prompt Engineering, PyTorch, LangChain, Computer Vision, TensorFlow, NLP, Vector Databases",2022-09-22,Yes,Fintech
+JOB00612,Software Engineer,Wipro,Mumbai,Lead,3492698,"C++, Git, REST APIs, Python",2024-04-16,No,EdTech
+JOB00613,Backend Developer,Zomato,Bangalore,Entry,574085,"Java, Flask, FastAPI, Docker, Redis",2023-08-26,Yes,Finance
+JOB00614,Product Manager,TechCorp India,Mumbai,Principal,5268976,"SQL, Communication, Agile, Roadmapping",2024-09-28,Hybrid,Healthcare
+JOB00615,Machine Learning Engineer,HCL Technologies,Noida,Entry,518929,"Deep Learning, Docker, REST APIs, AWS, Kubernetes, MLOps, Model Deployment",2022-09-29,Hybrid,E-commerce
+JOB00616,Product Manager,Google India,Delhi NCR,Lead,3899263,"Scrum, User Research, Product Strategy, SQL, A/B Testing, Data Analysis, Agile",2023-04-22,Hybrid,IT
+JOB00617,AI Engineer,Byju's,Mumbai,Lead,3081697,"PyTorch, Python, Computer Vision, OpenAI API",2022-09-11,Yes,EdTech
+JOB00618,Cloud Architect,Capgemini,Chennai,Principal,3721771,"Networking, Kubernetes, Security, Terraform, AWS, Microservices, Azure, Docker",2023-07-18,Hybrid,EdTech
+JOB00619,DevOps Engineer,Cognizant,Kolkata,Entry,579730,"CI/CD, Jenkins, Linux, Docker, Terraform, Bash Scripting, Ansible, AWS",2024-06-14,Yes,EdTech
+JOB00620,Frontend Developer,Cognizant,Pune,Lead,3039340,"React, Webpack, Vue.js, Redux",2022-10-22,Yes,Finance
+JOB00621,Backend Developer,Oracle India,Kolkata,Lead,3923145,"Python, Redis, Flask, Node.js, AWS",2022-04-30,Yes,Healthcare
+JOB00622,Data Analyst,Zomato,Noida,Lead,3179933,"Data Visualization, Excel, SQL, R, Business Intelligence, Power BI",2023-04-30,Hybrid,E-commerce
+JOB00623,Machine Learning Engineer,Accenture,Bangalore,Senior,1627154,"AWS, Azure, MLOps, TensorFlow, REST APIs, Python",2024-04-14,No,EdTech
+JOB00624,Data Engineer,HCL Technologies,Delhi NCR,Entry,429140,"Databricks, Hadoop, Airflow, AWS, Snowflake, Python, Kafka, Big Data",2023-02-21,Hybrid,Finance
+JOB00625,Product Manager,TechCorp India,Bangalore,Mid,1263646,"Communication, A/B Testing, Product Strategy, Roadmapping, Data Analysis, Scrum, SQL",2022-12-09,No,Healthcare
+JOB00626,Data Engineer,Byju's,Gurgaon,Senior,2297239,"Databricks, SQL, Big Data, ETL, Airflow, Python",2022-11-27,Yes,Healthcare
+JOB00627,Machine Learning Engineer,Flipkart,Chennai,Lead,3964712,"REST APIs, PyTorch, CI/CD, Azure",2023-07-27,Hybrid,EdTech
+JOB00628,Product Manager,Swiggy,Gurgaon,Senior,2218558,"A/B Testing, SQL, Agile, User Research, Scrum, Communication",2023-03-08,No,IT
+JOB00629,NLP Engineer,Flipkart,Noida,Mid,1377844,"Text Processing, NLTK, Python, Deep Learning",2022-12-22,Hybrid,Fintech
+JOB00630,DevOps Engineer,Swiggy,Mumbai,Lead,3628543,"Bash Scripting, Monitoring, Kubernetes, Ansible",2022-03-05,No,E-commerce
+JOB00631,Cybersecurity Analyst,Swiggy,Bangalore,Principal,5001417,"SIEM, Incident Response, Firewalls, Network Security, Ethical Hacking, Python, OWASP",2023-01-31,Yes,Fintech
+JOB00632,Data Scientist,Accenture,Ahmedabad,Senior,2250405,"Machine Learning, Big Data, NumPy, Scikit-learn, PyTorch",2023-03-29,No,IT
+JOB00633,Backend Developer,Zomato,Hyderabad,Lead,3976495,"Django, Python, AWS, REST APIs, Java, MongoDB, Node.js, FastAPI",2024-10-21,Hybrid,Finance
+JOB00634,AI Engineer,Paytm,Pune,Principal,5870369,"TensorFlow, PyTorch, Vector Databases, OpenAI API, LangChain",2023-04-12,Yes,Fintech
+JOB00635,Data Scientist,IBM India,Mumbai,Principal,4560827,"Spark, R, Python, Statistics, Scikit-learn, Data Visualization, SQL, NLP",2024-04-13,Hybrid,EdTech
+JOB00636,DevOps Engineer,Google India,Chennai,Lead,3258061,"Docker, Azure, Monitoring, GCP, Jenkins, Ansible, Bash Scripting, AWS",2022-01-11,No,IT
+JOB00637,NLP Engineer,Oracle India,Mumbai,Principal,3606417,"SpaCy, NLP, BERT, Deep Learning, Text Processing",2023-11-06,Hybrid,Fintech
+JOB00638,Machine Learning Engineer,Zomato,Chennai,Entry,551640,"FastAPI, Python, Deep Learning, Model Deployment, Kubernetes, Docker, Scikit-learn",2022-08-09,No,IT
+JOB00639,Cybersecurity Analyst,Swiggy,Gurgaon,Senior,2589837,"Python, Incident Response, Ethical Hacking, Firewalls, Penetration Testing",2022-07-15,Yes,IT
+JOB00640,Data Scientist,Infosys,Pune,Entry,497863,"Spark, Big Data, NLP, Machine Learning, Deep Learning, Python",2024-06-24,Hybrid,Fintech
+JOB00641,Full Stack Developer,Wipro,Gurgaon,Entry,353386,"REST APIs, JavaScript, SQL, Docker",2024-04-02,No,Finance
+JOB00642,Cybersecurity Analyst,Paytm,Delhi NCR,Principal,3544487,"Incident Response, Penetration Testing, OWASP, Ethical Hacking, Network Security, Python, Firewalls",2024-07-18,Hybrid,Finance
+JOB00643,Machine Learning Engineer,Zomato,Gurgaon,Entry,306442,"CI/CD, TensorFlow, Deep Learning, Scikit-learn, REST APIs, PyTorch, Docker, Azure",2024-05-12,No,Finance
+JOB00644,Software Engineer,Freshworks,Noida,Mid,746211,"C++, Spring Boot, Microservices, REST APIs",2023-09-30,Yes,Finance
+JOB00645,DevOps Engineer,Paytm,Noida,Senior,2765273,"GCP, CI/CD, Docker, Ansible, AWS, Linux",2023-05-02,Yes,E-commerce
+JOB00646,Frontend Developer,Zoho,Delhi NCR,Mid,910105,"React, CSS, Angular, GraphQL, Redux",2024-08-15,Hybrid,EdTech
+JOB00647,Frontend Developer,Accenture,Chennai,Principal,4756745,"CSS, Vue.js, React, Angular, JavaScript, TypeScript, Redux",2022-01-08,No,EdTech
+JOB00648,Software Engineer,TechCorp India,Mumbai,Mid,1204098,"Microservices, JavaScript, Docker, C++, Git, Java",2024-01-14,No,IT
+JOB00649,Cloud Architect,Oracle India,Hyderabad,Entry,374659,"Security, Kubernetes, Microservices, AWS, Docker, Azure",2023-02-10,Yes,Healthcare
+JOB00650,Business Intelligence Analyst,Google India,Mumbai,Mid,1056324,"Excel, Power BI, Tableau, SQL, Business Analysis, Python, ETL, Statistics",2022-10-09,No,Finance
+JOB00651,Backend Developer,Wipro,Hyderabad,Lead,3003630,"Flask, Docker, Node.js, MongoDB, REST APIs, AWS",2022-05-14,Yes,Finance
+JOB00652,Software Engineer,Byju's,Pune,Principal,5086267,"REST APIs, Agile, Microservices, JavaScript, Java, Spring Boot",2023-01-23,Yes,Healthcare
+JOB00653,Software Engineer,Zoho,Mumbai,Entry,630017,"C++, Git, SQL, JavaScript, REST APIs, Java",2024-08-21,Yes,EdTech
+JOB00654,Full Stack Developer,Zomato,Ahmedabad,Principal,5069785,"REST APIs, AWS, React, MongoDB, HTML, CSS, SQL",2024-09-16,No,EdTech
+JOB00655,Full Stack Developer,Oracle India,Kolkata,Principal,3653530,"Node.js, CSS, AWS, HTML, REST APIs",2023-03-24,No,EdTech
+JOB00656,Data Analyst,Swiggy,Noida,Senior,2033786,"Excel, Python, Business Intelligence, R, Tableau, Power BI, Data Visualization, SQL",2022-03-26,Hybrid,Healthcare
+JOB00657,Full Stack Developer,Swiggy,Chennai,Lead,3480525,"Docker, MongoDB, AWS, HTML, React, Node.js, JavaScript",2023-01-03,No,Fintech
+JOB00658,Machine Learning Engineer,Wipro,Mumbai,Senior,1672844,"REST APIs, Azure, FastAPI, CI/CD, TensorFlow, Docker",2023-04-12,Yes,Healthcare
+JOB00659,Data Scientist,Zoho,Hyderabad,Principal,4340146,"TensorFlow, Scikit-learn, SQL, PyTorch, NLP, Big Data",2023-01-26,Hybrid,Fintech
+JOB00660,Cloud Architect,Paytm,Hyderabad,Senior,1517896,"Terraform, Microservices, Docker, Kubernetes, Cost Optimization, AWS",2024-08-24,No,Finance
+JOB00661,Software Engineer,Amazon India,Mumbai,Mid,1197484,"Git, Agile, Docker, SQL, REST APIs",2024-08-02,No,Finance
+JOB00662,Full Stack Developer,TechCorp India,Ahmedabad,Lead,2939531,"AWS, REST APIs, JavaScript, MongoDB, Python, SQL, Docker",2023-09-18,Hybrid,Healthcare
+JOB00663,Frontend Developer,HCL Technologies,Delhi NCR,Mid,1139507,"TypeScript, GraphQL, HTML, Vue.js, Redux, JavaScript, CSS",2022-10-12,Hybrid,Fintech
+JOB00664,Product Manager,Wipro,Delhi NCR,Principal,5907021,"Roadmapping, Data Analysis, A/B Testing, Product Strategy, SQL, Communication, User Research",2024-08-30,Hybrid,E-commerce
+JOB00665,AI Engineer,TechCorp India,Hyderabad,Senior,1695541,"TensorFlow, LangChain, PyTorch, Python, LLMs",2024-09-27,Yes,IT
+JOB00666,NLP Engineer,Paytm,Bangalore,Lead,3095208,"BERT, Transformers, NLP, Text Processing, Python",2024-01-25,Yes,Healthcare
+JOB00667,Cybersecurity Analyst,Google India,Chennai,Lead,3320207,"Python, OWASP, Ethical Hacking, Penetration Testing, Firewalls",2022-05-21,Yes,Finance
+JOB00668,Backend Developer,IBM India,Chennai,Lead,3988289,"Node.js, Redis, Docker, FastAPI, Django, MongoDB, Flask",2024-07-28,Yes,Finance
+JOB00669,DevOps Engineer,Oracle India,Ahmedabad,Entry,509315,"Azure, Ansible, CI/CD, Terraform, Bash Scripting, Monitoring, GCP, Docker",2022-07-06,No,Fintech
+JOB00670,Cybersecurity Analyst,Google India,Bangalore,Senior,2320175,"SIEM, Penetration Testing, Python, Firewalls, Incident Response, Ethical Hacking, OWASP, Network Security",2022-07-15,Yes,Finance
+JOB00671,Backend Developer,Microsoft India,Mumbai,Principal,4724273,"AWS, Django, SQL, REST APIs",2022-09-06,Yes,EdTech
+JOB00672,Product Manager,Swiggy,Kolkata,Senior,2360033,"Scrum, SQL, Agile, A/B Testing, Product Strategy, Data Analysis, User Research",2022-05-30,No,Fintech
+JOB00673,Full Stack Developer,Swiggy,Ahmedabad,Mid,1115943,"JavaScript, SQL, Python, React",2023-11-01,No,IT
+JOB00674,Machine Learning Engineer,Oracle India,Mumbai,Principal,4516253,"PyTorch, AWS, Docker, REST APIs, Model Deployment, Python, TensorFlow",2022-12-29,Hybrid,Fintech
+JOB00675,Full Stack Developer,Cognizant,Chennai,Mid,781354,"CSS, SQL, React, AWS",2024-01-04,Hybrid,IT
+JOB00676,NLP Engineer,Zoho,Bangalore,Principal,4406668,"Python, Deep Learning, NLP, BERT, LLMs, TensorFlow, SpaCy",2022-04-18,Yes,E-commerce
+JOB00677,Product Manager,Amazon India,Chennai,Mid,961829,"Data Analysis, Communication, Product Strategy, Roadmapping, A/B Testing, User Research",2022-01-30,Hybrid,Fintech
+JOB00678,Machine Learning Engineer,Amazon India,Delhi NCR,Mid,801295,"CI/CD, PyTorch, Python, MLOps, Azure",2022-08-09,Hybrid,Fintech
+JOB00679,Software Engineer,TechCorp India,Kolkata,Principal,4368721,"Microservices, Docker, Python, JavaScript, Git, Java, C++, Spring Boot",2022-12-22,Hybrid,Healthcare
+JOB00680,Data Scientist,TCS,Chennai,Lead,2946206,"TensorFlow, Machine Learning, Scikit-learn, PyTorch, Data Visualization, NumPy, SQL",2022-03-31,No,Healthcare
+JOB00681,Product Manager,Google India,Hyderabad,Principal,5595373,"Communication, Scrum, A/B Testing, Product Strategy",2023-10-27,No,Finance
+JOB00682,AI Engineer,Accenture,Noida,Senior,2511100,"LLMs, Python, OpenAI API, NLP",2024-11-12,Hybrid,Fintech
+JOB00683,Data Scientist,Microsoft India,Ahmedabad,Mid,722243,"Data Visualization, Machine Learning, PyTorch, TensorFlow, Statistics, NLP, Big Data, Python",2022-10-09,No,Finance
+JOB00684,Data Analyst,Amazon India,Bangalore,Lead,2928627,"Tableau, Pandas, Statistics, Excel",2023-07-24,Hybrid,E-commerce
+JOB00685,AI Engineer,Accenture,Chennai,Senior,1549688,"LLMs, Vector Databases, NLP, TensorFlow, Computer Vision",2022-04-21,Hybrid,E-commerce
+JOB00686,Cloud Architect,HCL Technologies,Mumbai,Senior,1884922,"AWS, Azure, Security, Cost Optimization, Networking, Docker, Microservices",2023-02-23,Yes,EdTech
+JOB00687,Cloud Architect,Zoho,Chennai,Mid,947789,"Azure, Docker, Security, GCP, Cost Optimization, Microservices, Terraform, Kubernetes",2022-12-28,No,Healthcare
+JOB00688,Data Engineer,Cognizant,Ahmedabad,Lead,3832957,"Airflow, Snowflake, Spark, Kafka, AWS",2024-02-13,No,E-commerce
+JOB00689,Cloud Architect,Zoho,Noida,Principal,5317939,"Security, AWS, Docker, Kubernetes, Networking",2023-09-07,Yes,EdTech
+JOB00690,Business Intelligence Analyst,HCL Technologies,Ahmedabad,Mid,969789,"Python, Data Modeling, Excel, Power BI, Business Analysis, Statistics, SQL",2023-11-14,Yes,Finance
+JOB00691,NLP Engineer,Google India,Delhi NCR,Mid,704383,"Deep Learning, LLMs, NLTK, BERT",2024-05-01,No,E-commerce
+JOB00692,Backend Developer,Microsoft India,Noida,Principal,3798778,"Python, Java, REST APIs, Node.js, Django, Redis, SQL",2023-06-07,Hybrid,E-commerce
+JOB00693,AI Engineer,IBM India,Gurgaon,Senior,1621015,"Prompt Engineering, NLP, LangChain, OpenAI API, Python, PyTorch, LLMs",2022-10-30,No,Fintech
+JOB00694,Data Analyst,Paytm,Chennai,Senior,2018866,"Business Intelligence, Python, SQL, Pandas, Data Visualization, Tableau, Power BI, R",2022-06-14,No,Finance
+JOB00695,Cybersecurity Analyst,HCL Technologies,Pune,Lead,3030309,"Incident Response, Ethical Hacking, SIEM, Penetration Testing, Network Security, OWASP",2023-12-07,Hybrid,Finance
+JOB00696,NLP Engineer,Paytm,Kolkata,Lead,3965928,"Python, TensorFlow, NLTK, Text Processing, SpaCy, LLMs",2024-05-05,Hybrid,Healthcare
+JOB00697,Business Intelligence Analyst,Cognizant,Noida,Lead,2857845,"ETL, Power BI, Statistics, Tableau, Business Analysis",2024-09-23,Yes,E-commerce
+JOB00698,Data Engineer,Zoho,Mumbai,Mid,894655,"Python, Hadoop, SQL, Airflow, AWS",2024-06-21,Hybrid,Finance
+JOB00699,Machine Learning Engineer,Wipro,Bangalore,Senior,1679740,"TensorFlow, Docker, REST APIs, Kubernetes, Python, Scikit-learn, AWS",2024-09-20,Yes,Healthcare
+JOB00700,Product Manager,Zomato,Delhi NCR,Entry,648820,"Product Strategy, Agile, A/B Testing, SQL, Communication, Data Analysis, Scrum, Roadmapping",2024-09-22,Hybrid,E-commerce
+JOB00701,Frontend Developer,Amazon India,Mumbai,Senior,2219485,"Angular, CSS, TypeScript, Webpack, HTML, JavaScript",2023-12-31,Yes,E-commerce
+JOB00702,Cybersecurity Analyst,Microsoft India,Ahmedabad,Lead,2791216,"Python, Incident Response, Ethical Hacking, SIEM",2023-05-25,Hybrid,Fintech
+JOB00703,AI Engineer,Swiggy,Chennai,Lead,3579852,"NLP, Python, LLMs, LangChain, OpenAI API, PyTorch, Prompt Engineering",2023-10-29,Hybrid,E-commerce
+JOB00704,Full Stack Developer,HCL Technologies,Noida,Principal,3841287,"Docker, AWS, Python, CSS, React, SQL",2023-02-04,Hybrid,Fintech
+JOB00705,Cloud Architect,Accenture,Chennai,Entry,367036,"Azure, Terraform, Security, Cost Optimization, Kubernetes, AWS, Microservices",2023-05-09,Yes,Fintech
+JOB00706,Business Intelligence Analyst,Zomato,Mumbai,Entry,355296,"SQL, Power BI, Python, Excel, Business Analysis, Tableau, Data Modeling",2023-06-12,Hybrid,Finance
+JOB00707,NLP Engineer,Google India,Kolkata,Principal,5563424,"LLMs, BERT, NLP, Text Processing",2023-12-04,Hybrid,Fintech
+JOB00708,Product Manager,TCS,Delhi NCR,Principal,5332752,"Data Analysis, SQL, Product Strategy, Scrum, Roadmapping",2022-08-17,Hybrid,EdTech
+JOB00709,NLP Engineer,Google India,Gurgaon,Mid,1480788,"Text Processing, LLMs, TensorFlow, SpaCy",2023-10-04,Hybrid,IT
+JOB00710,Backend Developer,Zoho,Gurgaon,Entry,609361,"Django, REST APIs, Docker, Flask, MongoDB, Redis, SQL, Java",2024-11-30,Yes,IT
+JOB00711,Full Stack Developer,Zoho,Pune,Entry,582220,"MongoDB, React, SQL, Node.js, AWS, CSS, Docker",2022-10-29,Yes,Fintech
+JOB00712,AI Engineer,Capgemini,Ahmedabad,Entry,613985,"Computer Vision, LangChain, TensorFlow, PyTorch, LLMs, Vector Databases",2024-09-06,No,Fintech
+JOB00713,Full Stack Developer,Google India,Pune,Entry,474663,"Node.js, CSS, JavaScript, React, Docker",2024-09-25,Hybrid,Finance
+JOB00714,Data Scientist,Paytm,Pune,Principal,5145364,"Statistics, Scikit-learn, R, SQL, Spark, Big Data",2022-05-28,No,Fintech
+JOB00715,NLP Engineer,Freshworks,Hyderabad,Mid,1435165,"SpaCy, NLP, TensorFlow, NLTK, Transformers, Python, Text Processing, Deep Learning",2022-12-02,No,Fintech
+JOB00716,DevOps Engineer,Google India,Kolkata,Senior,1803715,"Azure, Monitoring, Docker, CI/CD, Kubernetes",2022-10-30,Hybrid,Finance
+JOB00717,NLP Engineer,HCL Technologies,Kolkata,Entry,350356,"NLTK, TensorFlow, Python, Text Processing, Transformers, Deep Learning",2024-06-07,Yes,IT
+JOB00718,Machine Learning Engineer,IBM India,Ahmedabad,Mid,1115912,"Docker, CI/CD, Deep Learning, PyTorch, MLOps, TensorFlow, AWS",2024-02-22,No,IT
+JOB00719,Machine Learning Engineer,TechCorp India,Gurgaon,Entry,343325,"AWS, Model Deployment, FastAPI, Azure",2023-04-06,Hybrid,EdTech
+JOB00720,DevOps Engineer,TCS,Noida,Senior,1698292,"AWS, Jenkins, Terraform, Bash Scripting, GCP, Linux, Kubernetes, Docker",2023-10-29,Yes,E-commerce
+JOB00721,Cybersecurity Analyst,TechCorp India,Noida,Entry,506462,"OWASP, Network Security, Ethical Hacking, Firewalls, Incident Response, Penetration Testing, SIEM, Python",2023-01-04,No,Healthcare
+JOB00722,Machine Learning Engineer,Paytm,Pune,Entry,367536,"Scikit-learn, Model Deployment, PyTorch, TensorFlow, Azure, Docker, Python, AWS",2022-09-13,No,EdTech
+JOB00723,Data Analyst,Byju's,Ahmedabad,Lead,3880260,"Tableau, Power BI, SQL, R",2023-08-24,Yes,EdTech
+JOB00724,DevOps Engineer,Accenture,Bangalore,Senior,2596110,"Linux, Ansible, Bash Scripting, Azure, Kubernetes, CI/CD",2022-04-02,Yes,Finance
+JOB00725,Backend Developer,TCS,Noida,Mid,840727,"MongoDB, Django, Redis, Flask, FastAPI, Java, AWS, SQL",2024-05-14,No,Healthcare
+JOB00726,Full Stack Developer,Capgemini,Delhi NCR,Mid,1119492,"Python, SQL, Docker, React, HTML, CSS, JavaScript",2023-07-06,Hybrid,Fintech
+JOB00727,AI Engineer,IBM India,Mumbai,Principal,4188046,"PyTorch, LLMs, Prompt Engineering, NLP, Python, Computer Vision, TensorFlow",2022-06-08,Hybrid,IT
+JOB00728,AI Engineer,HCL Technologies,Chennai,Principal,5206164,"LLMs, TensorFlow, Vector Databases, PyTorch",2023-07-14,No,IT
+JOB00729,Machine Learning Engineer,Paytm,Delhi NCR,Lead,2966040,"TensorFlow, FastAPI, REST APIs, PyTorch, Azure, Docker, AWS",2022-07-15,Hybrid,EdTech
+JOB00730,Cybersecurity Analyst,Byju's,Noida,Senior,2656667,"Python, Network Security, OWASP, SIEM, Penetration Testing, Incident Response",2023-12-08,Hybrid,E-commerce
+JOB00731,DevOps Engineer,Freshworks,Pune,Principal,4035076,"Docker, Bash Scripting, Ansible, AWS, Linux, Kubernetes",2024-02-15,Yes,Fintech
+JOB00732,AI Engineer,Paytm,Chennai,Senior,2022424,"Prompt Engineering, OpenAI API, PyTorch, NLP, LangChain, Vector Databases, LLMs, TensorFlow",2024-05-26,No,Fintech
+JOB00733,Cybersecurity Analyst,Cognizant,Gurgaon,Entry,460254,"Firewalls, Incident Response, Network Security, OWASP, Ethical Hacking, SIEM, Penetration Testing",2022-07-11,Yes,IT
+JOB00734,Business Intelligence Analyst,Byju's,Mumbai,Senior,2662157,"SQL, Business Analysis, ETL, Data Modeling, Tableau, Excel, Python",2024-11-20,No,IT
+JOB00735,Data Engineer,Paytm,Gurgaon,Mid,1482150,"dbt, AWS, ETL, Kafka",2023-05-16,Yes,EdTech
+JOB00736,DevOps Engineer,Zomato,Kolkata,Mid,1407287,"Azure, AWS, Kubernetes, CI/CD, Bash Scripting, GCP, Terraform, Docker",2024-05-15,Yes,Healthcare
+JOB00737,Machine Learning Engineer,TechCorp India,Gurgaon,Senior,2023795,"REST APIs, FastAPI, TensorFlow, Docker, Model Deployment, AWS, Deep Learning, PyTorch",2023-03-13,No,Finance
+JOB00738,NLP Engineer,Zoho,Ahmedabad,Senior,2581142,"NLTK, Text Processing, Python, TensorFlow",2022-01-13,No,Healthcare
+JOB00739,Frontend Developer,Capgemini,Mumbai,Entry,302702,"Vue.js, TypeScript, CSS, JavaScript, GraphQL, Angular",2024-10-04,Hybrid,EdTech
+JOB00740,NLP Engineer,Accenture,Ahmedabad,Mid,1130670,"NLTK, Python, TensorFlow, SpaCy",2023-05-28,No,Healthcare
+JOB00741,Backend Developer,HCL Technologies,Delhi NCR,Senior,2398297,"MongoDB, FastAPI, Java, SQL, AWS",2022-11-28,Hybrid,E-commerce
+JOB00742,Data Scientist,Flipkart,Delhi NCR,Senior,1916210,"TensorFlow, PyTorch, Python, Deep Learning",2024-03-19,Yes,Finance
+JOB00743,AI Engineer,Google India,Noida,Mid,1202577,"TensorFlow, Prompt Engineering, OpenAI API, Computer Vision, NLP, Vector Databases",2023-10-28,Hybrid,Fintech
+JOB00744,Cybersecurity Analyst,Microsoft India,Noida,Lead,2775602,"Python, Incident Response, Network Security, OWASP",2022-11-15,Yes,Fintech
+JOB00745,Software Engineer,Zomato,Mumbai,Entry,655629,"Microservices, Agile, Java, Docker, JavaScript, C++",2023-08-01,No,Finance
+JOB00746,Data Engineer,Zomato,Mumbai,Mid,1464672,"Hadoop, SQL, Airflow, Spark, Big Data, Kafka, ETL, Databricks",2023-02-11,Hybrid,Fintech
+JOB00747,Cloud Architect,Infosys,Pune,Principal,4259958,"Cost Optimization, GCP, Kubernetes, AWS, Azure",2024-04-01,Yes,Finance
+JOB00748,Full Stack Developer,Accenture,Chennai,Entry,623206,"Python, JavaScript, Docker, REST APIs, SQL",2023-09-20,No,E-commerce
+JOB00749,DevOps Engineer,Flipkart,Chennai,Entry,567315,"Bash Scripting, Docker, GCP, Kubernetes, Linux, AWS, Jenkins",2023-12-20,No,IT
+JOB00750,Data Analyst,Zoho,Mumbai,Entry,300280,"Statistics, Tableau, Power BI, R",2023-07-28,No,Finance
+JOB00751,Backend Developer,Microsoft India,Gurgaon,Lead,3262485,"FastAPI, Java, Docker, Python, Node.js, SQL",2024-01-09,Hybrid,EdTech
+JOB00752,Frontend Developer,Infosys,Gurgaon,Mid,1381834,"Angular, TypeScript, React, JavaScript, Redux, HTML",2022-09-04,Hybrid,Finance
+JOB00753,Software Engineer,Capgemini,Noida,Lead,2706857,"Git, Agile, REST APIs, Spring Boot",2024-08-29,Hybrid,Finance
+JOB00754,Data Scientist,Flipkart,Mumbai,Mid,901019,"Pandas, NLP, PyTorch, Spark, SQL, Scikit-learn, R",2022-08-29,No,E-commerce
+JOB00755,Cloud Architect,Capgemini,Kolkata,Principal,3591749,"Cost Optimization, Terraform, GCP, Security, AWS",2022-05-05,No,Fintech
+JOB00756,Cloud Architect,Zoho,Pune,Principal,3814512,"Security, Networking, Docker, Terraform, Kubernetes",2024-03-31,Yes,Finance
+JOB00757,Data Scientist,Paytm,Pune,Mid,1299678,"NumPy, NLP, Python, Pandas, R",2024-10-28,No,Finance
+JOB00758,Backend Developer,Oracle India,Bangalore,Senior,2657944,"Node.js, Django, Python, MongoDB",2023-05-03,Hybrid,Finance
+JOB00759,NLP Engineer,Zoho,Delhi NCR,Senior,1778861,"Python, BERT, Deep Learning, Transformers, Text Processing, LLMs",2023-12-13,No,IT
+JOB00760,Business Intelligence Analyst,Accenture,Pune,Principal,4607456,"Business Analysis, Data Modeling, Power BI, SQL, ETL",2023-12-30,Yes,Healthcare
+JOB00761,Data Scientist,Zoho,Noida,Principal,5946374,"NLP, Spark, Big Data, Statistics",2023-06-12,Yes,E-commerce
+JOB00762,Software Engineer,Microsoft India,Hyderabad,Senior,2063700,"Agile, Microservices, C++, SQL, Python",2024-06-07,No,IT
+JOB00763,DevOps Engineer,TechCorp India,Pune,Mid,1181705,"AWS, Azure, Linux, Terraform, Monitoring",2023-08-01,Yes,Finance
+JOB00764,Cybersecurity Analyst,Paytm,Hyderabad,Lead,3941512,"Penetration Testing, Network Security, Python, Incident Response, OWASP, Ethical Hacking, Firewalls, SIEM",2022-07-25,Hybrid,IT
+JOB00765,Data Engineer,HCL Technologies,Gurgaon,Entry,498115,"Python, Spark, dbt, Big Data, Hadoop, Databricks, ETL",2023-07-03,Yes,IT
+JOB00766,Product Manager,Oracle India,Delhi NCR,Entry,584358,"Agile, Data Analysis, Communication, A/B Testing, SQL, User Research",2022-12-01,No,Finance
+JOB00767,Software Engineer,Byju's,Pune,Entry,584964,"Docker, Git, Python, Java, Microservices, SQL",2022-07-30,Yes,EdTech
+JOB00768,NLP Engineer,HCL Technologies,Delhi NCR,Lead,2797449,"BERT, Python, Text Processing, NLTK",2024-02-29,Hybrid,Healthcare
+JOB00769,Software Engineer,Oracle India,Delhi NCR,Lead,3940253,"SQL, C++, Python, JavaScript",2022-07-28,Yes,EdTech
+JOB00770,Frontend Developer,Amazon India,Gurgaon,Entry,489002,"JavaScript, Vue.js, GraphQL, Angular",2024-12-22,Yes,Fintech
+JOB00771,Full Stack Developer,IBM India,Mumbai,Mid,1399686,"HTML, SQL, MongoDB, Python, React, Node.js",2024-01-26,Yes,Finance
+JOB00772,Product Manager,Freshworks,Kolkata,Mid,1035812,"Roadmapping, A/B Testing, User Research, Data Analysis, Product Strategy",2022-08-20,Hybrid,Healthcare
+JOB00773,Data Analyst,Zomato,Kolkata,Entry,469373,"Python, Data Visualization, Statistics, Business Intelligence, Tableau",2024-05-18,Hybrid,Fintech
+JOB00774,Frontend Developer,Byju's,Noida,Mid,1385720,"TypeScript, Webpack, Redux, HTML, GraphQL",2024-10-05,Yes,E-commerce
+JOB00775,Machine Learning Engineer,TechCorp India,Delhi NCR,Principal,5269328,"Deep Learning, FastAPI, CI/CD, Scikit-learn, TensorFlow, Model Deployment, Kubernetes, Python",2023-02-21,Hybrid,E-commerce
+JOB00776,Data Analyst,Accenture,Chennai,Entry,331235,"Statistics, Python, Power BI, Tableau, Excel, Pandas",2024-05-12,Yes,IT
+JOB00777,Business Intelligence Analyst,Wipro,Gurgaon,Mid,822930,"Business Analysis, SQL, ETL, Excel, Power BI",2022-04-21,Yes,E-commerce
+JOB00778,Cybersecurity Analyst,TCS,Bangalore,Principal,4163426,"SIEM, OWASP, Python, Network Security",2023-05-17,Hybrid,E-commerce
+JOB00779,Data Analyst,Swiggy,Bangalore,Mid,1192584,"R, Power BI, Pandas, Tableau, Statistics",2023-11-22,No,IT
+JOB00780,Data Analyst,Flipkart,Ahmedabad,Entry,636831,"Business Intelligence, Python, R, SQL",2024-03-22,Hybrid,Fintech
+JOB00781,Cybersecurity Analyst,Capgemini,Kolkata,Senior,2699707,"Ethical Hacking, Firewalls, Python, Penetration Testing, Incident Response, OWASP, Network Security, SIEM",2022-09-14,Hybrid,IT
+JOB00782,Software Engineer,Infosys,Delhi NCR,Lead,2885233,"Agile, Python, SQL, Git, C++, REST APIs, JavaScript, Spring Boot",2022-12-04,Hybrid,E-commerce
+JOB00783,Software Engineer,Oracle India,Hyderabad,Senior,1727333,"Python, REST APIs, Agile, Java",2023-05-06,Hybrid,IT
+JOB00784,Machine Learning Engineer,Infosys,Chennai,Mid,1326116,"FastAPI, Docker, Scikit-learn, Azure",2023-02-18,No,IT
+JOB00785,Data Engineer,Google India,Noida,Principal,3688217,"Snowflake, Python, Databricks, Kafka, Spark, Hadoop, Big Data, AWS",2023-08-02,Yes,Healthcare
+JOB00786,Product Manager,Paytm,Hyderabad,Lead,3246244,"Agile, User Research, Data Analysis, A/B Testing, SQL",2022-07-26,Yes,EdTech
+JOB00787,Product Manager,Capgemini,Hyderabad,Lead,3500243,"Product Strategy, SQL, Agile, Roadmapping, Data Analysis, Communication, Scrum, A/B Testing",2023-04-20,Hybrid,Finance
+JOB00788,Cloud Architect,Infosys,Kolkata,Principal,5694825,"Security, GCP, Microservices, Networking, Docker, Terraform",2024-06-01,Yes,Finance
+JOB00789,Data Engineer,Oracle India,Noida,Principal,3814565,"Big Data, Databricks, Snowflake, Spark, Python",2022-10-20,Yes,E-commerce
+JOB00790,Machine Learning Engineer,Microsoft India,Mumbai,Lead,3157915,"Docker, PyTorch, TensorFlow, REST APIs, Deep Learning",2024-01-15,Yes,Finance
+JOB00791,Business Intelligence Analyst,Oracle India,Kolkata,Lead,3040947,"Data Modeling, Python, ETL, Tableau, SQL, Excel, Statistics",2024-01-15,No,EdTech
+JOB00792,NLP Engineer,Swiggy,Pune,Mid,1162241,"Deep Learning, LLMs, Text Processing, Python, NLTK, BERT",2024-11-02,Hybrid,IT
+JOB00793,Data Engineer,Google India,Hyderabad,Entry,688519,"dbt, ETL, Python, Hadoop, Spark",2023-08-19,Hybrid,E-commerce
+JOB00794,Cybersecurity Analyst,TCS,Hyderabad,Entry,416943,"OWASP, Firewalls, Network Security, SIEM, Penetration Testing, Python, Ethical Hacking",2022-08-12,Hybrid,IT
+JOB00795,NLP Engineer,Capgemini,Ahmedabad,Lead,3408306,"SpaCy, LLMs, NLP, TensorFlow, Text Processing",2024-09-22,Yes,Healthcare
+JOB00796,DevOps Engineer,Infosys,Delhi NCR,Entry,585779,"Terraform, AWS, Azure, CI/CD, Docker",2024-02-18,No,E-commerce
+JOB00797,Software Engineer,TCS,Hyderabad,Entry,410883,"Docker, Microservices, Spring Boot, Git",2022-12-27,Yes,Healthcare
+JOB00798,Full Stack Developer,Amazon India,Pune,Entry,456414,"Docker, REST APIs, Node.js, SQL, Python, JavaScript, MongoDB",2024-05-27,Yes,Finance
+JOB00799,Frontend Developer,Byju's,Gurgaon,Lead,3510041,"GraphQL, Vue.js, TypeScript, Webpack, CSS, HTML, Angular",2022-01-21,Yes,IT
+JOB00800,Business Intelligence Analyst,Wipro,Kolkata,Principal,4106568,"ETL, SQL, Tableau, Excel, Business Analysis, Statistics",2023-10-11,No,EdTech
+JOB00801,Business Intelligence Analyst,Byju's,Hyderabad,Entry,536222,"Python, Tableau, SQL, Statistics, ETL",2024-05-10,Hybrid,E-commerce
+JOB00802,Software Engineer,TechCorp India,Pune,Senior,1939905,"Docker, Agile, Java, REST APIs, Microservices",2024-01-16,No,EdTech
+JOB00803,Cybersecurity Analyst,Amazon India,Mumbai,Entry,666643,"OWASP, Penetration Testing, Incident Response, SIEM, Ethical Hacking, Firewalls, Python",2024-12-07,Yes,E-commerce
+JOB00804,Full Stack Developer,TCS,Mumbai,Senior,1870976,"HTML, React, REST APIs, Docker, Node.js, CSS, AWS, MongoDB",2022-07-23,Yes,Fintech
+JOB00805,Data Scientist,Swiggy,Noida,Principal,5225031,"R, NLP, Data Visualization, NumPy",2022-07-24,Hybrid,IT
+JOB00806,AI Engineer,Wipro,Delhi NCR,Senior,2382147,"NLP, OpenAI API, Prompt Engineering, Python, TensorFlow",2024-08-19,No,E-commerce
+JOB00807,NLP Engineer,Flipkart,Chennai,Lead,2515949,"BERT, Deep Learning, Transformers, TensorFlow, LLMs, SpaCy",2023-09-22,Yes,E-commerce
+JOB00808,Data Scientist,Amazon India,Hyderabad,Entry,313760,"Data Visualization, SQL, Pandas, NLP, NumPy",2023-10-13,Hybrid,E-commerce
+JOB00809,Software Engineer,Cognizant,Kolkata,Principal,5141492,"Agile, Microservices, Java, Docker, Python",2024-03-10,No,EdTech
+JOB00810,Data Analyst,IBM India,Noida,Lead,2984378,"Python, R, Excel, Statistics",2024-03-13,Yes,Healthcare
+JOB00811,Software Engineer,Freshworks,Kolkata,Entry,348897,"Microservices, Java, C++, Agile",2022-06-11,Yes,Fintech
+JOB00812,Business Intelligence Analyst,Google India,Pune,Mid,1175745,"Power BI, Excel, ETL, Tableau, Statistics, Business Analysis",2023-05-18,Hybrid,IT
+JOB00813,Backend Developer,Zoho,Mumbai,Entry,375376,"Docker, Redis, Java, AWS",2024-07-29,Yes,Finance
+JOB00814,Backend Developer,Wipro,Ahmedabad,Senior,1878803,"Java, SQL, Flask, Django",2024-03-11,Yes,E-commerce
+JOB00815,Machine Learning Engineer,Swiggy,Hyderabad,Lead,3812151,"Scikit-learn, Model Deployment, MLOps, CI/CD",2023-10-05,Yes,Healthcare
+JOB00816,Data Scientist,Paytm,Pune,Mid,1391710,"Scikit-learn, NumPy, Python, Machine Learning, SQL, Spark, R, Data Visualization",2022-11-21,Yes,Finance
+JOB00817,Data Engineer,Wipro,Chennai,Entry,580994,"ETL, dbt, Hadoop, SQL",2024-01-18,Yes,Healthcare
+JOB00818,Data Analyst,Byju's,Pune,Mid,787496,"Power BI, Business Intelligence, Pandas, Excel, SQL",2023-12-15,No,Fintech
+JOB00819,Product Manager,Cognizant,Chennai,Lead,3414488,"Roadmapping, Data Analysis, Scrum, Agile, User Research, Communication, SQL, Product Strategy",2023-10-01,Hybrid,E-commerce
+JOB00820,Full Stack Developer,TCS,Ahmedabad,Lead,3388641,"SQL, MongoDB, Python, Docker, Node.js, REST APIs, CSS, React",2024-02-05,Yes,IT
+JOB00821,Cloud Architect,Flipkart,Hyderabad,Senior,2730754,"Terraform, Networking, Microservices, Kubernetes, AWS, Security, Azure",2023-10-23,No,Finance
+JOB00822,Machine Learning Engineer,Amazon India,Chennai,Mid,1388866,"Kubernetes, PyTorch, REST APIs, TensorFlow, Python, CI/CD",2022-01-23,No,EdTech
+JOB00823,Product Manager,Freshworks,Kolkata,Senior,1987899,"Agile, Roadmapping, Scrum, SQL, Communication, User Research, Product Strategy, Data Analysis",2022-06-03,Hybrid,E-commerce
+JOB00824,Frontend Developer,Wipro,Mumbai,Senior,1915551,"JavaScript, Redux, GraphQL, Webpack, Vue.js",2024-05-12,No,Finance
+JOB00825,Data Engineer,Swiggy,Pune,Senior,2739775,"SQL, Big Data, Python, Airflow, Databricks, Kafka, ETL",2022-01-10,Yes,E-commerce
+JOB00826,Data Scientist,Wipro,Kolkata,Principal,5712552,"SQL, Scikit-learn, Python, Machine Learning",2024-08-20,Hybrid,Healthcare
+JOB00827,Backend Developer,Zomato,Mumbai,Senior,2225246,"Java, MongoDB, Flask, SQL, Python, Django, Node.js",2024-07-19,No,EdTech
+JOB00828,Machine Learning Engineer,Flipkart,Chennai,Entry,417448,"REST APIs, Python, PyTorch, TensorFlow",2023-10-24,Yes,IT
+JOB00829,Software Engineer,Oracle India,Mumbai,Senior,2627341,"Java, Spring Boot, Docker, Python",2022-04-09,No,Healthcare
+JOB00830,Business Intelligence Analyst,HCL Technologies,Gurgaon,Principal,5091975,"Power BI, Statistics, Data Modeling, Excel, SQL, Tableau",2023-10-16,No,Fintech
+JOB00831,DevOps Engineer,TCS,Pune,Entry,573554,"Azure, Linux, Terraform, Bash Scripting, GCP, AWS, CI/CD, Monitoring",2023-04-08,No,Fintech
+JOB00832,Machine Learning Engineer,Zomato,Bangalore,Senior,2671291,"Model Deployment, REST APIs, CI/CD, Scikit-learn, TensorFlow",2022-06-03,Yes,IT
+JOB00833,AI Engineer,Swiggy,Hyderabad,Mid,1190891,"NLP, OpenAI API, TensorFlow, PyTorch, LangChain, Computer Vision, Prompt Engineering",2023-10-01,Hybrid,IT
+JOB00834,NLP Engineer,IBM India,Kolkata,Mid,929412,"SpaCy, NLTK, BERT, Text Processing, Deep Learning, NLP",2022-05-21,Yes,Fintech
+JOB00835,Backend Developer,Cognizant,Pune,Principal,3928088,"SQL, Java, Docker, Django, Python",2024-08-01,Yes,E-commerce
+JOB00836,AI Engineer,Google India,Noida,Principal,5398513,"Computer Vision, TensorFlow, LangChain, PyTorch, NLP, OpenAI API",2022-11-05,No,EdTech
+JOB00837,Frontend Developer,Oracle India,Chennai,Entry,531389,"CSS, React, JavaScript, Webpack, Angular, TypeScript",2023-02-02,No,Finance
+JOB00838,Data Engineer,Wipro,Bangalore,Senior,2610573,"Snowflake, ETL, AWS, Spark, Python, Kafka, Databricks, dbt",2023-03-26,Yes,EdTech
+JOB00839,Backend Developer,Zomato,Chennai,Mid,769045,"Java, FastAPI, Django, REST APIs, MongoDB, Redis, Python, AWS",2023-07-04,Yes,Finance
+JOB00840,Frontend Developer,Oracle India,Chennai,Senior,2750559,"JavaScript, React, Vue.js, HTML, CSS, TypeScript",2024-09-03,Yes,Healthcare
+JOB00841,AI Engineer,Flipkart,Delhi NCR,Entry,387370,"LLMs, OpenAI API, PyTorch, Python, Vector Databases",2024-08-29,Yes,Finance
+JOB00842,Backend Developer,Accenture,Ahmedabad,Entry,389509,"Redis, Flask, SQL, Python",2024-09-27,Yes,IT
+JOB00843,Cybersecurity Analyst,Oracle India,Delhi NCR,Entry,597411,"Penetration Testing, Ethical Hacking, Incident Response, Python, Firewalls, Network Security",2022-07-24,No,E-commerce
+JOB00844,Business Intelligence Analyst,Amazon India,Noida,Senior,2644447,"Python, Data Modeling, Power BI, Excel, SQL, Business Analysis",2023-09-09,Hybrid,EdTech
+JOB00845,DevOps Engineer,Zomato,Bangalore,Entry,441524,"Monitoring, Bash Scripting, Docker, AWS, Jenkins, Terraform, Kubernetes, CI/CD",2024-01-02,Yes,EdTech
+JOB00846,Business Intelligence Analyst,Byju's,Ahmedabad,Lead,3253758,"Tableau, Excel, Python, ETL, SQL",2023-07-15,Hybrid,Finance
+JOB00847,Backend Developer,Amazon India,Gurgaon,Senior,2194567,"Redis, REST APIs, FastAPI, AWS, Django, Python, MongoDB",2024-12-01,Yes,E-commerce
+JOB00848,Product Manager,Paytm,Pune,Lead,3688377,"SQL, Agile, Product Strategy, Data Analysis, A/B Testing, User Research",2022-11-04,Hybrid,EdTech
+JOB00849,AI Engineer,Freshworks,Mumbai,Mid,1018395,"Computer Vision, TensorFlow, Vector Databases, Python, NLP, Prompt Engineering, LangChain",2023-08-03,Yes,E-commerce
+JOB00850,Backend Developer,Paytm,Noida,Entry,525613,"Docker, Python, AWS, FastAPI, Node.js, SQL",2023-08-04,Yes,IT
+JOB00851,Business Intelligence Analyst,Microsoft India,Chennai,Senior,1799146,"Business Analysis, Tableau, Power BI, Python, SQL",2024-08-27,Hybrid,Fintech
+JOB00852,Full Stack Developer,Amazon India,Gurgaon,Lead,3337001,"SQL, CSS, HTML, React",2024-06-11,Yes,Fintech
+JOB00853,Product Manager,Freshworks,Ahmedabad,Mid,962165,"Roadmapping, Data Analysis, Scrum, Communication, Product Strategy",2023-09-01,Hybrid,Finance
+JOB00854,Full Stack Developer,Flipkart,Ahmedabad,Lead,2701415,"REST APIs, AWS, MongoDB, CSS, Node.js",2023-12-27,No,E-commerce
+JOB00855,DevOps Engineer,Freshworks,Noida,Entry,593029,"Jenkins, Kubernetes, AWS, GCP",2023-05-12,No,Finance
+JOB00856,Data Engineer,Swiggy,Bangalore,Principal,5872191,"Python, AWS, Hadoop, Databricks, dbt, SQL",2024-11-26,Yes,IT
+JOB00857,Backend Developer,Infosys,Chennai,Entry,474841,"Java, FastAPI, Redis, SQL, Flask, REST APIs, Python, MongoDB",2024-11-12,Hybrid,Finance
+JOB00858,Cloud Architect,Zoho,Chennai,Lead,2786057,"GCP, Terraform, Networking, Microservices, AWS",2024-09-20,Yes,IT
+JOB00859,Data Scientist,Zomato,Bangalore,Mid,1333120,"Pandas, Machine Learning, TensorFlow, Data Visualization",2022-08-01,Hybrid,E-commerce
+JOB00860,Full Stack Developer,Zoho,Ahmedabad,Entry,363864,"Docker, AWS, React, Node.js, CSS, SQL",2023-06-18,Hybrid,EdTech
+JOB00861,Machine Learning Engineer,Cognizant,Noida,Lead,2806700,"PyTorch, REST APIs, CI/CD, Model Deployment",2023-05-08,Hybrid,Fintech
+JOB00862,Cloud Architect,Google India,Mumbai,Mid,1199288,"Terraform, Cost Optimization, Azure, Networking, Kubernetes, GCP, Docker",2024-03-12,No,E-commerce
+JOB00863,Cybersecurity Analyst,TechCorp India,Gurgaon,Lead,2810727,"Ethical Hacking, Penetration Testing, Network Security, OWASP",2024-03-08,No,IT
+JOB00864,AI Engineer,IBM India,Bangalore,Principal,5364281,"LLMs, PyTorch, OpenAI API, Vector Databases",2024-07-27,Yes,Healthcare
+JOB00865,Cloud Architect,Freshworks,Delhi NCR,Principal,4384075,"Networking, Docker, Azure, Security, Microservices, Cost Optimization",2023-12-22,No,Fintech
+JOB00866,Cybersecurity Analyst,Freshworks,Noida,Mid,991860,"Incident Response, Network Security, Firewalls, Penetration Testing, Ethical Hacking, Python",2023-01-05,Hybrid,EdTech
+JOB00867,Backend Developer,Cognizant,Chennai,Mid,1431663,"Redis, AWS, Flask, REST APIs, Java, Python",2022-03-02,Yes,Fintech
+JOB00868,Machine Learning Engineer,TCS,Bangalore,Lead,3924642,"Kubernetes, FastAPI, Scikit-learn, CI/CD, TensorFlow, PyTorch, MLOps",2024-05-10,Hybrid,Healthcare
+JOB00869,Machine Learning Engineer,Cognizant,Delhi NCR,Entry,693181,"AWS, FastAPI, Kubernetes, Deep Learning",2022-03-02,Yes,Fintech
+JOB00870,DevOps Engineer,Capgemini,Hyderabad,Lead,2779375,"Ansible, Azure, Bash Scripting, GCP, Terraform, Linux, CI/CD, AWS",2023-04-07,No,EdTech
+JOB00871,Product Manager,Amazon India,Hyderabad,Mid,790196,"Product Strategy, Agile, A/B Testing, Communication, Roadmapping, User Research, SQL, Scrum",2022-05-28,Hybrid,Fintech
+JOB00872,NLP Engineer,TCS,Ahmedabad,Principal,5581110,"BERT, NLTK, LLMs, TensorFlow, Transformers",2022-10-10,No,Fintech
+JOB00873,Full Stack Developer,Zomato,Chennai,Entry,598399,"React, REST APIs, SQL, Python",2022-08-30,Yes,EdTech
+JOB00874,Cloud Architect,Cognizant,Pune,Senior,1547275,"Terraform, Cost Optimization, Docker, Microservices, GCP",2022-05-20,Yes,EdTech
+JOB00875,Data Engineer,Infosys,Delhi NCR,Mid,1242910,"ETL, Airflow, AWS, Python, Spark, Databricks, SQL, Hadoop",2022-03-03,No,Healthcare
+JOB00876,Software Engineer,TCS,Gurgaon,Senior,1624553,"JavaScript, Git, REST APIs, Java, Python",2024-10-07,Hybrid,Fintech
+JOB00877,Cybersecurity Analyst,Byju's,Ahmedabad,Entry,481322,"Incident Response, Ethical Hacking, Firewalls, OWASP",2022-06-15,Yes,Healthcare
+JOB00878,Business Intelligence Analyst,Zomato,Pune,Entry,354558,"Python, Excel, ETL, Power BI",2024-06-02,Yes,IT
+JOB00879,NLP Engineer,Google India,Kolkata,Entry,313816,"Deep Learning, SpaCy, Python, Transformers, BERT",2022-04-17,Hybrid,Finance
+JOB00880,Full Stack Developer,Amazon India,Kolkata,Lead,3652479,"Python, AWS, CSS, MongoDB, React",2023-02-01,Yes,Finance
+JOB00881,Software Engineer,Accenture,Bangalore,Entry,608605,"JavaScript, Microservices, Git, Java",2022-01-31,Yes,IT
+JOB00882,Data Analyst,HCL Technologies,Gurgaon,Lead,2878731,"SQL, Statistics, R, Power BI, Pandas, Excel",2023-08-22,No,E-commerce
+JOB00883,AI Engineer,Accenture,Ahmedabad,Entry,644242,"TensorFlow, Computer Vision, NLP, OpenAI API",2024-01-02,Hybrid,Healthcare
+JOB00884,Frontend Developer,Wipro,Bangalore,Principal,4727603,"GraphQL, HTML, CSS, Redux, Webpack",2024-10-28,No,E-commerce
+JOB00885,Business Intelligence Analyst,Wipro,Delhi NCR,Principal,5539302,"Tableau, Excel, Statistics, Data Modeling, Business Analysis, Power BI",2023-03-08,Hybrid,Finance
+JOB00886,Data Scientist,IBM India,Gurgaon,Mid,1432264,"Scikit-learn, Data Visualization, R, Machine Learning, Python, Big Data, Spark",2023-07-08,No,Healthcare
+JOB00887,Cybersecurity Analyst,Accenture,Chennai,Entry,331310,"Incident Response, Penetration Testing, Network Security, OWASP, Ethical Hacking, Python",2022-04-01,No,Finance
+JOB00888,AI Engineer,IBM India,Gurgaon,Lead,3616716,"Computer Vision, Python, LLMs, LangChain",2023-11-20,Yes,IT
+JOB00889,Frontend Developer,Freshworks,Gurgaon,Principal,5320646,"JavaScript, React, TypeScript, CSS, Redux, Vue.js, Angular",2024-05-18,Hybrid,Healthcare
+JOB00890,Data Analyst,TCS,Chennai,Lead,3480067,"Python, SQL, Power BI, Data Visualization, Statistics",2023-07-16,Hybrid,Healthcare
+JOB00891,Frontend Developer,Zoho,Bangalore,Principal,5155077,"Webpack, HTML, CSS, Vue.js",2023-05-29,Yes,Healthcare
+JOB00892,Data Engineer,Infosys,Delhi NCR,Senior,2054733,"Snowflake, dbt, Python, Databricks, Big Data",2024-08-13,No,Fintech
+JOB00893,Cybersecurity Analyst,IBM India,Pune,Principal,4413697,"Network Security, Ethical Hacking, OWASP, SIEM, Incident Response, Firewalls, Python",2023-01-04,No,E-commerce
+JOB00894,Data Analyst,Cognizant,Noida,Mid,1360957,"Python, SQL, Tableau, R, Statistics",2022-03-20,No,EdTech
+JOB00895,Frontend Developer,Byju's,Bangalore,Entry,590145,"JavaScript, HTML, GraphQL, Webpack, CSS",2023-12-25,Hybrid,Finance
+JOB00896,Frontend Developer,TCS,Kolkata,Entry,340621,"Redux, React, GraphQL, Webpack, TypeScript, Vue.js, HTML, Angular",2024-05-01,No,Finance
+JOB00897,Data Scientist,Cognizant,Delhi NCR,Senior,2772901,"SQL, Statistics, Scikit-learn, Spark, R, PyTorch",2022-03-05,Yes,Healthcare
+JOB00898,NLP Engineer,Freshworks,Delhi NCR,Mid,1319946,"NLP, BERT, LLMs, Transformers",2024-11-06,Yes,E-commerce
+JOB00899,Cybersecurity Analyst,Freshworks,Noida,Principal,3636732,"Incident Response, OWASP, Firewalls, Network Security, Ethical Hacking",2023-04-05,Hybrid,Fintech
+JOB00900,Cloud Architect,Paytm,Ahmedabad,Lead,3630296,"Networking, AWS, Security, Microservices",2024-12-10,No,Healthcare
+JOB00901,Software Engineer,Wipro,Chennai,Principal,4729204,"REST APIs, JavaScript, Docker, Agile, SQL",2023-10-07,No,Fintech
+JOB00902,NLP Engineer,Zoho,Chennai,Lead,3258919,"LLMs, Deep Learning, NLP, TensorFlow",2024-09-18,No,E-commerce
+JOB00903,Software Engineer,TCS,Kolkata,Principal,4025467,"JavaScript, Microservices, C++, Spring Boot, Agile, Git, REST APIs, SQL",2022-08-30,No,EdTech
+JOB00904,Data Analyst,IBM India,Noida,Principal,5572826,"Python, Pandas, SQL, Excel, R",2024-05-07,Hybrid,E-commerce
+JOB00905,Business Intelligence Analyst,HCL Technologies,Noida,Entry,366268,"Business Analysis, SQL, ETL, Tableau",2022-05-30,Hybrid,E-commerce
+JOB00906,NLP Engineer,Amazon India,Delhi NCR,Lead,3243163,"SpaCy, Deep Learning, BERT, LLMs, TensorFlow",2022-09-01,Hybrid,EdTech
+JOB00907,Data Engineer,Flipkart,Pune,Entry,678630,"Spark, Kafka, Snowflake, AWS",2024-07-10,No,Fintech
+JOB00908,Data Analyst,Google India,Delhi NCR,Mid,1458862,"R, Excel, Python, SQL, Power BI, Statistics, Pandas, Tableau",2024-07-17,No,Finance
+JOB00909,Cloud Architect,Freshworks,Noida,Principal,4671467,"Kubernetes, Terraform, Security, GCP",2022-04-09,Hybrid,EdTech
+JOB00910,Cloud Architect,Paytm,Pune,Lead,3098227,"Docker, Microservices, GCP, Azure, AWS, Cost Optimization",2024-05-31,Hybrid,EdTech
+JOB00911,Frontend Developer,Cognizant,Pune,Entry,482109,"Vue.js, React, HTML, Webpack, Angular, CSS",2023-04-04,No,EdTech
+JOB00912,Product Manager,Zoho,Bangalore,Entry,421464,"Scrum, Agile, A/B Testing, SQL, User Research, Roadmapping",2022-02-26,Hybrid,EdTech
+JOB00913,Product Manager,Paytm,Hyderabad,Mid,706988,"Product Strategy, User Research, Agile, Scrum, SQL, Data Analysis, A/B Testing",2024-06-30,No,Healthcare
+JOB00914,NLP Engineer,HCL Technologies,Pune,Entry,675521,"NLTK, SpaCy, Text Processing, TensorFlow",2022-06-27,Hybrid,Fintech
+JOB00915,Machine Learning Engineer,IBM India,Ahmedabad,Senior,1665815,"CI/CD, TensorFlow, Kubernetes, PyTorch, Azure",2023-11-18,Hybrid,Fintech
+JOB00916,Cloud Architect,Byju's,Bangalore,Entry,670571,"AWS, Docker, Azure, Microservices, Terraform, GCP",2023-01-25,Hybrid,Fintech
+JOB00917,Data Scientist,Cognizant,Ahmedabad,Mid,843523,"Statistics, Big Data, TensorFlow, Scikit-learn, Data Visualization, PyTorch, R, Deep Learning",2024-09-19,No,Finance
+JOB00918,Software Engineer,Cognizant,Bangalore,Entry,570693,"Java, Microservices, Python, SQL, Spring Boot",2023-03-04,No,Fintech
+JOB00919,Backend Developer,Zomato,Kolkata,Principal,5095052,"Django, Docker, Flask, SQL, Node.js, MongoDB, Java, REST APIs",2024-09-20,Hybrid,Healthcare
+JOB00920,Cloud Architect,Amazon India,Chennai,Lead,3119534,"Kubernetes, Azure, Terraform, Cost Optimization",2024-07-04,Hybrid,E-commerce
+JOB00921,Machine Learning Engineer,Zoho,Kolkata,Mid,1187310,"Model Deployment, TensorFlow, Kubernetes, MLOps, PyTorch, AWS",2024-09-28,Hybrid,Finance
+JOB00922,Data Scientist,Flipkart,Kolkata,Senior,2061877,"TensorFlow, Big Data, Data Visualization, Statistics, Python, Pandas, SQL, PyTorch",2023-10-13,No,E-commerce
+JOB00923,Full Stack Developer,Accenture,Gurgaon,Senior,1614574,"AWS, Node.js, MongoDB, JavaScript, React, HTML",2024-04-19,Yes,EdTech
+JOB00924,Software Engineer,Microsoft India,Noida,Entry,621547,"REST APIs, C++, Git, Java, Docker, SQL, JavaScript, Microservices",2023-11-14,Yes,Fintech
+JOB00925,Data Scientist,Cognizant,Delhi NCR,Principal,4382747,"Pandas, TensorFlow, Deep Learning, Spark, Statistics, Big Data",2023-08-18,No,E-commerce
+JOB00926,Software Engineer,Google India,Ahmedabad,Principal,4543139,"Java, Docker, Git, Python",2024-10-24,Yes,Finance
+JOB00927,Backend Developer,Google India,Hyderabad,Senior,1550844,"Docker, Django, Python, FastAPI, Java",2024-02-13,Hybrid,Healthcare
+JOB00928,Cybersecurity Analyst,Wipro,Gurgaon,Entry,340122,"Incident Response, Network Security, OWASP, Ethical Hacking",2022-11-07,No,Finance
+JOB00929,Cybersecurity Analyst,Capgemini,Mumbai,Principal,4809418,"Incident Response, Ethical Hacking, Firewalls, Network Security, SIEM, Python",2024-07-28,No,Fintech
+JOB00930,Data Engineer,Byju's,Noida,Lead,3289747,"AWS, Spark, SQL, dbt, Airflow, Big Data",2023-08-06,Yes,E-commerce
+JOB00931,Data Scientist,Google India,Chennai,Lead,3325533,"Data Visualization, Pandas, NLP, Machine Learning, R, TensorFlow",2022-02-20,No,Healthcare
+JOB00932,DevOps Engineer,Freshworks,Chennai,Principal,3956962,"CI/CD, AWS, Kubernetes, Linux, Bash Scripting, Ansible",2024-09-30,Yes,Finance
+JOB00933,Full Stack Developer,Infosys,Delhi NCR,Principal,5486064,"HTML, Node.js, JavaScript, AWS, React, CSS, Docker, SQL",2022-11-05,Hybrid,EdTech
+JOB00934,Data Engineer,Amazon India,Ahmedabad,Lead,2511684,"dbt, SQL, ETL, Snowflake, Big Data, Hadoop",2023-04-28,Hybrid,E-commerce
+JOB00935,Cloud Architect,Cognizant,Noida,Principal,3841560,"Docker, Azure, Cost Optimization, Networking",2022-01-28,Hybrid,IT
+JOB00936,Data Analyst,Zomato,Hyderabad,Mid,1158858,"SQL, Data Visualization, Pandas, Excel",2024-12-10,Hybrid,EdTech
+JOB00937,Full Stack Developer,Freshworks,Hyderabad,Lead,2519416,"Python, Docker, SQL, REST APIs, AWS, React",2024-02-01,Yes,Healthcare
+JOB00938,Cloud Architect,Cognizant,Noida,Mid,1343825,"Networking, Terraform, Security, Kubernetes, Azure, GCP",2022-10-05,Hybrid,E-commerce
+JOB00939,Data Scientist,Capgemini,Mumbai,Senior,2373050,"Deep Learning, R, Machine Learning, Python, PyTorch",2023-01-20,Hybrid,E-commerce
+JOB00940,Frontend Developer,Capgemini,Pune,Entry,332038,"Redux, Vue.js, React, GraphQL, CSS, HTML, Webpack, Angular",2022-01-29,No,E-commerce
+JOB00941,Data Engineer,Capgemini,Pune,Senior,2270231,"AWS, Airflow, ETL, Big Data, SQL, Python, Databricks, Spark",2022-07-30,Yes,Healthcare
+JOB00942,Data Engineer,Capgemini,Hyderabad,Entry,366429,"Big Data, Databricks, AWS, Kafka, Airflow, dbt, ETL, Snowflake",2024-08-27,Yes,Finance
+JOB00943,Software Engineer,Infosys,Hyderabad,Entry,622397,"C++, Docker, SQL, Java, Agile",2022-06-09,Hybrid,E-commerce
+JOB00944,Full Stack Developer,Microsoft India,Pune,Lead,3185956,"REST APIs, Python, Node.js, Docker, CSS, AWS",2024-08-29,Hybrid,Healthcare
+JOB00945,Cloud Architect,Zomato,Pune,Entry,617393,"GCP, Terraform, Cost Optimization, Docker, Kubernetes",2024-06-23,Hybrid,IT
+JOB00946,Cloud Architect,Capgemini,Gurgaon,Lead,3867536,"GCP, AWS, Microservices, Docker, Kubernetes, Cost Optimization",2024-05-18,Hybrid,Finance
+JOB00947,Full Stack Developer,Freshworks,Pune,Senior,1875401,"Node.js, AWS, MongoDB, CSS",2022-01-12,No,IT
+JOB00948,NLP Engineer,IBM India,Bangalore,Senior,2032173,"Python, Transformers, Text Processing, LLMs, TensorFlow, BERT, Deep Learning, NLTK",2023-06-03,Hybrid,IT
+JOB00949,Cybersecurity Analyst,Zoho,Hyderabad,Lead,3774116,"OWASP, Python, Penetration Testing, Ethical Hacking, Network Security, Firewalls, Incident Response",2022-03-01,Hybrid,Fintech
+JOB00950,Data Analyst,Byju's,Pune,Mid,786847,"Excel, SQL, Pandas, Statistics, Data Visualization, R, Python",2022-07-19,Yes,Fintech
+JOB00951,Data Engineer,Flipkart,Bangalore,Entry,474412,"dbt, Hadoop, Big Data, Kafka, Python, ETL",2024-04-05,Yes,Finance
+JOB00952,Cybersecurity Analyst,Paytm,Kolkata,Principal,4118718,"Python, OWASP, Penetration Testing, Network Security, SIEM, Firewalls",2023-02-11,Yes,Fintech
+JOB00953,Business Intelligence Analyst,TCS,Mumbai,Entry,463139,"Statistics, ETL, SQL, Power BI, Excel, Business Analysis",2024-08-06,Yes,Finance
+JOB00954,Business Intelligence Analyst,TCS,Chennai,Entry,397338,"SQL, Power BI, Business Analysis, Statistics, Tableau, Python",2024-07-31,No,Fintech
+JOB00955,AI Engineer,IBM India,Hyderabad,Mid,1483714,"Computer Vision, Python, Prompt Engineering, LLMs, PyTorch",2022-12-31,Hybrid,Healthcare
+JOB00956,Full Stack Developer,TCS,Ahmedabad,Mid,897389,"Node.js, React, SQL, REST APIs, MongoDB, CSS",2023-06-26,No,EdTech
+JOB00957,Frontend Developer,Microsoft India,Pune,Senior,2596900,"Vue.js, JavaScript, TypeScript, React, HTML, CSS, Redux",2024-06-07,Yes,Healthcare
+JOB00958,Business Intelligence Analyst,Wipro,Noida,Principal,5813625,"Tableau, Excel, Power BI, Statistics, Python, Business Analysis",2022-03-06,Hybrid,Fintech
+JOB00959,Data Analyst,Wipro,Delhi NCR,Lead,2793213,"Business Intelligence, Statistics, R, Power BI, Tableau, Data Visualization, SQL",2023-10-23,Yes,Finance
+JOB00960,Full Stack Developer,Byju's,Hyderabad,Lead,3201942,"CSS, Python, React, MongoDB, REST APIs, HTML",2024-08-14,Yes,E-commerce
+JOB00961,Product Manager,Google India,Pune,Principal,5414471,"Roadmapping, Communication, Data Analysis, Agile, Scrum, SQL, A/B Testing, User Research",2024-09-15,Yes,Finance
+JOB00962,Product Manager,Cognizant,Pune,Principal,3952377,"Roadmapping, SQL, A/B Testing, Data Analysis, Communication, Product Strategy, User Research",2024-11-14,Hybrid,Fintech
+JOB00963,Cloud Architect,Microsoft India,Ahmedabad,Mid,1295578,"GCP, Microservices, AWS, Security, Cost Optimization",2022-10-17,No,Finance
+JOB00964,DevOps Engineer,Accenture,Chennai,Entry,645300,"Azure, AWS, GCP, Linux, Kubernetes",2023-01-14,No,IT
+JOB00965,Business Intelligence Analyst,Zomato,Kolkata,Mid,861625,"ETL, SQL, Excel, Tableau, Power BI, Python, Statistics, Data Modeling",2023-03-12,No,Fintech
+JOB00966,Software Engineer,Zoho,Kolkata,Entry,503200,"REST APIs, C++, Microservices, Docker, Agile",2024-05-19,Hybrid,IT
+JOB00967,Frontend Developer,TechCorp India,Gurgaon,Lead,3904833,"JavaScript, Angular, Vue.js, TypeScript, React, Redux, HTML, CSS",2024-10-23,Hybrid,E-commerce
+JOB00968,NLP Engineer,Flipkart,Mumbai,Entry,638468,"TensorFlow, NLTK, BERT, Python, NLP",2023-09-11,No,E-commerce
+JOB00969,AI Engineer,IBM India,Kolkata,Mid,1146390,"Computer Vision, Vector Databases, Prompt Engineering, LLMs, NLP",2022-03-13,Yes,Finance
+JOB00970,Full Stack Developer,HCL Technologies,Gurgaon,Principal,3946402,"Python, MongoDB, CSS, Docker, AWS, JavaScript, REST APIs",2023-10-16,Hybrid,E-commerce
+JOB00971,AI Engineer,Paytm,Delhi NCR,Lead,2524303,"Prompt Engineering, Vector Databases, Python, PyTorch, NLP, LangChain, OpenAI API",2024-07-11,No,Fintech
+JOB00972,Frontend Developer,HCL Technologies,Bangalore,Principal,5030341,"Vue.js, TypeScript, GraphQL, Redux",2022-06-13,No,Fintech
+JOB00973,Data Engineer,Swiggy,Delhi NCR,Senior,1914424,"Big Data, Snowflake, AWS, Python, Databricks, Hadoop, ETL, Kafka",2024-09-29,Yes,EdTech
+JOB00974,AI Engineer,Flipkart,Bangalore,Senior,2029167,"LLMs, Computer Vision, Python, LangChain, PyTorch, TensorFlow, Vector Databases",2024-01-01,No,Healthcare
+JOB00975,Backend Developer,Cognizant,Mumbai,Entry,612359,"Flask, Python, MongoDB, REST APIs",2023-05-25,Hybrid,IT
+JOB00976,Data Analyst,Freshworks,Ahmedabad,Mid,1363664,"Data Visualization, Power BI, Statistics, Tableau, Pandas, R, Excel",2024-12-08,Yes,IT
+JOB00977,Frontend Developer,Amazon India,Pune,Senior,1580294,"Webpack, React, TypeScript, HTML, CSS",2022-06-11,No,E-commerce
+JOB00978,Data Scientist,Freshworks,Pune,Mid,1483041,"NLP, Scikit-learn, Spark, Machine Learning, Statistics, Data Visualization",2023-01-28,No,EdTech
+JOB00979,Cloud Architect,IBM India,Hyderabad,Principal,4522371,"Microservices, Security, Kubernetes, Docker",2024-06-13,No,EdTech
+JOB00980,AI Engineer,HCL Technologies,Pune,Entry,616996,"PyTorch, Computer Vision, LangChain, Python, NLP, TensorFlow, Prompt Engineering",2024-04-28,No,E-commerce
+JOB00981,Data Engineer,Zoho,Ahmedabad,Senior,1703733,"SQL, Python, Kafka, dbt, Spark",2023-08-13,Hybrid,E-commerce
+JOB00982,AI Engineer,Swiggy,Ahmedabad,Principal,4878885,"Prompt Engineering, OpenAI API, Python, PyTorch, Vector Databases, LLMs, Computer Vision, TensorFlow",2022-11-07,Yes,EdTech
+JOB00983,Business Intelligence Analyst,Byju's,Delhi NCR,Mid,1405676,"Data Modeling, Business Analysis, SQL, ETL, Statistics, Python, Power BI",2024-09-23,Yes,Finance
+JOB00984,Business Intelligence Analyst,Zoho,Gurgaon,Principal,5048501,"Data Modeling, ETL, Excel, Python, Business Analysis, SQL",2022-11-16,Yes,EdTech
+JOB00985,Frontend Developer,Zoho,Mumbai,Principal,5309971,"JavaScript, HTML, Redux, React, Angular, GraphQL, TypeScript",2024-02-15,Yes,E-commerce
+JOB00986,Software Engineer,Zoho,Pune,Mid,816006,"Spring Boot, C++, Agile, Microservices, Docker, JavaScript, Git, Python",2024-05-06,No,Healthcare
+JOB00987,AI Engineer,Oracle India,Ahmedabad,Entry,648250,"LangChain, Vector Databases, Prompt Engineering, TensorFlow, NLP, LLMs",2024-08-08,Yes,Finance
+JOB00988,Full Stack Developer,Capgemini,Bangalore,Senior,1506998,"MongoDB, AWS, React, Python, Node.js, SQL, Docker, CSS",2024-04-20,Hybrid,Finance
+JOB00989,Data Analyst,Cognizant,Gurgaon,Principal,5611250,"Business Intelligence, Data Visualization, SQL, Python",2023-05-27,Hybrid,E-commerce
+JOB00990,AI Engineer,Swiggy,Delhi NCR,Entry,494141,"Vector Databases, Prompt Engineering, NLP, LangChain",2022-11-27,Hybrid,Finance
+JOB00991,Data Analyst,Freshworks,Ahmedabad,Lead,3994834,"Statistics, Python, Power BI, SQL, Data Visualization",2023-02-28,No,Finance
+JOB00992,AI Engineer,Cognizant,Chennai,Principal,5360816,"PyTorch, OpenAI API, TensorFlow, Prompt Engineering, Computer Vision",2023-11-10,No,Fintech
+JOB00993,Machine Learning Engineer,Google India,Mumbai,Entry,692486,"Model Deployment, REST APIs, MLOps, Azure",2024-08-20,No,Healthcare
+JOB00994,NLP Engineer,Microsoft India,Kolkata,Principal,4007435,"Deep Learning, Python, NLTK, BERT, LLMs, Text Processing, TensorFlow, NLP",2022-03-23,Hybrid,EdTech
+JOB00995,AI Engineer,Cognizant,Delhi NCR,Lead,3398815,"TensorFlow, PyTorch, Computer Vision, Prompt Engineering",2022-08-17,No,Fintech
+JOB00996,Frontend Developer,Accenture,Pune,Mid,954875,"Angular, HTML, React, Vue.js, CSS, JavaScript, Webpack",2024-10-03,No,Healthcare
+JOB00997,Business Intelligence Analyst,TechCorp India,Chennai,Lead,3193446,"Data Modeling, Statistics, Python, SQL, Tableau, Business Analysis, Power BI",2023-08-14,No,EdTech
+JOB00998,Frontend Developer,HCL Technologies,Hyderabad,Senior,2143118,"Webpack, HTML, Redux, CSS, Angular",2023-08-27,Yes,EdTech
+JOB00999,Backend Developer,IBM India,Delhi NCR,Lead,3039609,"Python, Django, Redis, FastAPI, Node.js",2022-01-25,Hybrid,EdTech
+JOB01000,Business Intelligence Analyst,Google India,Ahmedabad,Principal,5202235,"Power BI, ETL, Python, Tableau, Data Modeling, Statistics, Excel",2024-02-06,Hybrid,Finance

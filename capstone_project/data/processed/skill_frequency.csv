@@ -1,0 +1,93 @@
+skill,frequency,percentage
+Python,413,41.3
+Sql,291,29.1
+Docker,191,19.1
+Aws,189,18.9
+TensorFlow,136,13.6
+Rest Apis,133,13.3
+Statistics,131,13.1
+PyTorch,112,11.2
+NLP,110,11.0
+Javascript,105,10.5
+Azure,102,10.2
+Power Bi,96,9.6
+Kubernetes,92,9.2
+Tableau,88,8.8
+Excel,88,8.8
+Etl,88,8.8
+Css,87,8.7
+Llms,82,8.2
+React,80,8.0
+GCP,78,7.8
+Deep Learning,76,7.6
+Microservices,74,7.4
+Html,73,7.3
+Agile,71,7.1
+Data Visualization,71,7.1
+Terraform,69,6.9
+Scikitlearn,67,6.7
+Java,66,6.6
+Mongodb,66,6.6
+Big Data,65,6.5
+Pandas,65,6.5
+Cicd,64,6.4
+Fastapi,60,6.0
+Node.Js,60,6.0
+Business Analysis,58,5.8
+Spark,57,5.7
+Vector Databases,57,5.7
+Computer Vision,57,5.7
+Incident Response,54,5.4
+Owasp,53,5.3
+Ethical Hacking,52,5.2
+Openai Api,52,5.2
+Firewalls,52,5.2
+Network Security,51,5.1
+Langchain,51,5.1
+Penetration Testing,47,4.7
+Product Strategy,47,4.7
+Prompt Engineering,47,4.7
+Vue.Js,47,4.7
+Siem,45,4.5
+Typescript,45,4.5
+Redux,45,4.5
+Data Modeling,43,4.3
+Data Analysis,41,4.1
+Roadmapping,41,4.1
+User Research,41,4.1
+Ab Testing,40,4.0
+Angular,39,3.9
+Graphql,39,3.9
+Webpack,39,3.9
+Linux,39,3.9
+Bert,39,3.9
+Scrum,38,3.8
+Bash Scripting,38,3.8
+Spacy,37,3.7
+Jenkins,37,3.7
+Security,37,3.7
+Text Processing,36,3.6
+Git,36,3.6
+Nltk,36,3.6
+Cost Optimization,36,3.6
+Communication,35,3.5
+Business Intelligence,35,3.5
+C++,34,3.4
+Kafka,34,3.4
+Model Deployment,33,3.3
+Databricks,33,3.3
+Machine Learning,33,3.3
+Dbt,32,3.2
+Mlops,31,3.1
+Airflow,31,3.1
+Snowflake,30,3.0
+Monitoring,29,2.9
+Ansible,29,2.9
+Flask,29,2.9
+Redis,29,2.9
+Hadoop,28,2.8
+Spring Boot,28,2.8
+Django,27,2.7
+Networking,27,2.7
+Transformers,26,2.6
+Numpy,23,2.3

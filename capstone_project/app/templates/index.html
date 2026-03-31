@@ -1,0 +1,973 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Skill Demand Dashboard</title>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/Chart.js/4.4.1/chart.umd.min.js"></script>
+  <link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@300;400;500;600;700&family=JetBrains+Mono:wght@400;600&display=swap" rel="stylesheet">
+  <style>
+    :root {
+      --bg-base:    #08090d;
+      --bg-card:    #0f1117;
+      --bg-card2:   #14161f;
+      --border:     #1e2235;
+      --accent1:    #4f9eff;
+      --accent2:    #7c6aff;
+      --accent3:    #00e5b0;
+      --accent4:    #ff6b6b;
+      --accent5:    #ffb74d;
+      --text-primary: #e8ecf5;
+      --text-secondary: #6b7394;
+      --text-dim:   #3a3f52;
+      --font-main:  'Space Grotesk', sans-serif;
+      --font-mono:  'JetBrains Mono', monospace;
+      --radius:     12px;
+      --radius-lg:  18px;
+      --shadow:     0 4px 24px rgba(0,0,0,0.5);
+    }
+
+    *, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+    body {
+      background: var(--bg-base);
+      color: var(--text-primary);
+      font-family: var(--font-main);
+      min-height: 100vh;
+      overflow-x: hidden;
+    }
+
+    /* ── Grid noise overlay ── */
+    body::before {
+      content: '';
+      position: fixed; inset: 0;
+      background-image:
+        linear-gradient(rgba(79,158,255,0.015) 1px, transparent 1px),
+        linear-gradient(90deg, rgba(79,158,255,0.015) 1px, transparent 1px);
+      background-size: 40px 40px;
+      pointer-events: none;
+      z-index: 0;
+    }
+
+    /* ── Header ── */
+    header {
+      position: sticky; top: 0; z-index: 100;
+      background: rgba(8,9,13,0.92);
+      backdrop-filter: blur(16px);
+      border-bottom: 1px solid var(--border);
+      padding: 0 32px;
+      height: 64px;
+      display: flex; align-items: center; justify-content: space-between;
+    }
+    .header-left { display: flex; align-items: center; gap: 14px; }
+    .logo-mark {
+      width: 36px; height: 36px; border-radius: 10px;
+      background: linear-gradient(135deg, var(--accent1), var(--accent2));
+      display: flex; align-items: center; justify-content: center;
+      font-size: 18px; font-weight: 700; color: #fff;
+    }
+    .header-title { font-size: 17px; font-weight: 600; letter-spacing: -0.3px; }
+    .header-subtitle {
+      font-size: 11px; font-family: var(--font-mono);
+      color: var(--text-secondary); letter-spacing: 0.5px;
+    }
+    .header-badge {
+      display: flex; align-items: center; gap: 8px;
+      font-size: 11px; font-family: var(--font-mono);
+      color: var(--accent3);
+    }
+    .pulse-dot {
+      width: 7px; height: 7px; border-radius: 50%;
+      background: var(--accent3);
+      animation: pulse 2s ease-in-out infinite;
+    }
+    @keyframes pulse {
+      0%,100% { opacity: 1; transform: scale(1); }
+      50% { opacity: 0.4; transform: scale(0.7); }
+    }
+
+    /* ── Layout ── */
+    main {
+      position: relative; z-index: 1;
+      max-width: 1400px; margin: 0 auto;
+      padding: 32px 24px 64px;
+    }
+
+    /* ── Filter bar ── */
+    .filter-bar {
+      display: flex; align-items: center; gap: 12px; flex-wrap: wrap;
+      margin-bottom: 28px;
+      padding: 16px 20px;
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+    }
+    .filter-bar label {
+      font-size: 11px; font-family: var(--font-mono);
+      color: var(--text-secondary); text-transform: uppercase; letter-spacing: 1px;
+    }
+    .filter-bar select {
+      background: var(--bg-card2);
+      border: 1px solid var(--border);
+      color: var(--text-primary);
+      font-family: var(--font-main); font-size: 13px;
+      padding: 7px 12px; border-radius: 8px; cursor: pointer;
+      outline: none; transition: border-color 0.2s;
+    }
+    .filter-bar select:hover, .filter-bar select:focus {
+      border-color: var(--accent1);
+    }
+    .filter-sep { flex: 1; }
+
+    /* ── KPI Cards ── */
+    .kpi-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+      gap: 16px; margin-bottom: 28px;
+    }
+    .kpi-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius);
+      padding: 22px 24px;
+      position: relative; overflow: hidden;
+      transition: transform 0.2s, border-color 0.2s;
+    }
+    .kpi-card:hover { transform: translateY(-2px); border-color: var(--accent2); }
+    .kpi-card::after {
+      content: '';
+      position: absolute; top: 0; left: 0; right: 0; height: 2px;
+      background: var(--kpi-color, var(--accent1));
+      opacity: 0.8;
+    }
+    .kpi-label {
+      font-size: 10px; font-family: var(--font-mono);
+      color: var(--text-secondary);
+      text-transform: uppercase; letter-spacing: 1.2px;
+      margin-bottom: 10px;
+    }
+    .kpi-value {
+      font-size: 30px; font-weight: 700; letter-spacing: -1px;
+      color: var(--text-primary);
+    }
+    .kpi-sub {
+      font-size: 11px; color: var(--text-secondary); margin-top: 6px;
+    }
+    .kpi-icon {
+      position: absolute; right: 20px; top: 50%;
+      transform: translateY(-50%);
+      font-size: 32px; opacity: 0.08;
+    }
+
+    /* ── Charts grid ── */
+    .charts-grid {
+      display: grid;
+      grid-template-columns: repeat(12, 1fr);
+      gap: 20px;
+    }
+    .chart-card {
+      background: var(--bg-card);
+      border: 1px solid var(--border);
+      border-radius: var(--radius-lg);
+      padding: 24px;
+      position: relative;
+    }
+    .col-8  { grid-column: span 8; }
+    .col-4  { grid-column: span 4; }
+    .col-6  { grid-column: span 6; }
+    .col-12 { grid-column: span 12; }
+
+    @media (max-width: 1100px) {
+      .col-8, .col-4, .col-6 { grid-column: span 12; }
+    }
+    @media (max-width: 700px) {
+      .col-12 { grid-column: span 12; }
+    }
+
+    .chart-header {
+      display: flex; align-items: flex-start;
+      justify-content: space-between; margin-bottom: 20px;
+    }
+    .chart-title {
+      font-size: 14px; font-weight: 600; color: var(--text-primary);
+    }
+    .chart-subtitle {
+      font-size: 11px; color: var(--text-secondary); margin-top: 3px;
+      font-family: var(--font-mono);
+    }
+    .chart-badge {
+      font-size: 10px; font-family: var(--font-mono);
+      padding: 4px 10px; border-radius: 20px;
+      border: 1px solid var(--border);
+      color: var(--text-secondary); white-space: nowrap;
+    }
+    .chart-wrap {
+      position: relative;
+      width: 100%;
+    }
+    canvas { display: block; }
+
+    /* ── Forecast skill selector ── */
+    .forecast-controls {
+      display: flex; gap: 8px; flex-wrap: wrap; margin-bottom: 18px;
+    }
+    .skill-chip {
+      font-size: 11px; font-family: var(--font-mono);
+      padding: 5px 12px; border-radius: 20px; cursor: pointer;
+      border: 1px solid var(--border);
+      color: var(--text-secondary);
+      background: transparent;
+      transition: all 0.15s;
+    }
+    .skill-chip.active, .skill-chip:hover {
+      border-color: var(--accent1);
+      color: var(--accent1);
+      background: rgba(79,158,255,0.08);
+    }
+
+    /* ── Model metrics panel ── */
+    .metrics-table {
+      width: 100%; border-collapse: collapse;
+      font-size: 13px;
+    }
+    .metrics-table th {
+      text-align: left; padding: 10px 14px;
+      font-size: 10px; font-family: var(--font-mono);
+      text-transform: uppercase; letter-spacing: 1px;
+      color: var(--text-secondary);
+      border-bottom: 1px solid var(--border);
+    }
+    .metrics-table td {
+      padding: 10px 14px;
+      border-bottom: 1px solid rgba(30,34,53,0.5);
+    }
+    .metrics-table tr:last-child td { border-bottom: none; }
+    .metric-val {
+      font-family: var(--font-mono); font-size: 13px;
+      color: var(--accent3); font-weight: 600;
+    }
+    .metric-label {
+      display: inline-block;
+      padding: 3px 8px; border-radius: 4px; font-size: 11px;
+      background: rgba(79,158,255,0.1); color: var(--accent1);
+    }
+
+    /* ── Loading skeleton ── */
+    .skeleton {
+      background: linear-gradient(90deg, var(--bg-card2) 25%, var(--border) 50%, var(--bg-card2) 75%);
+      background-size: 200% 100%;
+      animation: shimmer 1.5s infinite;
+      border-radius: 6px;
+    }
+    @keyframes shimmer { 0% {background-position:200% 0} 100% {background-position:-200% 0} }
+
+    /* ── Section title ── */
+    .section-title {
+      font-size: 11px; font-family: var(--font-mono);
+      color: var(--text-secondary); text-transform: uppercase;
+      letter-spacing: 1.5px; margin-bottom: 14px;
+      display: flex; align-items: center; gap: 10px;
+    }
+    .section-title::after {
+      content: ''; flex: 1; height: 1px; background: var(--border);
+    }
+
+    /* ── Footer ── */
+    footer {
+      text-align: center; padding: 24px;
+      font-size: 11px; font-family: var(--font-mono);
+      color: var(--text-dim);
+      border-top: 1px solid var(--border);
+      margin-top: 40px;
+    }
+
+    /* ── Animations ── */
+    .fade-in {
+      opacity: 0; transform: translateY(12px);
+      animation: fadeIn 0.5s ease forwards;
+    }
+    @keyframes fadeIn {
+      to { opacity: 1; transform: translateY(0); }
+    }
+    .fade-in:nth-child(1) { animation-delay: 0.05s; }
+    .fade-in:nth-child(2) { animation-delay: 0.10s; }
+    .fade-in:nth-child(3) { animation-delay: 0.15s; }
+    .fade-in:nth-child(4) { animation-delay: 0.20s; }
+    .fade-in:nth-child(5) { animation-delay: 0.25s; }
+    .fade-in:nth-child(6) { animation-delay: 0.30s; }
+
+    /* ── Gradient hero ── */
+    .hero-gradient {
+      background: linear-gradient(135deg,
+        rgba(79,158,255,0.07) 0%,
+        rgba(124,106,255,0.07) 50%,
+        rgba(0,229,176,0.05) 100%);
+      border: 1px solid rgba(79,158,255,0.15);
+      border-radius: var(--radius-lg);
+      padding: 28px 32px;
+      margin-bottom: 28px;
+      display: flex; align-items: center; justify-content: space-between; flex-wrap: wrap; gap: 16px;
+    }
+    .hero-text h2 { font-size: 24px; font-weight: 700; letter-spacing: -0.5px; }
+    .hero-text p { font-size: 13px; color: var(--text-secondary); margin-top: 6px; }
+    .hero-stat {
+      text-align: center;
+    }
+    .hero-stat-val {
+      font-size: 28px; font-weight: 700;
+      background: linear-gradient(135deg, var(--accent1), var(--accent3));
+      -webkit-background-clip: text; -webkit-text-fill-color: transparent;
+    }
+    .hero-stat-label {
+      font-size: 10px; font-family: var(--font-mono);
+      color: var(--text-secondary); text-transform: uppercase;
+      letter-spacing: 1px; margin-top: 4px;
+    }
+
+    /* ── Error state ── */
+    .error-msg {
+      color: var(--accent4); font-family: var(--font-mono);
+      font-size: 12px; padding: 12px;
+      background: rgba(255,107,107,0.06);
+      border: 1px solid rgba(255,107,107,0.15);
+      border-radius: 8px;
+    }
+  </style>
+</head>
+<body>
+
+<!-- HEADER -->
+<header>
+  <div class="header-left">
+    <div class="logo-mark">Σ</div>
+    <div>
+      <div class="header-title">Skill Demand Dashboard</div>
+      <div class="header-subtitle">DATA-DRIVEN JOB MARKET ANALYSIS</div>
+    </div>
+  </div>
+  <div class="header-badge">
+    <div class="pulse-dot"></div>
+    LIVE DATA
+  </div>
+</header>
+
+<main>
+
+  <!-- HERO CARD -->
+  <div class="hero-gradient fade-in">
+    <div class="hero-text">
+      <h2>Job Market Intelligence</h2>
+      <p>Real-time skill demand trends, salary analytics & 6-month forecast</p>
+    </div>
+    <div style="display:flex; gap:40px; flex-wrap:wrap;">
+      <div class="hero-stat">
+        <div class="hero-stat-val" id="hero-jobs">—</div>
+        <div class="hero-stat-label">Total Jobs</div>
+      </div>
+      <div class="hero-stat">
+        <div class="hero-stat-val" id="hero-skill">—</div>
+        <div class="hero-stat-label">Top Skill</div>
+      </div>
+      <div class="hero-stat">
+        <div class="hero-stat-val" id="hero-growth">—</div>
+        <div class="hero-stat-label">Growth Rate</div>
+      </div>
+    </div>
+  </div>
+
+  <!-- FILTERS -->
+  <div class="filter-bar fade-in">
+    <label>Location</label>
+    <select id="filter-location" onchange="applyFilters()">
+      <option value="All">All Locations</option>
+    </select>
+    <label>Job Level</label>
+    <select id="filter-level" onchange="applyFilters()">
+      <option value="All">All Levels</option>
+    </select>
+    <div class="filter-sep"></div>
+    <span style="font-size:11px; font-family:var(--font-mono); color:var(--text-secondary);" id="filter-count">Loading...</span>
+  </div>
+
+  <!-- KPI CARDS -->
+  <div class="section-title fade-in">Key Performance Indicators</div>
+  <div class="kpi-grid">
+    <div class="kpi-card fade-in" style="--kpi-color: var(--accent1)">
+      <div class="kpi-label">Total Jobs</div>
+      <div class="kpi-value" id="kpi-jobs">—</div>
+      <div class="kpi-sub">Job listings analyzed</div>
+      <div class="kpi-icon">📋</div>
+    </div>
+    <div class="kpi-card fade-in" style="--kpi-color: var(--accent3)">
+      <div class="kpi-label">Top Skill</div>
+      <div class="kpi-value" id="kpi-top-skill" style="font-size:22px;">—</div>
+      <div class="kpi-sub">Most demanded skill</div>
+      <div class="kpi-icon">⭐</div>
+    </div>
+    <div class="kpi-card fade-in" style="--kpi-color: var(--accent2)">
+      <div class="kpi-label">Unique Skills</div>
+      <div class="kpi-value" id="kpi-skills">—</div>
+      <div class="kpi-sub">Distinct skills tracked</div>
+      <div class="kpi-icon">🔧</div>
+    </div>
+    <div class="kpi-card fade-in" style="--kpi-color: var(--accent5)">
+      <div class="kpi-label">Avg Salary</div>
+      <div class="kpi-value" id="kpi-salary">—</div>
+      <div class="kpi-sub">Average (LPA)</div>
+      <div class="kpi-icon">💰</div>
+    </div>
+    <div class="kpi-card fade-in" style="--kpi-color: var(--accent4)">
+      <div class="kpi-label">Growth Rate</div>
+      <div class="kpi-value" id="kpi-growth">—</div>
+      <div class="kpi-sub">Job demand growth</div>
+      <div class="kpi-icon">📈</div>
+    </div>
+  </div>
+
+  <!-- CHARTS ROW 1 -->
+  <div class="section-title fade-in">Skill Analytics</div>
+  <div class="charts-grid">
+
+    <!-- Top Skills Bar -->
+    <div class="chart-card col-8 fade-in">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">Top 15 In-Demand Skills</div>
+          <div class="chart-subtitle">Frequency across all job listings</div>
+        </div>
+        <span class="chart-badge">BAR CHART</span>
+      </div>
+      <div class="chart-wrap" style="height:340px;"><canvas id="chart-skills"></canvas></div>
+    </div>
+
+    <!-- Distribution Pie -->
+    <div class="chart-card col-4 fade-in">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">Skill Category Share</div>
+          <div class="chart-subtitle">Top 8 skills distribution</div>
+        </div>
+        <span class="chart-badge">DONUT</span>
+      </div>
+      <div class="chart-wrap" style="height:340px;"><canvas id="chart-pie"></canvas></div>
+    </div>
+
+    <!-- Jobs Over Time -->
+    <div class="chart-card col-6 fade-in">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">Job Postings Over Time</div>
+          <div class="chart-subtitle">Monthly trend 2022–2024</div>
+        </div>
+        <span class="chart-badge">LINE</span>
+      </div>
+      <div class="chart-wrap" style="height:240px;"><canvas id="chart-time"></canvas></div>
+    </div>
+
+    <!-- Salary by Level -->
+    <div class="chart-card col-6 fade-in">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">Average Salary by Level</div>
+          <div class="chart-subtitle">INR LPA across experience tiers</div>
+        </div>
+        <span class="chart-badge">BAR</span>
+      </div>
+      <div class="chart-wrap" style="height:240px;"><canvas id="chart-salary"></canvas></div>
+    </div>
+
+  </div>
+
+  <!-- FORECAST -->
+  <div class="section-title fade-in" style="margin-top:28px;">Predictive Forecasting</div>
+  <div class="charts-grid">
+    <div class="chart-card col-12 fade-in">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">6-Month Skill Demand Forecast</div>
+          <div class="chart-subtitle">Historical trend + predicted future demand (Linear Trend Regression)</div>
+        </div>
+        <span class="chart-badge">FORECAST</span>
+      </div>
+      <div class="forecast-controls" id="forecast-chips"></div>
+      <div class="chart-wrap" style="height:260px;"><canvas id="chart-forecast"></canvas></div>
+    </div>
+  </div>
+
+  <!-- ROW 3: Distribution Charts -->
+  <div class="section-title fade-in" style="margin-top:28px;">Market Distribution</div>
+  <div class="charts-grid">
+
+    <div class="chart-card col-4 fade-in">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">Job Level Breakdown</div>
+          <div class="chart-subtitle">Experience level distribution</div>
+        </div>
+        <span class="chart-badge">BAR</span>
+      </div>
+      <div class="chart-wrap" style="height:220px;"><canvas id="chart-levels"></canvas></div>
+    </div>
+
+    <div class="chart-card col-4 fade-in">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">Remote Work Split</div>
+          <div class="chart-subtitle">On-site / Remote / Hybrid</div>
+        </div>
+        <span class="chart-badge">PIE</span>
+      </div>
+      <div class="chart-wrap" style="height:220px;"><canvas id="chart-remote"></canvas></div>
+    </div>
+
+    <div class="chart-card col-4 fade-in">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">Industry Distribution</div>
+          <div class="chart-subtitle">Jobs by industry sector</div>
+        </div>
+        <span class="chart-badge">DOUGHNUT</span>
+      </div>
+      <div class="chart-wrap" style="height:220px;"><canvas id="chart-industry"></canvas></div>
+    </div>
+
+  </div>
+
+  <!-- MODEL METRICS -->
+  <div class="section-title fade-in" style="margin-top:28px;">ML Model Performance</div>
+  <div class="charts-grid">
+    <div class="chart-card col-12 fade-in">
+      <div class="chart-header">
+        <div>
+          <div class="chart-title">Predictive Model Metrics</div>
+          <div class="chart-subtitle">Trained models & evaluation results</div>
+        </div>
+      </div>
+      <table class="metrics-table" id="metrics-table">
+        <thead>
+          <tr>
+            <th>Model</th>
+            <th>Task</th>
+            <th>Train Size</th>
+            <th>Test Size</th>
+            <th>Primary Metric</th>
+            <th>Secondary Metric</th>
+            <th>Features</th>
+          </tr>
+        </thead>
+        <tbody id="metrics-body">
+          <tr><td colspan="7" style="color:var(--text-secondary); text-align:center; padding:24px;">Loading...</td></tr>
+        </tbody>
+      </table>
+    </div>
+  </div>
+
+</main>
+
+<footer>
+  Capstone Project — Data-Driven Skill Demand Analysis &amp; Trend Forecasting &nbsp;·&nbsp;
+  Built with Python, Flask &amp; Chart.js &nbsp;·&nbsp;
+  <span style="color:var(--accent3);">2024</span>
+</footer>
+
+<script>
+// ─── Config ─────────────────────────────────────────────────────────────────
+const C = {
+  bg:    'transparent',
+  grid:  'rgba(30,34,53,0.8)',
+  text:  '#6b7394',
+  white: '#e8ecf5',
+  a1: '#4f9eff', a2: '#7c6aff', a3: '#00e5b0',
+  a4: '#ff6b6b', a5: '#ffb74d', a6: '#a78bfa',
+};
+
+const PALETTE = [C.a1, C.a2, C.a3, C.a4, C.a5, C.a6,
+  '#34d399','#f472b6','#60a5fa','#fb923c'];
+
+Chart.defaults.color = C.text;
+Chart.defaults.font.family = "'Space Grotesk', sans-serif";
+Chart.defaults.font.size = 12;
+
+const BASE_OPTS = {
+  responsive: true,
+  maintainAspectRatio: false,
+  plugins: { legend: { display: false }, tooltip: {
+    backgroundColor: '#0f1117',
+    borderColor: '#1e2235', borderWidth: 1,
+    titleColor: C.white, bodyColor: C.text,
+    padding: 12, cornerRadius: 8,
+    callbacks: {}
+  }},
+  scales: {
+    x: { grid: { color: C.grid }, ticks: { color: C.text } },
+    y: { grid: { color: C.grid }, ticks: { color: C.text } }
+  }
+};
+
+const charts = {};
+
+function makeChart(id, type, data, options = {}) {
+  const ctx = document.getElementById(id);
+  if (!ctx) return;
+  if (charts[id]) charts[id].destroy();
+  charts[id] = new Chart(ctx, { type, data, options: deepMerge(BASE_OPTS, options) });
+  return charts[id];
+}
+
+function deepMerge(a, b) {
+  const res = Object.assign({}, a);
+  for (const k in b) {
+    if (b[k] && typeof b[k] === 'object' && !Array.isArray(b[k]))
+      res[k] = deepMerge(a[k] || {}, b[k]);
+    else res[k] = b[k];
+  }
+  return res;
+}
+
+// ─── API helpers ─────────────────────────────────────────────────────────────
+async function fetchJSON(url) {
+  const r = await fetch(url);
+  if (!r.ok) throw new Error(`HTTP ${r.status}`);
+  return r.json();
+}
+
+function safe(fn) {
+  fn().catch(err => console.error(err));
+}
+
+// ─── Load KPIs ───────────────────────────────────────────────────────────────
+async function loadStats() {
+  const d = await fetchJSON('/stats');
+  document.getElementById('hero-jobs').textContent  = d.total_jobs?.toLocaleString() || '—';
+  document.getElementById('hero-skill').textContent = d.top_skill || '—';
+  document.getElementById('hero-growth').textContent= (d.growth_rate > 0 ? '+' : '') + d.growth_rate + '%';
+
+  document.getElementById('kpi-jobs').textContent        = d.total_jobs?.toLocaleString() || '—';
+  document.getElementById('kpi-top-skill').textContent   = d.top_skill || '—';
+  document.getElementById('kpi-skills').textContent      = d.skills_tracked?.toLocaleString() || '—';
+  document.getElementById('kpi-salary').textContent      = d.avg_salary ? d.avg_salary.toFixed(1) + ' L' : '—';
+  document.getElementById('kpi-growth').textContent      = (d.growth_rate > 0 ? '+' : '') + d.growth_rate + '%';
+}
+
+// ─── Load Skills Chart ────────────────────────────────────────────────────────
+async function loadSkillsChart(location = 'All', level = 'All') {
+  const d = await fetchJSON(`/skills?location=${encodeURIComponent(location)}&level=${encodeURIComponent(level)}`);
+  if (!d.labels?.length) return;
+
+  const top15 = { labels: d.labels.slice(0, 15), values: d.values.slice(0, 15) };
+
+  makeChart('chart-skills', 'bar', {
+    labels: top15.labels,
+    datasets: [{
+      data: top15.values,
+      backgroundColor: top15.values.map((_, i) =>
+        i === 0 ? C.a3 : i < 5 ? C.a1 : 'rgba(79,158,255,0.35)'),
+      borderColor: top15.values.map((_, i) =>
+        i === 0 ? C.a3 : i < 5 ? C.a1 : 'rgba(79,158,255,0.5)'),
+      borderWidth: 1,
+      borderRadius: 3,
+      maxBarThickness: 18,
+      barPercentage: 0.75,
+      categoryPercentage: 0.85,
+    }]
+  }, {
+    indexAxis: 'y',
+    plugins: { legend: { display: false },
+      tooltip: { callbacks: {
+        label: ctx => ` ${ctx.raw} job listings`
+      }}
+    },
+    scales: {
+      x: { grid: { color: C.grid }, ticks: { color: C.text } },
+      y: { grid: { display: false }, ticks: { color: C.white, font: { size: 11 } } }
+    }
+  });
+
+  // Pie / donut of top 8
+  const top8 = { labels: d.labels.slice(0, 8), values: d.values.slice(0, 8) };
+  makeChart('chart-pie', 'doughnut', {
+    labels: top8.labels,
+    datasets: [{
+      data: top8.values,
+      backgroundColor: PALETTE.slice(0, 8).map(c => c + 'cc'),
+      borderColor: PALETTE.slice(0, 8),
+      borderWidth: 1,
+      hoverOffset: 8
+    }]
+  }, {
+    cutout: '65%',
+    plugins: {
+      legend: {
+        display: true,
+        position: 'bottom',
+        labels: { color: C.text, boxWidth: 10, font: { size: 10 }, padding: 8 }
+      }
+    },
+    scales: { x: { display: false }, y: { display: false } }
+  });
+
+  document.getElementById('filter-count').textContent = `${d.total_skills} skills found`;
+}
+
+// ─── Load EDA charts ─────────────────────────────────────────────────────────
+async function loadEDA() {
+  const d = await fetchJSON('/eda');
+
+  // Jobs over time
+  const jot = d.jobs_over_time || {};
+  if (jot.labels?.length) {
+    makeChart('chart-time', 'line', {
+      labels: jot.labels,
+      datasets: [{
+        data: jot.values,
+        borderColor: C.a2,
+        backgroundColor: 'rgba(124,106,255,0.08)',
+        fill: true, tension: 0.4,
+        pointRadius: 3, pointHoverRadius: 6,
+        pointBackgroundColor: C.a2,
+      }]
+    }, {
+      plugins: { legend: { display: false },
+        tooltip: { callbacks: { label: ctx => ` ${ctx.raw} postings` } }
+      }
+    });
+  }
+
+  // Salary by level
+  const sbl = d.salary_by_level || {};
+  if (sbl.labels?.length) {
+    makeChart('chart-salary', 'bar', {
+      labels: sbl.labels,
+      datasets: [{
+        label: 'Avg Salary (LPA)',
+        data: sbl.values,
+        backgroundColor: sbl.values.map((_, i) => PALETTE[i] + 'cc'),
+        borderColor: sbl.values.map((_, i) => PALETTE[i]),
+        borderWidth: 1, borderRadius: 5,
+      }]
+    }, {
+      plugins: { legend: { display: false },
+        tooltip: { callbacks: { label: ctx => ` ₹${ctx.raw} LPA` } }
+      }
+    });
+  }
+
+  // Job levels
+  const jl = d.job_level_distribution || {};
+  if (jl.labels?.length) {
+    makeChart('chart-levels', 'bar', {
+      labels: jl.labels,
+      datasets: [{
+        data: jl.values,
+        backgroundColor: PALETTE.slice(0, jl.labels.length).map(c => c + 'cc'),
+        borderColor: PALETTE.slice(0, jl.labels.length),
+        borderWidth: 1, borderRadius: 5,
+      }]
+    }, {
+      plugins: { legend: { display: false } }
+    });
+  }
+
+  // Remote
+  const rem = d.remote_distribution || {};
+  if (rem.labels?.length) {
+    makeChart('chart-remote', 'pie', {
+      labels: rem.labels,
+      datasets: [{
+        data: rem.values,
+        backgroundColor: [C.a3 + 'cc', C.a4 + 'cc', C.a5 + 'cc'],
+        borderColor: [C.a3, C.a4, C.a5], borderWidth: 1,
+      }]
+    }, {
+      plugins: { legend: {
+        display: true, position: 'bottom',
+        labels: { color: C.text, boxWidth: 10, font: { size: 10 }, padding: 8 }
+      }},
+      scales: { x: { display: false }, y: { display: false } }
+    });
+  }
+
+  // Industry
+  const ind = d.industry_distribution || {};
+  if (ind.labels?.length) {
+    makeChart('chart-industry', 'doughnut', {
+      labels: ind.labels,
+      datasets: [{
+        data: ind.values,
+        backgroundColor: PALETTE.slice(0, ind.labels.length).map(c => c + 'cc'),
+        borderColor: PALETTE.slice(0, ind.labels.length),
+        borderWidth: 1, hoverOffset: 8,
+      }]
+    }, {
+      cutout: '55%',
+      plugins: { legend: {
+        display: true, position: 'bottom',
+        labels: { color: C.text, boxWidth: 10, font: { size: 10 }, padding: 8 }
+      }},
+      scales: { x: { display: false }, y: { display: false } }
+    });
+  }
+}
+
+// ─── Forecast ────────────────────────────────────────────────────────────────
+let forecastData = {};
+let activeSkill = '';
+
+async function loadForecast() {
+  forecastData = await fetchJSON('/forecast');
+  const skills = Object.keys(forecastData);
+  if (!skills.length) return;
+
+  // Build chips
+  const container = document.getElementById('forecast-chips');
+  container.innerHTML = '';
+  skills.forEach((sk, i) => {
+    const btn = document.createElement('button');
+    btn.className = 'skill-chip' + (i === 0 ? ' active' : '');
+    btn.textContent = sk;
+    btn.onclick = () => {
+      document.querySelectorAll('.skill-chip').forEach(b => b.classList.remove('active'));
+      btn.classList.add('active');
+      drawForecast(sk);
+    };
+    container.appendChild(btn);
+  });
+
+  activeSkill = skills[0];
+  drawForecast(activeSkill);
+}
+
+function drawForecast(skill) {
+  const d = forecastData[skill];
+  if (!d) return;
+
+  const histLabels = d.historical_labels || [];
+  const histVals   = d.historical_values || [];
+  const fcastLabels = d.forecast_labels || [];
+  const fcastVals   = d.forecast_values || [];
+
+  const allLabels = [...histLabels, ...fcastLabels];
+
+  // Historical dataset
+  const histData = [...histVals, ...Array(fcastLabels.length).fill(null)];
+  // Forecast dataset (starts where history ends)
+  const fcastData = [...Array(histLabels.length - 1).fill(null),
+    histVals[histVals.length - 1], ...fcastVals];
+
+  makeChart('chart-forecast', 'line', {
+    labels: allLabels,
+    datasets: [
+      {
+        label: `${skill} — Historical`,
+        data: histData,
+        borderColor: C.a1,
+        backgroundColor: 'rgba(79,158,255,0.07)',
+        fill: true, tension: 0.4,
+        pointRadius: 3, pointHoverRadius: 6,
+        pointBackgroundColor: C.a1,
+      },
+      {
+        label: `${skill} — Forecast`,
+        data: fcastData,
+        borderColor: C.a3,
+        borderDash: [6, 4],
+        backgroundColor: 'rgba(0,229,176,0.05)',
+        fill: true, tension: 0.4,
+        pointRadius: 4, pointHoverRadius: 7,
+        pointBackgroundColor: C.a3,
+        pointStyle: 'triangle',
+      }
+    ]
+  }, {
+    plugins: {
+      legend: {
+        display: true, position: 'top',
+        labels: { color: C.text, boxWidth: 10, font: { size: 11 }, padding: 14 }
+      },
+      tooltip: { callbacks: {
+        label: ctx => ` ${ctx.dataset.label}: ${ctx.raw ?? 'N/A'} listings`
+      }}
+    }
+  });
+}
+
+// ─── Model Metrics ───────────────────────────────────────────────────────────
+async function loadModels() {
+  const d = await fetchJSON('/models');
+  const tbody = document.getElementById('metrics-body');
+  tbody.innerHTML = '';
+
+  const rows = [
+    {
+      model: d.salary_regression?.model || '—',
+      task: d.salary_regression?.task || '—',
+      train: d.salary_regression?.train_size || '—',
+      test:  d.salary_regression?.test_size || '—',
+      prim: `R² = ${d.salary_regression?.R2 || '—'}`,
+      sec:  `RMSE = ${d.salary_regression?.RMSE || '—'} | MAE = ${d.salary_regression?.MAE || '—'}`,
+      feat: (d.salary_regression?.features || []).join(', ')
+    },
+    {
+      model: d.skill_classification?.model || '—',
+      task: d.skill_classification?.task || '—',
+      train: d.skill_classification?.train_size || '—',
+      test:  d.skill_classification?.test_size || '—',
+      prim: `Accuracy = ${d.skill_classification?.accuracy || '—'}`,
+      sec:  `F1 = ${d.skill_classification?.f1_macro || '—'} | Precision = ${d.skill_classification?.precision_macro || '—'}`,
+      feat: 'skill, experience_level, location, industry'
+    }
+  ];
+
+  rows.forEach(r => {
+    tbody.innerHTML += `
+      <tr>
+        <td><span class="metric-label">${r.model}</span></td>
+        <td style="color:var(--text-secondary)">${r.task}</td>
+        <td style="font-family:var(--font-mono)">${r.train}</td>
+        <td style="font-family:var(--font-mono)">${r.test}</td>
+        <td class="metric-val">${r.prim}</td>
+        <td class="metric-val" style="color:var(--accent5)">${r.sec}</td>
+        <td style="font-size:11px; color:var(--text-secondary)">${r.feat}</td>
+      </tr>`;
+  });
+}
+
+// ─── Filters ─────────────────────────────────────────────────────────────────
+async function loadFilters() {
+  const d = await fetchJSON('/filters');
+
+  const locSel = document.getElementById('filter-location');
+  const lvlSel = document.getElementById('filter-level');
+
+  (d.locations || []).forEach(loc => {
+    const opt = document.createElement('option');
+    opt.value = loc; opt.textContent = loc;
+    locSel.appendChild(opt);
+  });
+  (d.levels || []).forEach(lv => {
+    const opt = document.createElement('option');
+    opt.value = lv; opt.textContent = lv;
+    lvlSel.appendChild(opt);
+  });
+}
+
+function applyFilters() {
+  const loc = document.getElementById('filter-location').value;
+  const lv  = document.getElementById('filter-level').value;
+  safe(() => loadSkillsChart(loc, lv));
+}
+
+// ─── Init ────────────────────────────────────────────────────────────────────
+async function init() {
+  try { await loadFilters(); } catch(e) { console.error('filters:', e); }
+  safe(loadStats);
+  safe(() => loadSkillsChart());
+  safe(loadEDA);
+  safe(loadForecast);
+  safe(loadModels);
+}
+
+init();
+</script>
+</body>
+</html>

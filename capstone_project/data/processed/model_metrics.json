@@ -1,0 +1,36 @@
+{
+  "salary_regression": {
+    "model": "Gradient Boosting Regressor",
+    "task": "Salary Prediction (LPA)",
+    "train_size": 800,
+    "test_size": 200,
+    "RMSE": 4.0529,
+    "MAE": 3.0722,
+    "R2": 0.9327,
+    "CV_R2_mean": 0.9156,
+    "CV_R2_std": 0.0202,
+    "features": [
+      "experience_level",
+      "location",
+      "job_title",
+      "industry",
+      "skill_count"
+    ]
+  },
+  "skill_classification": {
+    "model": "Random Forest Classifier",
+    "task": "High-Demand Skill Classification",
+    "train_size": 4739,
+    "test_size": 1185,
+    "accuracy": 0.8768,
+    "precision_macro": 0.8597,
+    "recall_macro": 0.8133,
+    "f1_macro": 0.8322,
+    "feature_importances": {
+      "skill": 0.8212,
+      "experience_level": 0.0377,
+      "location": 0.0807,
+      "industry": 0.0604
+    }
+  }
+}

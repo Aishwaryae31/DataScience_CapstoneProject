@@ -1,0 +1,2505 @@
+year_month,skill,count
+2022-01,Ab Testing,1
+2022-01,Agile,1
+2022-01,Airflow,1
+2022-01,Angular,3
+2022-01,Ansible,1
+2022-01,Aws,3
+2022-01,Azure,4
+2022-01,Bash Scripting,2
+2022-01,Big Data,2
+2022-01,Business Intelligence,1
+2022-01,C++,2
+2022-01,Cicd,2
+2022-01,Communication,1
+2022-01,Cost Optimization,1
+2022-01,Css,5
+2022-01,Data Analysis,1
+2022-01,Databricks,2
+2022-01,Deep Learning,1
+2022-01,Django,1
+2022-01,Docker,6
+2022-01,Ethical Hacking,1
+2022-01,Etl,2
+2022-01,Fastapi,3
+2022-01,Firewalls,1
+2022-01,GCP,4
+2022-01,Git,2
+2022-01,Graphql,2
+2022-01,Hadoop,1
+2022-01,Html,3
+2022-01,Java,2
+2022-01,Javascript,4
+2022-01,Jenkins,3
+2022-01,Kafka,2
+2022-01,Kubernetes,3
+2022-01,Linux,1
+2022-01,Microservices,3
+2022-01,Mlops,2
+2022-01,Mongodb,2
+2022-01,Monitoring,3
+2022-01,Network Security,1
+2022-01,Networking,1
+2022-01,Nltk,1
+2022-01,Node.Js,2
+2022-01,Owasp,1
+2022-01,Pandas,1
+2022-01,Penetration Testing,1
+2022-01,Power Bi,1
+2022-01,Product Strategy,1
+2022-01,PyTorch,2
+2022-01,Python,11
+2022-01,React,2
+2022-01,Redis,1
+2022-01,Redux,2
+2022-01,Rest Apis,2
+2022-01,Roadmapping,1
+2022-01,Security,1
+2022-01,Spring Boot,1
+2022-01,Sql,4
+2022-01,Statistics,1
+2022-01,TensorFlow,3
+2022-01,Terraform,2
+2022-01,Text Processing,1
+2022-01,Typescript,2
+2022-01,User Research,1
+2022-01,Vue.Js,3
+2022-01,Webpack,2
+2022-02,Ab Testing,1
+2022-02,Agile,2
+2022-02,Angular,1
+2022-02,Aws,2
+2022-02,Azure,2
+2022-02,Computer Vision,1
+2022-02,Cost Optimization,1
+2022-02,Css,1
+2022-02,Data Visualization,1
+2022-02,Docker,3
+2022-02,Ethical Hacking,1
+2022-02,Fastapi,1
+2022-02,Firewalls,1
+2022-02,Git,1
+2022-02,Html,1
+2022-02,Incident Response,1
+2022-02,Kubernetes,2
+2022-02,Langchain,2
+2022-02,Llms,2
+2022-02,Machine Learning,1
+2022-02,Microservices,2
+2022-02,NLP,3
+2022-02,Network Security,1
+2022-02,Openai Api,1
+2022-02,Owasp,1
+2022-02,Pandas,1
+2022-02,Penetration Testing,1
+2022-02,PyTorch,2
+2022-02,Python,3
+2022-02,Redux,1
+2022-02,Rest Apis,2
+2022-02,Roadmapping,1
+2022-02,Scikitlearn,1
+2022-02,Scrum,1
+2022-02,Security,1
+2022-02,Siem,1
+2022-02,Spring Boot,1
+2022-02,Sql,2
+2022-02,TensorFlow,2
+2022-02,Terraform,1
+2022-02,Typescript,1
+2022-02,User Research,1
+2022-02,Vector Databases,2
+2022-02,Webpack,1
+2022-03,Airflow,1
+2022-03,Ansible,2
+2022-03,Aws,6
+2022-03,Azure,2
+2022-03,Bash Scripting,2
+2022-03,Bert,1
+2022-03,Big Data,2
+2022-03,Business Analysis,1
+2022-03,Business Intelligence,1
+2022-03,Computer Vision,1
+2022-03,Cost Optimization,1
+2022-03,Data Visualization,4
+2022-03,Databricks,1
+2022-03,Deep Learning,2
+2022-03,Docker,4
+2022-03,Ethical Hacking,2
+2022-03,Etl,1
+2022-03,Excel,3
+2022-03,Fastapi,2
+2022-03,Firewalls,2
+2022-03,Flask,2
+2022-03,GCP,1
+2022-03,Hadoop,1
+2022-03,Html,1
+2022-03,Incident Response,2
+2022-03,Java,2
+2022-03,Javascript,1
+2022-03,Jenkins,1
+2022-03,Kubernetes,2
+2022-03,Langchain,1
+2022-03,Linux,1
+2022-03,Llms,2
+2022-03,Machine Learning,2
+2022-03,Microservices,1
+2022-03,Mongodb,1
+2022-03,Monitoring,2
+2022-03,NLP,2
+2022-03,Network Security,1
+2022-03,Networking,1
+2022-03,Nltk,1
+2022-03,Node.Js,2
+2022-03,Numpy,2
+2022-03,Openai Api,1
+2022-03,Owasp,1
+2022-03,Pandas,1
+2022-03,Penetration Testing,2
+2022-03,Power Bi,3
+2022-03,Prompt Engineering,2
+2022-03,PyTorch,3
+2022-03,Python,10
+2022-03,React,1
+2022-03,Redis,3
+2022-03,Redux,1
+2022-03,Rest Apis,3
+2022-03,Scikitlearn,3
+2022-03,Security,2
+2022-03,Spark,2
+2022-03,Sql,8
+2022-03,Statistics,6
+2022-03,Tableau,3
+2022-03,TensorFlow,3
+2022-03,Terraform,3
+2022-03,Text Processing,1
+2022-03,Vector Databases,2
+2022-03,Vue.Js,1
+2022-03,Webpack,1
+2022-04,Ab Testing,1
+2022-04,Agile,1
+2022-04,Airflow,1
+2022-04,Ansible,1
+2022-04,Aws,3
+2022-04,Azure,3
+2022-04,Bash Scripting,1
+2022-04,Bert,2
+2022-04,Big Data,1
+2022-04,Business Analysis,2
+2022-04,Cicd,2
+2022-04,Communication,1
+2022-04,Computer Vision,2
+2022-04,Cost Optimization,1
+2022-04,Css,1
+2022-04,Data Analysis,1
+2022-04,Data Modeling,1
+2022-04,Data Visualization,1
+2022-04,Dbt,1
+2022-04,Deep Learning,2
+2022-04,Docker,4
+2022-04,Ethical Hacking,1
+2022-04,Etl,5
+2022-04,Excel,4
+2022-04,Flask,2
+2022-04,GCP,3
+2022-04,Git,1
+2022-04,Html,1
+2022-04,Incident Response,1
+2022-04,Java,1
+2022-04,Javascript,1
+2022-04,Jenkins,1
+2022-04,Kubernetes,3
+2022-04,Langchain,2
+2022-04,Linux,2
+2022-04,Llms,3
+2022-04,Microservices,2
+2022-04,Mlops,1
+2022-04,Model Deployment,1
+2022-04,Mongodb,1
+2022-04,NLP,4
+2022-04,Network Security,1
+2022-04,Node.Js,1
+2022-04,Openai Api,1
+2022-04,Owasp,1
+2022-04,Pandas,1
+2022-04,Penetration Testing,1
+2022-04,Power Bi,4
+2022-04,Product Strategy,1
+2022-04,Prompt Engineering,1
+2022-04,PyTorch,1
+2022-04,Python,9
+2022-04,Redis,1
+2022-04,Rest Apis,1
+2022-04,Scrum,1
+2022-04,Security,2
+2022-04,Spacy,2
+2022-04,Spring Boot,2
+2022-04,Sql,7
+2022-04,Statistics,4
+2022-04,Tableau,2
+2022-04,TensorFlow,2
+2022-04,Terraform,1
+2022-04,Transformers,1
+2022-04,User Research,1
+2022-04,Vector Databases,3
+2022-04,Webpack,1
+2022-05,Ab Testing,3
+2022-05,Agile,3
+2022-05,Angular,2
+2022-05,Aws,6
+2022-05,Azure,2
+2022-05,Bert,1
+2022-05,Big Data,1
+2022-05,Business Analysis,5
+2022-05,C++,1
+2022-05,Cicd,1
+2022-05,Communication,2
+2022-05,Cost Optimization,3
+2022-05,Css,1
+2022-05,Data Analysis,2
+2022-05,Data Modeling,2
+2022-05,Data Visualization,1
+2022-05,Deep Learning,2
+2022-05,Docker,5
+2022-05,Ethical Hacking,1
+2022-05,Etl,3
+2022-05,Excel,1
+2022-05,Firewalls,1
+2022-05,Flask,1
+2022-05,GCP,6
+2022-05,Git,1
+2022-05,Graphql,3
+2022-05,Html,1
+2022-05,Java,1
+2022-05,Javascript,1
+2022-05,Jenkins,2
+2022-05,Kubernetes,2
+2022-05,Microservices,2
+2022-05,Mlops,1
+2022-05,Mongodb,1
+2022-05,NLP,2
+2022-05,Networking,1
+2022-05,Nltk,1
+2022-05,Node.Js,1
+2022-05,Owasp,1
+2022-05,Pandas,1
+2022-05,Penetration Testing,1
+2022-05,Power Bi,5
+2022-05,Product Strategy,3
+2022-05,PyTorch,1
+2022-05,Python,1
+2022-05,React,1
+2022-05,Redux,2
+2022-05,Rest Apis,1
+2022-05,Roadmapping,3
+2022-05,Scikitlearn,2
+2022-05,Scrum,3
+2022-05,Security,1
+2022-05,Spacy,1
+2022-05,Spark,2
+2022-05,Sql,12
+2022-05,Statistics,3
+2022-05,Tableau,4
+2022-05,TensorFlow,1
+2022-05,Terraform,4
+2022-05,Text Processing,1
+2022-05,Typescript,1
+2022-05,User Research,4
+2022-05,Vue.Js,3
+2022-05,Webpack,1
+2022-06,Ab Testing,1
+2022-06,Agile,4
+2022-06,Aws,1
+2022-06,Azure,2
+2022-06,Bash Scripting,1
+2022-06,Bert,4
+2022-06,Business Intelligence,3
+2022-06,C++,2
+2022-06,Cicd,2
+2022-06,Communication,3
+2022-06,Computer Vision,5
+2022-06,Css,2
+2022-06,Data Analysis,2
+2022-06,Data Visualization,3
+2022-06,Databricks,1
+2022-06,Dbt,1
+2022-06,Deep Learning,3
+2022-06,Docker,3
+2022-06,Ethical Hacking,2
+2022-06,Etl,1
+2022-06,Excel,2
+2022-06,Firewalls,3
+2022-06,GCP,2
+2022-06,Graphql,1
+2022-06,Hadoop,1
+2022-06,Html,2
+2022-06,Incident Response,2
+2022-06,Java,2
+2022-06,Kafka,1
+2022-06,Kubernetes,1
+2022-06,Langchain,1
+2022-06,Linux,1
+2022-06,Llms,6
+2022-06,Microservices,2
+2022-06,Model Deployment,1
+2022-06,Mongodb,1
+2022-06,NLP,6
+2022-06,Network Security,2
+2022-06,Nltk,4
+2022-06,Openai Api,3
+2022-06,Owasp,2
+2022-06,Pandas,2
+2022-06,Power Bi,1
+2022-06,Product Strategy,3
+2022-06,Prompt Engineering,1
+2022-06,PyTorch,2
+2022-06,Python,11
+2022-06,React,1
+2022-06,Redux,1
+2022-06,Rest Apis,2
+2022-06,Roadmapping,2
+2022-06,Scikitlearn,1
+2022-06,Scrum,1
+2022-06,Security,1
+2022-06,Siem,1
+2022-06,Spacy,4
+2022-06,Sql,5
+2022-06,Statistics,1
+2022-06,Tableau,3
+2022-06,TensorFlow,7
+2022-06,Text Processing,4
+2022-06,Transformers,2
+2022-06,Typescript,2
+2022-06,User Research,2
+2022-06,Vector Databases,3
+2022-06,Vue.Js,1
+2022-06,Webpack,1
+2022-07,Ab Testing,1
+2022-07,Agile,1
+2022-07,Airflow,1
+2022-07,Angular,1
+2022-07,Ansible,2
+2022-07,Aws,7
+2022-07,Azure,5
+2022-07,Bash Scripting,2
+2022-07,Big Data,2
+2022-07,Business Analysis,1
+2022-07,Business Intelligence,1
+2022-07,C++,1
+2022-07,Cicd,1
+2022-07,Computer Vision,2
+2022-07,Css,1
+2022-07,Data Analysis,1
+2022-07,Data Modeling,1
+2022-07,Data Visualization,4
+2022-07,Databricks,1
+2022-07,Dbt,1
+2022-07,Docker,4
+2022-07,Ethical Hacking,5
+2022-07,Etl,3
+2022-07,Excel,2
+2022-07,Fastapi,3
+2022-07,Firewalls,5
+2022-07,GCP,2
+2022-07,Git,1
+2022-07,Graphql,1
+2022-07,Hadoop,1
+2022-07,Html,2
+2022-07,Incident Response,5
+2022-07,Java,1
+2022-07,Javascript,3
+2022-07,Jenkins,1
+2022-07,Kafka,1
+2022-07,Kubernetes,4
+2022-07,Langchain,3
+2022-07,Linux,1
+2022-07,Llms,2
+2022-07,Machine Learning,2
+2022-07,Microservices,2
+2022-07,Mlops,2
+2022-07,Model Deployment,1
+2022-07,Mongodb,2
+2022-07,Monitoring,1
+2022-07,NLP,3
+2022-07,Network Security,4
+2022-07,Node.Js,2
+2022-07,Numpy,1
+2022-07,Openai Api,2
+2022-07,Owasp,3
+2022-07,Pandas,2
+2022-07,Penetration Testing,5
+2022-07,Power Bi,2
+2022-07,Prompt Engineering,1
+2022-07,PyTorch,4
+2022-07,Python,17
+2022-07,React,2
+2022-07,Rest Apis,4
+2022-07,Scikitlearn,3
+2022-07,Security,1
+2022-07,Siem,3
+2022-07,Snowflake,1
+2022-07,Spark,3
+2022-07,Sql,11
+2022-07,Statistics,5
+2022-07,Tableau,3
+2022-07,TensorFlow,4
+2022-07,Terraform,2
+2022-07,Typescript,1
+2022-07,User Research,1
+2022-07,Vector Databases,3
+2022-07,Webpack,1
+2022-08,Ab Testing,1
+2022-08,Agile,1
+2022-08,Azure,2
+2022-08,Business Analysis,3
+2022-08,Business Intelligence,1
+2022-08,C++,1
+2022-08,Cicd,2
+2022-08,Computer Vision,2
+2022-08,Css,1
+2022-08,Data Analysis,2
+2022-08,Data Modeling,1
+2022-08,Data Visualization,1
+2022-08,Deep Learning,2
+2022-08,Docker,2
+2022-08,Ethical Hacking,2
+2022-08,Etl,3
+2022-08,Excel,3
+2022-08,Fastapi,3
+2022-08,Firewalls,1
+2022-08,Flask,1
+2022-08,Git,1
+2022-08,Incident Response,2
+2022-08,Java,1
+2022-08,Javascript,2
+2022-08,Kubernetes,3
+2022-08,Langchain,1
+2022-08,Llms,1
+2022-08,Machine Learning,1
+2022-08,Microservices,1
+2022-08,Mlops,2
+2022-08,Model Deployment,2
+2022-08,Mongodb,1
+2022-08,NLP,3
+2022-08,Network Security,2
+2022-08,Numpy,1
+2022-08,Openai Api,2
+2022-08,Owasp,3
+2022-08,Pandas,4
+2022-08,Penetration Testing,2
+2022-08,Power Bi,4
+2022-08,Product Strategy,2
+2022-08,Prompt Engineering,3
+2022-08,PyTorch,6
+2022-08,Python,10
+2022-08,React,2
+2022-08,Rest Apis,4
+2022-08,Roadmapping,2
+2022-08,Scikitlearn,2
+2022-08,Scrum,1
+2022-08,Siem,2
+2022-08,Spark,2
+2022-08,Spring Boot,1
+2022-08,Sql,8
+2022-08,Statistics,4
+2022-08,Tableau,2
+2022-08,TensorFlow,4
+2022-08,User Research,1
+2022-08,Vector Databases,1
+2022-09,Ab Testing,1
+2022-09,Agile,1
+2022-09,Angular,2
+2022-09,Ansible,1
+2022-09,Aws,3
+2022-09,Azure,2
+2022-09,Bert,1
+2022-09,Big Data,2
+2022-09,Business Intelligence,1
+2022-09,Communication,1
+2022-09,Computer Vision,2
+2022-09,Cost Optimization,1
+2022-09,Css,1
+2022-09,Data Analysis,1
+2022-09,Data Visualization,1
+2022-09,Databricks,1
+2022-09,Deep Learning,4
+2022-09,Django,2
+2022-09,Docker,3
+2022-09,Ethical Hacking,1
+2022-09,Excel,1
+2022-09,Firewalls,1
+2022-09,GCP,1
+2022-09,Html,2
+2022-09,Incident Response,1
+2022-09,Java,1
+2022-09,Javascript,1
+2022-09,Jenkins,1
+2022-09,Kafka,1
+2022-09,Kubernetes,2
+2022-09,Langchain,1
+2022-09,Llms,2
+2022-09,Machine Learning,1
+2022-09,Microservices,1
+2022-09,Mlops,1
+2022-09,Model Deployment,2
+2022-09,Mongodb,1
+2022-09,NLP,2
+2022-09,Network Security,1
+2022-09,Node.Js,1
+2022-09,Openai Api,1
+2022-09,Owasp,1
+2022-09,Pandas,1
+2022-09,Penetration Testing,1
+2022-09,Power Bi,1
+2022-09,Product Strategy,1
+2022-09,Prompt Engineering,2
+2022-09,PyTorch,4
+2022-09,Python,4
+2022-09,React,2
+2022-09,Redux,2
+2022-09,Rest Apis,2
+2022-09,Scikitlearn,2
+2022-09,Scrum,1
+2022-09,Siem,1
+2022-09,Snowflake,1
+2022-09,Spacy,1
+2022-09,Spark,1
+2022-09,Sql,4
+2022-09,Statistics,2
+2022-09,TensorFlow,5
+2022-09,Terraform,1
+2022-09,Typescript,2
+2022-09,User Research,1
+2022-09,Vector Databases,2
+2022-09,Webpack,1
+2022-10,Agile,1
+2022-10,Aws,5
+2022-10,Azure,3
+2022-10,Bert,1
+2022-10,Big Data,3
+2022-10,Business Analysis,2
+2022-10,Cicd,1
+2022-10,Communication,1
+2022-10,Cost Optimization,2
+2022-10,Css,3
+2022-10,Data Analysis,1
+2022-10,Data Visualization,1
+2022-10,Databricks,1
+2022-10,Deep Learning,2
+2022-10,Docker,6
+2022-10,Ethical Hacking,3
+2022-10,Etl,2
+2022-10,Excel,2
+2022-10,Fastapi,1
+2022-10,Firewalls,1
+2022-10,Flask,1
+2022-10,GCP,3
+2022-10,Graphql,1
+2022-10,Html,1
+2022-10,Incident Response,3
+2022-10,Java,1
+2022-10,Javascript,4
+2022-10,Kubernetes,3
+2022-10,Langchain,1
+2022-10,Llms,3
+2022-10,Machine Learning,2
+2022-10,Microservices,3
+2022-10,Mlops,1
+2022-10,Mongodb,3
+2022-10,Monitoring,1
+2022-10,NLP,3
+2022-10,Network Security,1
+2022-10,Networking,2
+2022-10,Nltk,3
+2022-10,Node.Js,3
+2022-10,Numpy,1
+2022-10,Openai Api,1
+2022-10,Owasp,3
+2022-10,Pandas,1
+2022-10,Penetration Testing,2
+2022-10,Power Bi,2
+2022-10,Product Strategy,1
+2022-10,Prompt Engineering,1
+2022-10,PyTorch,3
+2022-10,Python,12
+2022-10,React,2
+2022-10,Redis,1
+2022-10,Redux,2
+2022-10,Rest Apis,4
+2022-10,Roadmapping,1
+2022-10,Scikitlearn,1
+2022-10,Scrum,1
+2022-10,Security,2
+2022-10,Siem,2
+2022-10,Snowflake,1
+2022-10,Spacy,1
+2022-10,Spark,2
+2022-10,Sql,6
+2022-10,Statistics,3
+2022-10,Tableau,2
+2022-10,TensorFlow,4
+2022-10,Terraform,2
+2022-10,Transformers,2
+2022-10,Typescript,2
+2022-10,User Research,1
+2022-10,Vue.Js,3
+2022-10,Webpack,2
+2022-11,Ab Testing,1
+2022-11,Agile,2
+2022-11,Airflow,1
+2022-11,Angular,1
+2022-11,Aws,4
+2022-11,Azure,2
+2022-11,Bert,1
+2022-11,Big Data,2
+2022-11,Business Analysis,3
+2022-11,Cicd,2
+2022-11,Computer Vision,2
+2022-11,Cost Optimization,1
+2022-11,Css,5
+2022-11,Data Analysis,1
+2022-11,Data Modeling,2
+2022-11,Data Visualization,2
+2022-11,Databricks,1
+2022-11,Deep Learning,4
+2022-11,Django,1
+2022-11,Docker,4
+2022-11,Ethical Hacking,2
+2022-11,Etl,4
+2022-11,Excel,3
+2022-11,Fastapi,4
+2022-11,Firewalls,1
+2022-11,Flask,1
+2022-11,GCP,1
+2022-11,Git,1
+2022-11,Graphql,1
+2022-11,Html,3
+2022-11,Incident Response,3
+2022-11,Java,2
+2022-11,Javascript,6
+2022-11,Kubernetes,2
+2022-11,Langchain,3
+2022-11,Llms,2
+2022-11,Machine Learning,2
+2022-11,Microservices,2
+2022-11,Mlops,1
+2022-11,Model Deployment,2
+2022-11,Mongodb,2
+2022-11,NLP,3
+2022-11,Network Security,3
+2022-11,Networking,1
+2022-11,Node.Js,1
+2022-11,Numpy,1
+2022-11,Openai Api,3
+2022-11,Owasp,3
+2022-11,Pandas,2
+2022-11,Power Bi,2
+2022-11,Product Strategy,1
+2022-11,Prompt Engineering,3
+2022-11,PyTorch,6
+2022-11,Python,16
+2022-11,React,3
+2022-11,Redis,1
+2022-11,Redux,2
+2022-11,Rest Apis,2
+2022-11,Scikitlearn,6
+2022-11,Security,1
+2022-11,Siem,1
+2022-11,Spacy,1
+2022-11,Spark,1
+2022-11,Sql,12
+2022-11,Statistics,4
+2022-11,TensorFlow,7
+2022-11,Transformers,1
+2022-11,Typescript,1
+2022-11,User Research,1
+2022-11,Vector Databases,2
+2022-11,Vue.Js,2
+2022-11,Webpack,2
+2022-12,Ab Testing,2
+2022-12,Agile,2
+2022-12,Ansible,1
+2022-12,Aws,3
+2022-12,Azure,2
+2022-12,Bash Scripting,1
+2022-12,Business Analysis,1
+2022-12,C++,2
+2022-12,Communication,2
+2022-12,Computer Vision,1
+2022-12,Cost Optimization,1
+2022-12,Css,1
+2022-12,Data Analysis,2
+2022-12,Data Modeling,1
+2022-12,Data Visualization,3
+2022-12,Databricks,1
+2022-12,Dbt,1
+2022-12,Deep Learning,2
+2022-12,Docker,5
+2022-12,Ethical Hacking,1
+2022-12,Etl,1
+2022-12,Excel,3
+2022-12,Firewalls,2
+2022-12,GCP,1
+2022-12,Git,3
+2022-12,Graphql,1
+2022-12,Html,1
+2022-12,Incident Response,2
+2022-12,Java,1
+2022-12,Javascript,3
+2022-12,Jenkins,1
+2022-12,Kafka,1
+2022-12,Kubernetes,2
+2022-12,Linux,1
+2022-12,Llms,1
+2022-12,Machine Learning,1
+2022-12,Microservices,3
+2022-12,Model Deployment,1
+2022-12,Monitoring,1
+2022-12,NLP,2
+2022-12,Nltk,2
+2022-12,Numpy,1
+2022-12,Owasp,2
+2022-12,Pandas,3
+2022-12,Penetration Testing,2
+2022-12,Power Bi,1
+2022-12,Product Strategy,1
+2022-12,Prompt Engineering,1
+2022-12,PyTorch,2
+2022-12,Python,7
+2022-12,React,1
+2022-12,Rest Apis,2
+2022-12,Roadmapping,1
+2022-12,Scrum,1
+2022-12,Security,1
+2022-12,Siem,1
+2022-12,Snowflake,1
+2022-12,Spacy,1
+2022-12,Spark,1
+2022-12,Spring Boot,3
+2022-12,Sql,7
+2022-12,Statistics,3
+2022-12,Tableau,2
+2022-12,TensorFlow,3
+2022-12,Terraform,3
+2022-12,Text Processing,2
+2022-12,Transformers,1
+2022-12,Typescript,1
+2022-12,User Research,1
+2022-12,Vue.Js,1
+2023-01,Agile,1
+2023-01,Airflow,2
+2023-01,Angular,1
+2023-01,Aws,7
+2023-01,Azure,4
+2023-01,Big Data,4
+2023-01,Cicd,1
+2023-01,Computer Vision,3
+2023-01,Cost Optimization,1
+2023-01,Css,1
+2023-01,Data Visualization,3
+2023-01,Dbt,2
+2023-01,Deep Learning,2
+2023-01,Docker,5
+2023-01,Ethical Hacking,4
+2023-01,Firewalls,4
+2023-01,GCP,3
+2023-01,Git,2
+2023-01,Graphql,1
+2023-01,Hadoop,1
+2023-01,Html,2
+2023-01,Incident Response,4
+2023-01,Java,1
+2023-01,Javascript,4
+2023-01,Kafka,2
+2023-01,Kubernetes,2
+2023-01,Langchain,2
+2023-01,Linux,1
+2023-01,Llms,3
+2023-01,Machine Learning,4
+2023-01,Microservices,3
+2023-01,Mongodb,2
+2023-01,NLP,6
+2023-01,Network Security,4
+2023-01,Nltk,1
+2023-01,Node.Js,1
+2023-01,Numpy,1
+2023-01,Openai Api,1
+2023-01,Owasp,3
+2023-01,Penetration Testing,2
+2023-01,Prompt Engineering,2
+2023-01,PyTorch,5
+2023-01,Python,12
+2023-01,React,2
+2023-01,Redux,1
+2023-01,Rest Apis,3
+2023-01,Scikitlearn,3
+2023-01,Security,1
+2023-01,Siem,3
+2023-01,Snowflake,1
+2023-01,Spacy,1
+2023-01,Spark,6
+2023-01,Spring Boot,1
+2023-01,Sql,5
+2023-01,Statistics,3
+2023-01,TensorFlow,2
+2023-01,Terraform,2
+2023-01,Text Processing,1
+2023-01,Transformers,1
+2023-01,Typescript,1
+2023-01,Vector Databases,2
+2023-01,Vue.Js,1
+2023-01,Webpack,1
+2023-02,Airflow,2
+2023-02,Angular,1
+2023-02,Aws,6
+2023-02,Azure,4
+2023-02,Bert,1
+2023-02,Big Data,3
+2023-02,Business Analysis,1
+2023-02,Business Intelligence,1
+2023-02,Cicd,1
+2023-02,Computer Vision,1
+2023-02,Cost Optimization,1
+2023-02,Css,3
+2023-02,Data Analysis,1
+2023-02,Data Modeling,1
+2023-02,Data Visualization,3
+2023-02,Databricks,2
+2023-02,Deep Learning,4
+2023-02,Django,1
+2023-02,Docker,4
+2023-02,Etl,2
+2023-02,Excel,1
+2023-02,Fastapi,4
+2023-02,Firewalls,2
+2023-02,Git,1
+2023-02,Graphql,1
+2023-02,Hadoop,2
+2023-02,Java,1
+2023-02,Javascript,3
+2023-02,Kafka,2
+2023-02,Kubernetes,3
+2023-02,Microservices,3
+2023-02,Model Deployment,2
+2023-02,Mongodb,2
+2023-02,NLP,1
+2023-02,Network Security,2
+2023-02,Networking,1
+2023-02,Nltk,1
+2023-02,Node.Js,1
+2023-02,Owasp,1
+2023-02,Pandas,1
+2023-02,Penetration Testing,2
+2023-02,Power Bi,3
+2023-02,Product Strategy,1
+2023-02,Prompt Engineering,1
+2023-02,PyTorch,3
+2023-02,Python,14
+2023-02,React,3
+2023-02,Redis,1
+2023-02,Redux,1
+2023-02,Rest Apis,2
+2023-02,Roadmapping,1
+2023-02,Scikitlearn,5
+2023-02,Scrum,1
+2023-02,Security,2
+2023-02,Siem,1
+2023-02,Snowflake,1
+2023-02,Spark,1
+2023-02,Spring Boot,1
+2023-02,Sql,6
+2023-02,Statistics,3
+2023-02,Tableau,1
+2023-02,TensorFlow,2
+2023-02,Text Processing,1
+2023-02,Typescript,2
+2023-02,Vector Databases,1
+2023-02,Vue.Js,1
+2023-02,Webpack,1
+2023-03,Ab Testing,1
+2023-03,Agile,1
+2023-03,Airflow,2
+2023-03,Aws,7
+2023-03,Bash Scripting,1
+2023-03,Big Data,4
+2023-03,Business Analysis,2
+2023-03,Business Intelligence,1
+2023-03,C++,1
+2023-03,Communication,1
+2023-03,Computer Vision,1
+2023-03,Css,1
+2023-03,Data Modeling,3
+2023-03,Data Visualization,4
+2023-03,Databricks,2
+2023-03,Dbt,3
+2023-03,Deep Learning,1
+2023-03,Django,1
+2023-03,Docker,4
+2023-03,Ethical Hacking,1
+2023-03,Etl,5
+2023-03,Excel,6
+2023-03,Fastapi,2
+2023-03,Firewalls,2
+2023-03,GCP,1
+2023-03,Hadoop,1
+2023-03,Html,2
+2023-03,Incident Response,1
+2023-03,Java,2
+2023-03,Javascript,2
+2023-03,Jenkins,1
+2023-03,Kafka,1
+2023-03,Kubernetes,1
+2023-03,Llms,1
+2023-03,Machine Learning,1
+2023-03,Microservices,1
+2023-03,Model Deployment,1
+2023-03,Mongodb,1
+2023-03,NLP,2
+2023-03,Network Security,2
+2023-03,Node.Js,2
+2023-03,Numpy,2
+2023-03,Owasp,1
+2023-03,Pandas,3
+2023-03,Penetration Testing,2
+2023-03,Power Bi,3
+2023-03,Prompt Engineering,1
+2023-03,PyTorch,4
+2023-03,Python,14
+2023-03,React,1
+2023-03,Rest Apis,5
+2023-03,Scikitlearn,1
+2023-03,Scrum,1
+2023-03,Siem,2
+2023-03,Snowflake,2
+2023-03,Spark,2
+2023-03,Spring Boot,2
+2023-03,Sql,7
+2023-03,Statistics,6
+2023-03,Tableau,5
+2023-03,TensorFlow,1
+2023-03,Terraform,1
+2023-03,User Research,1
+2023-03,Vector Databases,1
+2023-04,Ab Testing,4
+2023-04,Agile,3
+2023-04,Airflow,1
+2023-04,Angular,1
+2023-04,Ansible,1
+2023-04,Aws,7
+2023-04,Azure,5
+2023-04,Bash Scripting,3
+2023-04,Bert,2
+2023-04,Big Data,3
+2023-04,Business Intelligence,1
+2023-04,C++,1
+2023-04,Cicd,4
+2023-04,Communication,3
+2023-04,Cost Optimization,1
+2023-04,Css,3
+2023-04,Data Analysis,4
+2023-04,Data Visualization,2
+2023-04,Dbt,2
+2023-04,Deep Learning,1
+2023-04,Docker,7
+2023-04,Ethical Hacking,1
+2023-04,Etl,1
+2023-04,Excel,1
+2023-04,Fastapi,4
+2023-04,Firewalls,1
+2023-04,Flask,1
+2023-04,GCP,4
+2023-04,Git,1
+2023-04,Hadoop,1
+2023-04,Html,3
+2023-04,Incident Response,1
+2023-04,Java,1
+2023-04,Javascript,2
+2023-04,Kafka,1
+2023-04,Kubernetes,3
+2023-04,Langchain,1
+2023-04,Linux,3
+2023-04,Llms,2
+2023-04,Mlops,1
+2023-04,Model Deployment,2
+2023-04,Mongodb,3
+2023-04,Monitoring,2
+2023-04,NLP,3
+2023-04,Network Security,1
+2023-04,Networking,1
+2023-04,Node.Js,3
+2023-04,Numpy,1
+2023-04,Openai Api,1
+2023-04,Owasp,1
+2023-04,Pandas,1
+2023-04,Power Bi,2
+2023-04,Product Strategy,4
+2023-04,PyTorch,2
+2023-04,Python,12
+2023-04,React,5
+2023-04,Redis,1
+2023-04,Rest Apis,5
+2023-04,Roadmapping,1
+2023-04,Scikitlearn,3
+2023-04,Scrum,3
+2023-04,Security,1
+2023-04,Snowflake,1
+2023-04,Spacy,2
+2023-04,Spark,2
+2023-04,Sql,11
+2023-04,Tableau,1
+2023-04,TensorFlow,6
+2023-04,Terraform,3
+2023-04,Text Processing,1
+2023-04,Typescript,1
+2023-04,User Research,2
+2023-04,Vector Databases,1
+2023-04,Vue.Js,2
+2023-04,Webpack,2
+2023-05,Ab Testing,1
+2023-05,Agile,5
+2023-05,Airflow,1
+2023-05,Ansible,3
+2023-05,Aws,8
+2023-05,Azure,5
+2023-05,Bash Scripting,2
+2023-05,Bert,1
+2023-05,Big Data,2
+2023-05,Business Analysis,3
+2023-05,Business Intelligence,1
+2023-05,C++,3
+2023-05,Cicd,3
+2023-05,Communication,1
+2023-05,Computer Vision,1
+2023-05,Cost Optimization,1
+2023-05,Css,1
+2023-05,Data Analysis,1
+2023-05,Data Visualization,2
+2023-05,Databricks,1
+2023-05,Dbt,1
+2023-05,Django,1
+2023-05,Docker,8
+2023-05,Ethical Hacking,1
+2023-05,Etl,5
+2023-05,Excel,3
+2023-05,Fastapi,1
+2023-05,Flask,2
+2023-05,GCP,4
+2023-05,Git,3
+2023-05,Graphql,2
+2023-05,Html,3
+2023-05,Incident Response,1
+2023-05,Java,3
+2023-05,Javascript,2
+2023-05,Jenkins,4
+2023-05,Kafka,1
+2023-05,Kubernetes,3
+2023-05,Linux,3
+2023-05,Llms,1
+2023-05,Machine Learning,1
+2023-05,Microservices,6
+2023-05,Model Deployment,1
+2023-05,Mongodb,3
+2023-05,Monitoring,1
+2023-05,NLP,2
+2023-05,Network Security,1
+2023-05,Networking,1
+2023-05,Nltk,2
+2023-05,Node.Js,1
+2023-05,Openai Api,1
+2023-05,Owasp,1
+2023-05,Pandas,1
+2023-05,Power Bi,4
+2023-05,Product Strategy,1
+2023-05,Prompt Engineering,1
+2023-05,PyTorch,1
+2023-05,Python,13
+2023-05,React,2
+2023-05,Redux,2
+2023-05,Rest Apis,7
+2023-05,Roadmapping,1
+2023-05,Scrum,1
+2023-05,Security,3
+2023-05,Siem,2
+2023-05,Snowflake,1
+2023-05,Spacy,1
+2023-05,Spring Boot,3
+2023-05,Sql,9
+2023-05,Statistics,4
+2023-05,Tableau,3
+2023-05,TensorFlow,1
+2023-05,Terraform,4
+2023-05,Text Processing,1
+2023-05,Typescript,1
+2023-05,User Research,1
+2023-05,Vector Databases,1
+2023-05,Vue.Js,3
+2023-05,Webpack,3
+2023-06,Agile,1
+2023-06,Angular,1
+2023-06,Aws,6
+2023-06,Azure,2
+2023-06,Bert,1
+2023-06,Big Data,1
+2023-06,Business Analysis,1
+2023-06,Business Intelligence,1
+2023-06,Cicd,2
+2023-06,Computer Vision,2
+2023-06,Cost Optimization,1
+2023-06,Css,3
+2023-06,Data Modeling,1
+2023-06,Databricks,1
+2023-06,Deep Learning,1
+2023-06,Django,1
+2023-06,Docker,5
+2023-06,Ethical Hacking,1
+2023-06,Excel,2
+2023-06,Firewalls,1
+2023-06,GCP,2
+2023-06,Graphql,1
+2023-06,Html,1
+2023-06,Incident Response,1
+2023-06,Java,2
+2023-06,Jenkins,1
+2023-06,Kafka,1
+2023-06,Kubernetes,3
+2023-06,Langchain,1
+2023-06,Linux,2
+2023-06,Llms,2
+2023-06,Microservices,2
+2023-06,Mongodb,2
+2023-06,Monitoring,2
+2023-06,NLP,1
+2023-06,Network Security,1
+2023-06,Networking,1
+2023-06,Nltk,1
+2023-06,Node.Js,4
+2023-06,Openai Api,2
+2023-06,Pandas,1
+2023-06,Penetration Testing,1
+2023-06,Power Bi,1
+2023-06,Prompt Engineering,1
+2023-06,PyTorch,2
+2023-06,Python,9
+2023-06,React,3
+2023-06,Redis,1
+2023-06,Rest Apis,5
+2023-06,Security,1
+2023-06,Siem,1
+2023-06,Spark,1
+2023-06,Sql,7
+2023-06,Statistics,2
+2023-06,Tableau,2
+2023-06,TensorFlow,2
+2023-06,Terraform,2
+2023-06,Text Processing,1
+2023-06,Transformers,1
+2023-06,Typescript,1
+2023-06,Vector Databases,2
+2023-07,Ab Testing,2
+2023-07,Agile,1
+2023-07,Angular,1
+2023-07,Ansible,1
+2023-07,Aws,4
+2023-07,Azure,4
+2023-07,Bash Scripting,1
+2023-07,Big Data,3
+2023-07,Business Intelligence,1
+2023-07,Cicd,4
+2023-07,Communication,1
+2023-07,Computer Vision,2
+2023-07,Cost Optimization,1
+2023-07,Css,2
+2023-07,Data Analysis,2
+2023-07,Data Modeling,2
+2023-07,Data Visualization,2
+2023-07,Databricks,1
+2023-07,Dbt,2
+2023-07,Deep Learning,1
+2023-07,Django,1
+2023-07,Docker,5
+2023-07,Ethical Hacking,1
+2023-07,Etl,4
+2023-07,Excel,4
+2023-07,Fastapi,1
+2023-07,Firewalls,2
+2023-07,GCP,3
+2023-07,Hadoop,2
+2023-07,Html,1
+2023-07,Incident Response,3
+2023-07,Java,1
+2023-07,Javascript,1
+2023-07,Jenkins,2
+2023-07,Kafka,1
+2023-07,Kubernetes,2
+2023-07,Langchain,2
+2023-07,Llms,3
+2023-07,Machine Learning,2
+2023-07,Microservices,1
+2023-07,Mlops,1
+2023-07,Model Deployment,1
+2023-07,Mongodb,1
+2023-07,Monitoring,1
+2023-07,NLP,1
+2023-07,Network Security,2
+2023-07,Networking,2
+2023-07,Openai Api,1
+2023-07,Owasp,3
+2023-07,Pandas,2
+2023-07,Penetration Testing,2
+2023-07,Power Bi,4
+2023-07,Product Strategy,2
+2023-07,PyTorch,3
+2023-07,Python,12
+2023-07,React,2
+2023-07,Redis,1
+2023-07,Redux,1
+2023-07,Rest Apis,3
+2023-07,Roadmapping,2
+2023-07,Scikitlearn,2
+2023-07,Scrum,1
+2023-07,Security,1
+2023-07,Siem,2
+2023-07,Snowflake,1
+2023-07,Spark,3
+2023-07,Sql,8
+2023-07,Statistics,6
+2023-07,Tableau,6
+2023-07,TensorFlow,3
+2023-07,Terraform,2
+2023-07,User Research,2
+2023-07,Vector Databases,2
+2023-07,Vue.Js,1
+2023-07,Webpack,1
+2023-08,Ab Testing,1
+2023-08,Agile,2
+2023-08,Airflow,3
+2023-08,Angular,3
+2023-08,Ansible,1
+2023-08,Aws,9
+2023-08,Azure,4
+2023-08,Bash Scripting,2
+2023-08,Bert,1
+2023-08,Big Data,5
+2023-08,Business Analysis,5
+2023-08,Business Intelligence,1
+2023-08,C++,1
+2023-08,Cicd,2
+2023-08,Communication,1
+2023-08,Computer Vision,3
+2023-08,Css,4
+2023-08,Data Analysis,1
+2023-08,Data Modeling,4
+2023-08,Data Visualization,1
+2023-08,Databricks,2
+2023-08,Dbt,3
+2023-08,Deep Learning,4
+2023-08,Docker,4
+2023-08,Ethical Hacking,2
+2023-08,Etl,6
+2023-08,Excel,5
+2023-08,Fastapi,3
+2023-08,Firewalls,3
+2023-08,Flask,1
+2023-08,GCP,3
+2023-08,Graphql,1
+2023-08,Hadoop,3
+2023-08,Html,1
+2023-08,Incident Response,3
+2023-08,Java,2
+2023-08,Javascript,3
+2023-08,Jenkins,2
+2023-08,Kafka,3
+2023-08,Kubernetes,2
+2023-08,Langchain,3
+2023-08,Linux,3
+2023-08,Llms,4
+2023-08,Machine Learning,1
+2023-08,Microservices,2
+2023-08,Model Deployment,1
+2023-08,Mongodb,1
+2023-08,Monitoring,2
+2023-08,NLP,3
+2023-08,Network Security,2
+2023-08,Networking,1
+2023-08,Node.Js,2
+2023-08,Numpy,1
+2023-08,Openai Api,2
+2023-08,Owasp,2
+2023-08,Pandas,4
+2023-08,Penetration Testing,2
+2023-08,Power Bi,7
+2023-08,Product Strategy,2
+2023-08,Prompt Engineering,3
+2023-08,PyTorch,1
+2023-08,Python,10
+2023-08,Redis,1
+2023-08,Redux,2
+2023-08,Rest Apis,3
+2023-08,Roadmapping,2
+2023-08,Scikitlearn,3
+2023-08,Scrum,2
+2023-08,Security,1
+2023-08,Siem,3
+2023-08,Snowflake,3
+2023-08,Spacy,2
+2023-08,Spark,6
+2023-08,Sql,14
+2023-08,Statistics,8
+2023-08,Tableau,4
+2023-08,TensorFlow,5
+2023-08,Terraform,2
+2023-08,Text Processing,1
+2023-08,Transformers,1
+2023-08,Typescript,2
+2023-08,User Research,1
+2023-08,Vector Databases,3
+2023-08,Vue.Js,2
+2023-08,Webpack,1
+2023-09,Ab Testing,1
+2023-09,Agile,1
+2023-09,Angular,1
+2023-09,Ansible,2
+2023-09,Aws,4
+2023-09,Azure,2
+2023-09,Bert,2
+2023-09,Business Analysis,4
+2023-09,Business Intelligence,1
+2023-09,C++,1
+2023-09,Cicd,1
+2023-09,Communication,1
+2023-09,Computer Vision,3
+2023-09,Cost Optimization,1
+2023-09,Css,2
+2023-09,Data Analysis,2
+2023-09,Data Modeling,1
+2023-09,Data Visualization,2
+2023-09,Deep Learning,2
+2023-09,Docker,5
+2023-09,Etl,3
+2023-09,Excel,3
+2023-09,Fastapi,1
+2023-09,GCP,2
+2023-09,Git,1
+2023-09,Graphql,2
+2023-09,Java,1
+2023-09,Javascript,4
+2023-09,Jenkins,2
+2023-09,Kubernetes,3
+2023-09,Langchain,3
+2023-09,Linux,1
+2023-09,Llms,3
+2023-09,Machine Learning,1
+2023-09,Microservices,2
+2023-09,Mlops,1
+2023-09,Mongodb,1
+2023-09,Monitoring,2
+2023-09,NLP,4
+2023-09,Networking,1
+2023-09,Nltk,1
+2023-09,Node.Js,1
+2023-09,Openai Api,2
+2023-09,Power Bi,2
+2023-09,Product Strategy,2
+2023-09,Prompt Engineering,3
+2023-09,PyTorch,2
+2023-09,Python,11
+2023-09,React,2
+2023-09,Redis,1
+2023-09,Redux,2
+2023-09,Rest Apis,4
+2023-09,Roadmapping,2
+2023-09,Scikitlearn,2
+2023-09,Scrum,2
+2023-09,Security,3
+2023-09,Spacy,1
+2023-09,Spring Boot,2
+2023-09,Sql,5
+2023-09,Statistics,3
+2023-09,Tableau,3
+2023-09,TensorFlow,3
+2023-09,Terraform,4
+2023-09,Transformers,1
+2023-09,Typescript,1
+2023-09,User Research,1
+2023-09,Vector Databases,3
+2023-09,Vue.Js,1
+2023-09,Webpack,1
+2023-10,Ab Testing,2
+2023-10,Agile,3
+2023-10,Airflow,1
+2023-10,Angular,1
+2023-10,Ansible,3
+2023-10,Aws,6
+2023-10,Azure,11
+2023-10,Bash Scripting,7
+2023-10,Big Data,2
+2023-10,Business Analysis,1
+2023-10,Business Intelligence,3
+2023-10,Cicd,5
+2023-10,Communication,3
+2023-10,Computer Vision,4
+2023-10,Cost Optimization,3
+2023-10,Css,2
+2023-10,Data Analysis,2
+2023-10,Data Modeling,1
+2023-10,Data Visualization,5
+2023-10,Deep Learning,1
+2023-10,Docker,7
+2023-10,Etl,1
+2023-10,Excel,3
+2023-10,Fastapi,2
+2023-10,GCP,7
+2023-10,Html,1
+2023-10,Javascript,2
+2023-10,Jenkins,4
+2023-10,Kafka,1
+2023-10,Kubernetes,8
+2023-10,Langchain,4
+2023-10,Linux,6
+2023-10,Llms,3
+2023-10,Microservices,2
+2023-10,Mlops,3
+2023-10,Model Deployment,2
+2023-10,Mongodb,1
+2023-10,Monitoring,2
+2023-10,NLP,5
+2023-10,Networking,4
+2023-10,Nltk,1
+2023-10,Numpy,2
+2023-10,Openai Api,5
+2023-10,Owasp,1
+2023-10,Pandas,3
+2023-10,Penetration Testing,1
+2023-10,Power Bi,4
+2023-10,Product Strategy,3
+2023-10,Prompt Engineering,5
+2023-10,PyTorch,7
+2023-10,Python,8
+2023-10,React,1
+2023-10,Redux,1
+2023-10,Rest Apis,4
+2023-10,Roadmapping,2
+2023-10,Scikitlearn,4
+2023-10,Scrum,2
+2023-10,Security,1
+2023-10,Siem,1
+2023-10,Snowflake,1
+2023-10,Spacy,1
+2023-10,Spark,1
+2023-10,Sql,11
+2023-10,Statistics,6
+2023-10,Tableau,3
+2023-10,TensorFlow,6
+2023-10,Terraform,5
+2023-10,Text Processing,2
+2023-10,Transformers,1
+2023-10,Typescript,1
+2023-10,User Research,2
+2023-10,Vector Databases,1
+2023-10,Webpack,1
+2023-11,Ab Testing,1
+2023-11,Agile,2
+2023-11,Airflow,1
+2023-11,Angular,2
+2023-11,Aws,5
+2023-11,Azure,3
+2023-11,Bert,1
+2023-11,Big Data,1
+2023-11,Business Analysis,1
+2023-11,C++,1
+2023-11,Cicd,1
+2023-11,Communication,1
+2023-11,Computer Vision,6
+2023-11,Cost Optimization,1
+2023-11,Css,1
+2023-11,Data Analysis,1
+2023-11,Data Modeling,2
+2023-11,Databricks,1
+2023-11,Deep Learning,2
+2023-11,Django,2
+2023-11,Docker,4
+2023-11,Ethical Hacking,1
+2023-11,Etl,1
+2023-11,Excel,2
+2023-11,Fastapi,2
+2023-11,GCP,1
+2023-11,Git,1
+2023-11,Graphql,2
+2023-11,Html,2
+2023-11,Incident Response,1
+2023-11,Java,2
+2023-11,Javascript,4
+2023-11,Kafka,1
+2023-11,Kubernetes,4
+2023-11,Langchain,5
+2023-11,Llms,5
+2023-11,Microservices,1
+2023-11,Mlops,1
+2023-11,Model Deployment,2
+2023-11,Mongodb,1
+2023-11,NLP,5
+2023-11,Network Security,1
+2023-11,Node.Js,1
+2023-11,Openai Api,4
+2023-11,Owasp,1
+2023-11,Pandas,1
+2023-11,Penetration Testing,1
+2023-11,Power Bi,3
+2023-11,Product Strategy,2
+2023-11,Prompt Engineering,4
+2023-11,PyTorch,7
+2023-11,Python,10
+2023-11,React,2
+2023-11,Redis,2
+2023-11,Redux,1
+2023-11,Rest Apis,5
+2023-11,Roadmapping,2
+2023-11,Scikitlearn,1
+2023-11,Scrum,2
+2023-11,Security,1
+2023-11,Siem,1
+2023-11,Spacy,1
+2023-11,Sql,6
+2023-11,Statistics,3
+2023-11,Tableau,2
+2023-11,TensorFlow,7
+2023-11,Text Processing,1
+2023-11,Typescript,2
+2023-11,User Research,2
+2023-11,Vector Databases,3
+2023-11,Vue.Js,1
+2023-12,Ab Testing,1
+2023-12,Agile,1
+2023-12,Angular,1
+2023-12,Ansible,1
+2023-12,Aws,9
+2023-12,Azure,3
+2023-12,Bash Scripting,2
+2023-12,Bert,3
+2023-12,Big Data,1
+2023-12,Business Analysis,1
+2023-12,Business Intelligence,5
+2023-12,Cicd,1
+2023-12,Communication,1
+2023-12,Computer Vision,1
+2023-12,Cost Optimization,2
+2023-12,Css,5
+2023-12,Data Modeling,1
+2023-12,Data Visualization,2
+2023-12,Dbt,1
+2023-12,Deep Learning,4
+2023-12,Docker,8
+2023-12,Ethical Hacking,1
+2023-12,Etl,2
+2023-12,Excel,5
+2023-12,Fastapi,1
+2023-12,Flask,1
+2023-12,GCP,2
+2023-12,Graphql,1
+2023-12,Hadoop,1
+2023-12,Html,4
+2023-12,Incident Response,2
+2023-12,Javascript,2
+2023-12,Jenkins,2
+2023-12,Kubernetes,4
+2023-12,Langchain,1
+2023-12,Linux,2
+2023-12,Llms,3
+2023-12,Microservices,2
+2023-12,Mlops,2
+2023-12,Model Deployment,1
+2023-12,Mongodb,3
+2023-12,NLP,4
+2023-12,Network Security,2
+2023-12,Networking,2
+2023-12,Nltk,1
+2023-12,Node.Js,4
+2023-12,Owasp,2
+2023-12,Pandas,4
+2023-12,Penetration Testing,2
+2023-12,Power Bi,3
+2023-12,Product Strategy,1
+2023-12,PyTorch,3
+2023-12,Python,10
+2023-12,React,1
+2023-12,Rest Apis,5
+2023-12,Roadmapping,1
+2023-12,Scikitlearn,1
+2023-12,Security,2
+2023-12,Siem,2
+2023-12,Spacy,2
+2023-12,Sql,7
+2023-12,Statistics,3
+2023-12,Tableau,3
+2023-12,TensorFlow,4
+2023-12,Terraform,2
+2023-12,Text Processing,3
+2023-12,Transformers,3
+2023-12,Typescript,1
+2023-12,User Research,1
+2023-12,Vector Databases,1
+2023-12,Webpack,2
+2024-01,Ab Testing,1
+2024-01,Agile,2
+2024-01,Angular,2
+2024-01,Aws,4
+2024-01,Azure,1
+2024-01,Bash Scripting,1
+2024-01,Bert,3
+2024-01,Big Data,3
+2024-01,Business Analysis,2
+2024-01,Business Intelligence,2
+2024-01,C++,2
+2024-01,Cicd,1
+2024-01,Communication,1
+2024-01,Computer Vision,2
+2024-01,Css,6
+2024-01,Data Analysis,1
+2024-01,Data Modeling,4
+2024-01,Data Visualization,4
+2024-01,Databricks,1
+2024-01,Dbt,3
+2024-01,Deep Learning,3
+2024-01,Docker,7
+2024-01,Ethical Hacking,1
+2024-01,Etl,4
+2024-01,Excel,5
+2024-01,Fastapi,1
+2024-01,Firewalls,2
+2024-01,GCP,1
+2024-01,Git,2
+2024-01,Graphql,3
+2024-01,Hadoop,3
+2024-01,Html,3
+2024-01,Incident Response,2
+2024-01,Java,4
+2024-01,Javascript,5
+2024-01,Jenkins,1
+2024-01,Kubernetes,1
+2024-01,Langchain,1
+2024-01,Linux,1
+2024-01,Llms,2
+2024-01,Machine Learning,1
+2024-01,Microservices,2
+2024-01,Mongodb,4
+2024-01,Monitoring,2
+2024-01,NLP,5
+2024-01,Network Security,1
+2024-01,Nltk,2
+2024-01,Node.Js,4
+2024-01,Openai Api,1
+2024-01,Owasp,2
+2024-01,Pandas,5
+2024-01,Penetration Testing,1
+2024-01,Power Bi,4
+2024-01,Product Strategy,1
+2024-01,PyTorch,4
+2024-01,Python,13
+2024-01,React,8
+2024-01,Redux,3
+2024-01,Rest Apis,5
+2024-01,Roadmapping,2
+2024-01,Scikitlearn,2
+2024-01,Scrum,1
+2024-01,Siem,1
+2024-01,Snowflake,1
+2024-01,Spacy,2
+2024-01,Spark,1
+2024-01,Sql,14
+2024-01,Statistics,7
+2024-01,Tableau,3
+2024-01,TensorFlow,4
+2024-01,Terraform,2
+2024-01,Text Processing,3
+2024-01,Transformers,1
+2024-01,Typescript,2
+2024-01,Vector Databases,1
+2024-01,Vue.Js,3
+2024-01,Webpack,2
+2024-02,Agile,2
+2024-02,Airflow,4
+2024-02,Angular,1
+2024-02,Ansible,1
+2024-02,Aws,7
+2024-02,Azure,2
+2024-02,Bash Scripting,1
+2024-02,Bert,1
+2024-02,Big Data,1
+2024-02,Business Analysis,2
+2024-02,Business Intelligence,1
+2024-02,C++,3
+2024-02,Cicd,4
+2024-02,Css,1
+2024-02,Data Modeling,1
+2024-02,Data Visualization,1
+2024-02,Dbt,1
+2024-02,Deep Learning,2
+2024-02,Django,2
+2024-02,Docker,9
+2024-02,Etl,4
+2024-02,Excel,3
+2024-02,Fastapi,3
+2024-02,Git,2
+2024-02,Graphql,1
+2024-02,Hadoop,1
+2024-02,Html,1
+2024-02,Java,3
+2024-02,Javascript,4
+2024-02,Kafka,3
+2024-02,Kubernetes,1
+2024-02,Linux,1
+2024-02,Microservices,2
+2024-02,Mlops,2
+2024-02,Mongodb,1
+2024-02,NLP,1
+2024-02,Nltk,2
+2024-02,Node.Js,1
+2024-02,Power Bi,4
+2024-02,PyTorch,1
+2024-02,Python,13
+2024-02,React,3
+2024-02,Redux,1
+2024-02,Rest Apis,5
+2024-02,Scikitlearn,1
+2024-02,Snowflake,2
+2024-02,Spacy,1
+2024-02,Spark,3
+2024-02,Spring Boot,2
+2024-02,Sql,7
+2024-02,Statistics,3
+2024-02,Tableau,3
+2024-02,TensorFlow,2
+2024-02,Terraform,1
+2024-02,Text Processing,1
+2024-02,Typescript,1
+2024-03,Ab Testing,2
+2024-03,Agile,4
+2024-03,Airflow,1
+2024-03,Angular,2
+2024-03,Ansible,1
+2024-03,Aws,3
+2024-03,Azure,3
+2024-03,Bash Scripting,1
+2024-03,Bert,1
+2024-03,Big Data,2
+2024-03,Business Analysis,1
+2024-03,Business Intelligence,2
+2024-03,C++,1
+2024-03,Cicd,4
+2024-03,Communication,2
+2024-03,Cost Optimization,2
+2024-03,Css,4
+2024-03,Data Analysis,2
+2024-03,Data Modeling,1
+2024-03,Dbt,1
+2024-03,Deep Learning,5
+2024-03,Django,1
+2024-03,Docker,7
+2024-03,Ethical Hacking,1
+2024-03,Etl,1
+2024-03,Excel,2
+2024-03,Fastapi,1
+2024-03,Flask,1
+2024-03,GCP,3
+2024-03,Graphql,2
+2024-03,Hadoop,1
+2024-03,Html,5
+2024-03,Java,3
+2024-03,Javascript,5
+2024-03,Jenkins,2
+2024-03,Kafka,1
+2024-03,Kubernetes,3
+2024-03,Linux,1
+2024-03,Llms,1
+2024-03,Machine Learning,1
+2024-03,Microservices,3
+2024-03,Model Deployment,2
+2024-03,Mongodb,1
+2024-03,Monitoring,2
+2024-03,NLP,2
+2024-03,Network Security,1
+2024-03,Networking,3
+2024-03,Nltk,1
+2024-03,Node.Js,2
+2024-03,Numpy,3
+2024-03,Openai Api,1
+2024-03,Owasp,1
+2024-03,Pandas,3
+2024-03,Penetration Testing,1
+2024-03,Power Bi,2
+2024-03,Product Strategy,3
+2024-03,PyTorch,3
+2024-03,Python,9
+2024-03,React,2
+2024-03,Redux,2
+2024-03,Rest Apis,3
+2024-03,Roadmapping,3
+2024-03,Scikitlearn,2
+2024-03,Scrum,3
+2024-03,Security,1
+2024-03,Snowflake,1
+2024-03,Spacy,1
+2024-03,Spark,3
+2024-03,Spring Boot,1
+2024-03,Sql,9
+2024-03,Statistics,1
+2024-03,Tableau,2
+2024-03,TensorFlow,2
+2024-03,Terraform,4
+2024-03,Transformers,1
+2024-03,Typescript,2
+2024-03,User Research,2
+2024-03,Vector Databases,1
+2024-03,Vue.Js,3
+2024-03,Webpack,1
+2024-04,Agile,1
+2024-04,Aws,6
+2024-04,Azure,2
+2024-04,Bash Scripting,1
+2024-04,Bert,2
+2024-04,Big Data,3
+2024-04,Business Analysis,2
+2024-04,C++,1
+2024-04,Computer Vision,2
+2024-04,Cost Optimization,1
+2024-04,Css,3
+2024-04,Data Modeling,2
+2024-04,Data Visualization,2
+2024-04,Dbt,1
+2024-04,Deep Learning,1
+2024-04,Docker,3
+2024-04,Etl,4
+2024-04,Excel,1
+2024-04,Fastapi,1
+2024-04,Flask,1
+2024-04,GCP,2
+2024-04,Git,1
+2024-04,Hadoop,1
+2024-04,Html,3
+2024-04,Java,1
+2024-04,Javascript,6
+2024-04,Kafka,2
+2024-04,Kubernetes,2
+2024-04,Langchain,1
+2024-04,Linux,1
+2024-04,Llms,1
+2024-04,Mlops,1
+2024-04,Mongodb,4
+2024-04,NLP,5
+2024-04,Nltk,2
+2024-04,Node.Js,2
+2024-04,Numpy,1
+2024-04,Openai Api,1
+2024-04,Pandas,1
+2024-04,Power Bi,3
+2024-04,Prompt Engineering,1
+2024-04,PyTorch,2
+2024-04,Python,13
+2024-04,React,3
+2024-04,Redis,1
+2024-04,Rest Apis,6
+2024-04,Scikitlearn,1
+2024-04,Spacy,3
+2024-04,Spark,2
+2024-04,Sql,10
+2024-04,Statistics,4
+2024-04,Tableau,3
+2024-04,TensorFlow,6
+2024-04,Text Processing,2
+2024-04,Transformers,3
+2024-04,Vector Databases,1
+2024-04,Vue.Js,1
+2024-04,Webpack,1
+2024-05,Ab Testing,1
+2024-05,Agile,4
+2024-05,Angular,3
+2024-05,Ansible,1
+2024-05,Aws,7
+2024-05,Azure,5
+2024-05,Bash Scripting,2
+2024-05,Bert,1
+2024-05,Business Analysis,1
+2024-05,Business Intelligence,1
+2024-05,C++,4
+2024-05,Cicd,5
+2024-05,Computer Vision,1
+2024-05,Cost Optimization,3
+2024-05,Css,3
+2024-05,Data Analysis,1
+2024-05,Data Modeling,1
+2024-05,Data Visualization,2
+2024-05,Deep Learning,3
+2024-05,Django,1
+2024-05,Docker,9
+2024-05,Ethical Hacking,1
+2024-05,Etl,2
+2024-05,Excel,3
+2024-05,Fastapi,3
+2024-05,Firewalls,2
+2024-05,Flask,1
+2024-05,GCP,6
+2024-05,Git,3
+2024-05,Graphql,3
+2024-05,Html,2
+2024-05,Incident Response,2
+2024-05,Java,3
+2024-05,Javascript,8
+2024-05,Kubernetes,5
+2024-05,Langchain,1
+2024-05,Linux,1
+2024-05,Llms,3
+2024-05,Microservices,7
+2024-05,Mlops,1
+2024-05,Mongodb,2
+2024-05,Monitoring,2
+2024-05,NLP,2
+2024-05,Network Security,2
+2024-05,Networking,1
+2024-05,Nltk,2
+2024-05,Node.Js,1
+2024-05,Openai Api,2
+2024-05,Owasp,1
+2024-05,Pandas,2
+2024-05,Penetration Testing,1
+2024-05,Power Bi,1
+2024-05,Product Strategy,1
+2024-05,Prompt Engineering,1
+2024-05,PyTorch,4
+2024-05,Python,13
+2024-05,React,2
+2024-05,Redis,1
+2024-05,Redux,5
+2024-05,Rest Apis,5
+2024-05,Scikitlearn,3
+2024-05,Scrum,1
+2024-05,Security,1
+2024-05,Spacy,1
+2024-05,Spark,1
+2024-05,Spring Boot,4
+2024-05,Sql,6
+2024-05,Statistics,4
+2024-05,Tableau,3
+2024-05,TensorFlow,5
+2024-05,Terraform,3
+2024-05,Text Processing,1
+2024-05,Typescript,4
+2024-05,Vector Databases,2
+2024-05,Vue.Js,4
+2024-05,Webpack,3
+2024-06,Ab Testing,1
+2024-06,Agile,2
+2024-06,Airflow,1
+2024-06,Ansible,1
+2024-06,Aws,7
+2024-06,Azure,1
+2024-06,Bash Scripting,1
+2024-06,Bert,1
+2024-06,Big Data,2
+2024-06,Business Analysis,1
+2024-06,Business Intelligence,1
+2024-06,C++,1
+2024-06,Cicd,4
+2024-06,Cost Optimization,1
+2024-06,Css,4
+2024-06,Data Analysis,1
+2024-06,Data Modeling,1
+2024-06,Data Visualization,2
+2024-06,Deep Learning,3
+2024-06,Django,2
+2024-06,Docker,9
+2024-06,Ethical Hacking,1
+2024-06,Etl,1
+2024-06,Excel,2
+2024-06,Fastapi,2
+2024-06,Firewalls,1
+2024-06,Flask,2
+2024-06,GCP,3
+2024-06,Graphql,1
+2024-06,Hadoop,1
+2024-06,Html,5
+2024-06,Java,2
+2024-06,Javascript,2
+2024-06,Jenkins,2
+2024-06,Kubernetes,4
+2024-06,Linux,2
+2024-06,Machine Learning,3
+2024-06,Microservices,4
+2024-06,Mlops,2
+2024-06,Model Deployment,2
+2024-06,NLP,5
+2024-06,Network Security,1
+2024-06,Networking,1
+2024-06,Nltk,3
+2024-06,Node.Js,2
+2024-06,Numpy,1
+2024-06,Owasp,1
+2024-06,Pandas,1
+2024-06,Penetration Testing,1
+2024-06,Power Bi,2
+2024-06,Product Strategy,1
+2024-06,PyTorch,1
+2024-06,Python,13
+2024-06,React,4
+2024-06,Redux,3
+2024-06,Scikitlearn,2
+2024-06,Scrum,1
+2024-06,Security,2
+2024-06,Siem,1
+2024-06,Spacy,1
+2024-06,Spark,2
+2024-06,Spring Boot,1
+2024-06,Sql,6
+2024-06,Statistics,3
+2024-06,Tableau,1
+2024-06,TensorFlow,3
+2024-06,Terraform,4
+2024-06,Text Processing,2
+2024-06,Transformers,1
+2024-06,Typescript,2
+2024-06,User Research,1
+2024-06,Vue.Js,3
+2024-06,Webpack,2
+2024-07,Ab Testing,2
+2024-07,Agile,3
+2024-07,Airflow,1
+2024-07,Angular,2
+2024-07,Aws,8
+2024-07,Azure,3
+2024-07,Bert,1
+2024-07,Business Analysis,1
+2024-07,C++,1
+2024-07,Cicd,2
+2024-07,Communication,1
+2024-07,Computer Vision,1
+2024-07,Cost Optimization,1
+2024-07,Css,2
+2024-07,Data Analysis,1
+2024-07,Data Modeling,1
+2024-07,Data Visualization,1
+2024-07,Databricks,1
+2024-07,Dbt,1
+2024-07,Deep Learning,1
+2024-07,Django,2
+2024-07,Docker,5
+2024-07,Ethical Hacking,3
+2024-07,Etl,1
+2024-07,Excel,2
+2024-07,Fastapi,2
+2024-07,Firewalls,3
+2024-07,Flask,3
+2024-07,Git,1
+2024-07,Graphql,2
+2024-07,Hadoop,1
+2024-07,Html,3
+2024-07,Incident Response,2
+2024-07,Java,3
+2024-07,Javascript,3
+2024-07,Kafka,2
+2024-07,Kubernetes,1
+2024-07,Langchain,3
+2024-07,Llms,2
+2024-07,Machine Learning,1
+2024-07,Microservices,1
+2024-07,Mlops,1
+2024-07,Model Deployment,3
+2024-07,Mongodb,4
+2024-07,NLP,2
+2024-07,Network Security,2
+2024-07,Nltk,1
+2024-07,Node.Js,4
+2024-07,Numpy,1
+2024-07,Openai Api,4
+2024-07,Owasp,1
+2024-07,Pandas,1
+2024-07,Penetration Testing,1
+2024-07,Power Bi,3
+2024-07,Product Strategy,2
+2024-07,Prompt Engineering,2
+2024-07,PyTorch,4
+2024-07,Python,13
+2024-07,React,3
+2024-07,Redis,3
+2024-07,Redux,2
+2024-07,Rest Apis,3
+2024-07,Roadmapping,2
+2024-07,Scikitlearn,2
+2024-07,Scrum,1
+2024-07,Siem,2
+2024-07,Snowflake,1
+2024-07,Spacy,1
+2024-07,Spark,1
+2024-07,Sql,9
+2024-07,Statistics,3
+2024-07,Tableau,3
+2024-07,TensorFlow,5
+2024-07,Terraform,1
+2024-07,Text Processing,1
+2024-07,Transformers,1
+2024-07,Typescript,2
+2024-07,User Research,2
+2024-07,Vector Databases,3
+2024-07,Vue.Js,1
+2024-08,Ab Testing,1
+2024-08,Agile,3
+2024-08,Airflow,3
+2024-08,Angular,1
+2024-08,Ansible,1
+2024-08,Aws,8
+2024-08,Azure,2
+2024-08,Big Data,4
+2024-08,Business Analysis,2
+2024-08,C++,2
+2024-08,Cicd,1
+2024-08,Communication,1
+2024-08,Computer Vision,1
+2024-08,Cost Optimization,1
+2024-08,Css,4
+2024-08,Data Analysis,1
+2024-08,Databricks,4
+2024-08,Dbt,4
+2024-08,Deep Learning,1
+2024-08,Django,1
+2024-08,Docker,10
+2024-08,Ethical Hacking,3
+2024-08,Etl,2
+2024-08,Excel,1
+2024-08,Fastapi,2
+2024-08,Firewalls,3
+2024-08,Flask,2
+2024-08,GCP,1
+2024-08,Git,4
+2024-08,Graphql,1
+2024-08,Html,3
+2024-08,Incident Response,2
+2024-08,Java,4
+2024-08,Javascript,4
+2024-08,Kafka,2
+2024-08,Kubernetes,1
+2024-08,Langchain,2
+2024-08,Linux,1
+2024-08,Llms,4
+2024-08,Machine Learning,1
+2024-08,Microservices,3
+2024-08,Mlops,1
+2024-08,Model Deployment,1
+2024-08,Mongodb,4
+2024-08,NLP,6
+2024-08,Network Security,3
+2024-08,Node.Js,3
+2024-08,Openai Api,5
+2024-08,Owasp,1
+2024-08,Penetration Testing,3
+2024-08,Power Bi,2
+2024-08,Product Strategy,1
+2024-08,Prompt Engineering,3
+2024-08,PyTorch,4
+2024-08,Python,21
+2024-08,React,4
+2024-08,Redis,1
+2024-08,Redux,1
+2024-08,Rest Apis,8
+2024-08,Roadmapping,1
+2024-08,Scikitlearn,1
+2024-08,Security,1
+2024-08,Siem,3
+2024-08,Snowflake,5
+2024-08,Spacy,1
+2024-08,Spark,2
+2024-08,Spring Boot,1
+2024-08,Sql,13
+2024-08,Statistics,1
+2024-08,Tableau,1
+2024-08,TensorFlow,7
+2024-08,Terraform,3
+2024-08,Text Processing,1
+2024-08,Transformers,1
+2024-08,User Research,1
+2024-08,Vector Databases,4
+2024-09,Ab Testing,2
+2024-09,Agile,6
+2024-09,Airflow,1
+2024-09,Angular,1
+2024-09,Ansible,2
+2024-09,Aws,9
+2024-09,Azure,2
+2024-09,Bash Scripting,2
+2024-09,Bert,1
+2024-09,Big Data,3
+2024-09,Business Analysis,4
+2024-09,Business Intelligence,2
+2024-09,Cicd,2
+2024-09,Communication,4
+2024-09,Computer Vision,3
+2024-09,Css,3
+2024-09,Data Analysis,4
+2024-09,Data Modeling,2
+2024-09,Data Visualization,3
+2024-09,Databricks,2
+2024-09,Deep Learning,5
+2024-09,Django,4
+2024-09,Docker,5
+2024-09,Ethical Hacking,3
+2024-09,Etl,5
+2024-09,Excel,2
+2024-09,Fastapi,3
+2024-09,Firewalls,3
+2024-09,Flask,4
+2024-09,GCP,3
+2024-09,Hadoop,2
+2024-09,Html,3
+2024-09,Incident Response,3
+2024-09,Java,4
+2024-09,Javascript,4
+2024-09,Jenkins,1
+2024-09,Kafka,1
+2024-09,Kubernetes,5
+2024-09,Langchain,3
+2024-09,Linux,2
+2024-09,Llms,7
+2024-09,Machine Learning,1
+2024-09,Microservices,1
+2024-09,Mlops,2
+2024-09,Model Deployment,2
+2024-09,Mongodb,4
+2024-09,Monitoring,1
+2024-09,NLP,6
+2024-09,Network Security,3
+2024-09,Networking,1
+2024-09,Nltk,1
+2024-09,Node.Js,5
+2024-09,Numpy,1
+2024-09,Owasp,3
+2024-09,Pandas,3
+2024-09,Penetration Testing,2
+2024-09,Power Bi,3
+2024-09,Product Strategy,4
+2024-09,Prompt Engineering,2
+2024-09,PyTorch,7
+2024-09,Python,16
+2024-09,React,5
+2024-09,Redis,3
+2024-09,Redux,1
+2024-09,Rest Apis,6
+2024-09,Roadmapping,6
+2024-09,Scikitlearn,4
+2024-09,Scrum,4
+2024-09,Siem,2
+2024-09,Snowflake,2
+2024-09,Spacy,2
+2024-09,Spark,1
+2024-09,Sql,15
+2024-09,Statistics,7
+2024-09,Tableau,3
+2024-09,TensorFlow,8
+2024-09,Terraform,1
+2024-09,Text Processing,1
+2024-09,Typescript,2
+2024-09,User Research,4
+2024-09,Vector Databases,3
+2024-09,Vue.Js,2
+2024-10,Agile,2
+2024-10,Angular,3
+2024-10,Ansible,1
+2024-10,Aws,4
+2024-10,Azure,1
+2024-10,Bash Scripting,1
+2024-10,Bert,1
+2024-10,Big Data,1
+2024-10,Business Analysis,1
+2024-10,Business Intelligence,1
+2024-10,C++,2
+2024-10,Cicd,2
+2024-10,Css,5
+2024-10,Data Modeling,2
+2024-10,Data Visualization,1
+2024-10,Databricks,1
+2024-10,Dbt,1
+2024-10,Django,1
+2024-10,Docker,7
+2024-10,Ethical Hacking,1
+2024-10,Etl,3
+2024-10,Excel,1
+2024-10,Fastapi,2
+2024-10,Firewalls,1
+2024-10,GCP,2
+2024-10,Git,3
+2024-10,Graphql,3
+2024-10,Html,4
+2024-10,Incident Response,1
+2024-10,Java,5
+2024-10,Javascript,5
+2024-10,Jenkins,2
+2024-10,Kubernetes,2
+2024-10,Linux,1
+2024-10,Machine Learning,1
+2024-10,Microservices,1
+2024-10,Mongodb,2
+2024-10,Monitoring,2
+2024-10,NLP,2
+2024-10,Network Security,1
+2024-10,Node.Js,2
+2024-10,Numpy,1
+2024-10,Owasp,1
+2024-10,Pandas,3
+2024-10,Power Bi,4
+2024-10,PyTorch,2
+2024-10,Python,12
+2024-10,React,3
+2024-10,Redis,1
+2024-10,Redux,3
+2024-10,Rest Apis,6
+2024-10,Scikitlearn,1
+2024-10,Siem,1
+2024-10,Snowflake,1
+2024-10,Spacy,1
+2024-10,Spark,1
+2024-10,Spring Boot,2
+2024-10,Sql,5
+2024-10,Statistics,6
+2024-10,Tableau,4
+2024-10,TensorFlow,3
+2024-10,Terraform,3
+2024-10,Typescript,3
+2024-10,Vue.Js,3
+2024-10,Webpack,3
+2024-11,Ab Testing,2
+2024-11,Agile,1
+2024-11,Airflow,1
+2024-11,Ansible,1
+2024-11,Aws,2
+2024-11,Azure,2
+2024-11,Bash Scripting,1
+2024-11,Bert,2
+2024-11,Big Data,1
+2024-11,Business Analysis,3
+2024-11,Business Intelligence,1
+2024-11,Cicd,1
+2024-11,Communication,1
+2024-11,Computer Vision,1
+2024-11,Cost Optimization,2
+2024-11,Data Analysis,2
+2024-11,Data Modeling,3
+2024-11,Data Visualization,3
+2024-11,Databricks,3
+2024-11,Dbt,1
+2024-11,Deep Learning,1
+2024-11,Django,1
+2024-11,Docker,4
+2024-11,Ethical Hacking,1
+2024-11,Etl,4
+2024-11,Excel,4
+2024-11,Fastapi,1
+2024-11,Firewalls,1
+2024-11,Flask,2
+2024-11,GCP,1
+2024-11,Hadoop,1
+2024-11,Html,2
+2024-11,Incident Response,1
+2024-11,Java,3
+2024-11,Javascript,2
+2024-11,Jenkins,1
+2024-11,Kafka,1
+2024-11,Langchain,2
+2024-11,Llms,4
+2024-11,Machine Learning,1
+2024-11,Mongodb,3
+2024-11,NLP,3
+2024-11,Network Security,1
+2024-11,Nltk,1
+2024-11,Openai Api,2
+2024-11,Owasp,2
+2024-11,Pandas,3
+2024-11,Penetration Testing,2
+2024-11,Power Bi,3
+2024-11,Product Strategy,1
+2024-11,PyTorch,3
+2024-11,Python,18
+2024-11,React,1
+2024-11,Redis,3
+2024-11,Rest Apis,4
+2024-11,Roadmapping,2
+2024-11,Scikitlearn,1
+2024-11,Scrum,1
+2024-11,Security,1
+2024-11,Siem,2
+2024-11,Snowflake,1
+2024-11,Spark,3
+2024-11,Sql,11
+2024-11,Statistics,6
+2024-11,Tableau,5
+2024-11,TensorFlow,2
+2024-11,Terraform,1
+2024-11,Text Processing,1
+2024-11,Transformers,1
+2024-11,User Research,2
+2024-11,Vector Databases,1
+2024-12,Ab Testing,1
+2024-12,Agile,1
+2024-12,Airflow,1
+2024-12,Angular,1
+2024-12,Aws,3
+2024-12,Bert,2
+2024-12,Big Data,1
+2024-12,Business Analysis,1
+2024-12,Communication,1
+2024-12,Computer Vision,1
+2024-12,Css,2
+2024-12,Data Modeling,1
+2024-12,Data Visualization,4
+2024-12,Databricks,2
+2024-12,Dbt,1
+2024-12,Deep Learning,4
+2024-12,Django,1
+2024-12,Docker,1
+2024-12,Ethical Hacking,2
+2024-12,Etl,2
+2024-12,Excel,3
+2024-12,Fastapi,1
+2024-12,Firewalls,2
+2024-12,Graphql,2
+2024-12,Hadoop,2
+2024-12,Html,1
+2024-12,Incident Response,2
+2024-12,Javascript,2
+2024-12,Kafka,2
+2024-12,Langchain,1
+2024-12,Llms,4
+2024-12,Machine Learning,1
+2024-12,Microservices,1
+2024-12,Mlops,1
+2024-12,Mongodb,1
+2024-12,NLP,1
+2024-12,Network Security,1
+2024-12,Networking,1
+2024-12,Nltk,1
+2024-12,Node.Js,1
+2024-12,Numpy,1
+2024-12,Openai Api,2
+2024-12,Owasp,2
+2024-12,Pandas,2
+2024-12,Penetration Testing,2
+2024-12,Power Bi,3
+2024-12,Product Strategy,1
+2024-12,Prompt Engineering,2
+2024-12,PyTorch,1
+2024-12,Python,13
+2024-12,React,1
+2024-12,Redis,1
+2024-12,Rest Apis,2
+2024-12,Scikitlearn,1
+2024-12,Scrum,1
+2024-12,Security,1
+2024-12,Siem,3
+2024-12,Snowflake,1
+2024-12,Spacy,1
+2024-12,Spark,1
+2024-12,Sql,4
+2024-12,Statistics,3
+2024-12,Tableau,3
+2024-12,TensorFlow,2
+2024-12,Text Processing,2
+2024-12,Transformers,2
+2024-12,Typescript,1
+2024-12,User Research,1
+2024-12,Vector Databases,2
+2024-12,Vue.Js,1
+2024-12,Webpack,1

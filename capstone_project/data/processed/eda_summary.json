@@ -1,0 +1,358 @@
+{
+  "basic_stats": {
+    "total_records": 1000,
+    "total_columns": 18,
+    "missing_values": 0,
+    "unique_job_titles": 15,
+    "unique_companies": 20,
+    "unique_locations": 10,
+    "date_range": {
+      "start": "2022-01-01 00:00:00",
+      "end": "2024-12-30 00:00:00"
+    },
+    "salary_stats": {
+      "mean": 2361601.05,
+      "median": 2096759.0,
+      "min": 300280.0,
+      "max": 5993594.0,
+      "std": 1583731.1
+    }
+  },
+  "top_skills": {
+    "labels": [
+      "Python",
+      "Sql",
+      "Docker",
+      "Aws",
+      "TensorFlow",
+      "Rest Apis",
+      "Statistics",
+      "PyTorch",
+      "NLP",
+      "Javascript",
+      "Azure",
+      "Power Bi",
+      "Kubernetes",
+      "Tableau",
+      "Excel",
+      "Etl",
+      "Css",
+      "Llms",
+      "React",
+      "GCP"
+    ],
+    "values": [
+      413,
+      291,
+      191,
+      189,
+      136,
+      133,
+      131,
+      112,
+      110,
+      105,
+      102,
+      96,
+      92,
+      88,
+      88,
+      88,
+      87,
+      82,
+      80,
+      78
+    ],
+    "total_unique_skills": 92
+  },
+  "job_level_distribution": {
+    "labels": [
+      "Principal",
+      "Senior",
+      "Mid",
+      "Entry",
+      "Lead"
+    ],
+    "values": [
+      204,
+      202,
+      201,
+      200,
+      193
+    ]
+  },
+  "salary_by_level": {
+    "labels": [
+      "Entry",
+      "Mid",
+      "Senior",
+      "Lead",
+      "Principal"
+    ],
+    "values": [
+      5.05,
+      11.29,
+      21.45,
+      32.83,
+      47.39
+    ]
+  },
+  "jobs_by_location": {
+    "labels": [
+      "Kolkata",
+      "Delhi NCR",
+      "Gurgaon",
+      "Bangalore",
+      "Chennai",
+      "Pune",
+      "Noida",
+      "Mumbai",
+      "Ahmedabad",
+      "Hyderabad"
+    ],
+    "values": [
+      121,
+      104,
+      103,
+      99,
+      98,
+      96,
+      95,
+      95,
+      95,
+      94
+    ]
+  },
+  "jobs_over_time": {
+    "labels": [
+      "2022-01",
+      "2022-02",
+      "2022-03",
+      "2022-04",
+      "2022-05",
+      "2022-06",
+      "2022-07",
+      "2022-08",
+      "2022-09",
+      "2022-10",
+      "2022-11",
+      "2022-12",
+      "2023-01",
+      "2023-02",
+      "2023-03",
+      "2023-04",
+      "2023-05",
+      "2023-06",
+      "2023-07",
+      "2023-08",
+      "2023-09",
+      "2023-10",
+      "2023-11",
+      "2023-12",
+      "2024-01",
+      "2024-02",
+      "2024-03",
+      "2024-04",
+      "2024-05",
+      "2024-06",
+      "2024-07",
+      "2024-08",
+      "2024-09",
+      "2024-10",
+      "2024-11",
+      "2024-12"
+    ],
+    "values": [
+      23,
+      9,
+      24,
+      23,
+      26,
+      28,
+      30,
+      23,
+      18,
+      26,
+      30,
+      20,
+      27,
+      24,
+      24,
+      30,
+      36,
+      19,
+      29,
+      41,
+      27,
+      40,
+      27,
+      30,
+      38,
+      23,
+      30,
+      25,
+      34,
+      29,
+      29,
+      38,
+      45,
+      26,
+      28,
+      21
+    ]
+  },
+  "skill_by_job_title": {
+    "AI Engineer": [
+      "Vector Databases",
+      "Computer Vision",
+      "Llms",
+      "PyTorch",
+      "Openai Api"
+    ],
+    "Machine Learning Engineer": [
+      "PyTorch",
+      "Rest Apis",
+      "Azure",
+      "Model Deployment",
+      "Aws"
+    ],
+    "Frontend Developer": [
+      "Css",
+      "Vue.Js",
+      "Redux",
+      "Typescript",
+      "Html"
+    ],
+    "Business Intelligence Analyst": [
+      "Power Bi",
+      "Sql",
+      "Business Analysis",
+      "Etl",
+      "Tableau"
+    ],
+    "Data Scientist": [
+      "Scikitlearn",
+      "Machine Learning",
+      "Statistics",
+      "Data Visualization",
+      "NLP"
+    ],
+    "Cybersecurity Analyst": [
+      "Incident Response",
+      "Owasp",
+      "Firewalls",
+      "Ethical Hacking",
+      "Network Security"
+    ],
+    "DevOps Engineer": [
+      "GCP",
+      "Docker",
+      "Linux",
+      "Bash Scripting",
+      "Jenkins"
+    ],
+    "Data Analyst": [
+      "Statistics",
+      "Excel",
+      "Sql",
+      "Data Visualization",
+      "Pandas"
+    ],
+    "Full Stack Developer": [
+      "Sql",
+      "React",
+      "Rest Apis",
+      "Css",
+      "Aws"
+    ],
+    "Product Manager": [
+      "Product Strategy",
+      "Sql",
+      "User Research",
+      "Data Analysis",
+      "Roadmapping"
+    ],
+    "Cloud Architect": [
+      "Azure",
+      "GCP",
+      "Terraform",
+      "Security",
+      "Microservices"
+    ],
+    "Software Engineer": [
+      "Microservices",
+      "Python",
+      "Git",
+      "Java",
+      "C++"
+    ],
+    "Backend Developer": [
+      "Java",
+      "Python",
+      "Flask",
+      "Fastapi",
+      "Redis"
+    ],
+    "Data Engineer": [
+      "Python",
+      "Big Data",
+      "Kafka",
+      "Databricks",
+      "Dbt"
+    ],
+    "NLP Engineer": [
+      "Bert",
+      "Spacy",
+      "Nltk",
+      "Text Processing",
+      "Deep Learning"
+    ]
+  },
+  "remote_distribution": {
+    "labels": [
+      "Yes",
+      "No",
+      "Hybrid"
+    ],
+    "values": [
+      345,
+      332,
+      323
+    ]
+  },
+  "industry_distribution": {
+    "labels": [
+      "Fintech",
+      "Finance",
+      "E-commerce",
+      "EdTech",
+      "IT",
+      "Healthcare"
+    ],
+    "values": [
+      182,
+      181,
+      173,
+      168,
+      152,
+      144
+    ]
+  },
+  "correlation": {
+    "salary_inr": {
+      "salary_inr": 1.0,
+      "skill_count": -0.004,
+      "level_numeric": 0.953
+    },
+    "skill_count": {
+      "salary_inr": -0.004,
+      "skill_count": 1.0,
+      "level_numeric": 0.004
+    },
+    "level_numeric": {
+      "salary_inr": 0.953,
+      "skill_count": 0.004,
+      "level_numeric": 1.0
+    }
+  }
+}
