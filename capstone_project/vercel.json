@@ -2,14 +2,14 @@
   "version": 2,
   "builds": [
     {
-      "src": "app/app.py",
+      "src": "capstone_project/app/app.py",
       "use": "@vercel/python"
     }
   ],
   "routes": [
     {
       "src": "/(.*)",
-      "dest": "app/app.py"
+      "dest": "capstone_project/app/app.py"
     }
   ]
 }
