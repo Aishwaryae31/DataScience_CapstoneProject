@@ -15,7 +15,7 @@ from collections import Counter
 from flask import Flask, render_template, jsonify, request
 
 # Add project root to path
-BASE_DIR = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
+BASE_DIR = os.path.abspath(os.path.join(os.path.dirname(__file__), ".."))
 sys.path.insert(0, os.path.join(BASE_DIR, "scripts"))
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
