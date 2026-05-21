@@ -22,6 +22,7 @@ logging.basicConfig(level=logging.INFO, format="%(levelname)s: %(message)s")
 logger = logging.getLogger(__name__)
 
 app = Flask(__name__, template_folder="templates")
+app = app
 
 # ─── Paths ────────────────────────────────────────────────────────────────────
 PROCESSED_PATH = os.path.join(BASE_DIR, "data", "processed", "cleaned_jobs.csv")
@@ -216,6 +217,7 @@ def filters():
         return jsonify({"error": str(e)}), 500
 
 
+app.debug = False
+
 if __name__ == "__main__":
-    logger.info("Starting Skill Demand Dashboard...")
-    app.run(debug=True, port=5000)
+    app.run()
